@@ -1,0 +1,13 @@
+pair_id,toxin,target,status,confidence_score,iptm,complex_plddt,measured_pIC50
+ImI__alpha7,ImI,alpha7,real,0.8694,0.722,0.9062,
+ImII__alpha7,ImII,alpha7,real,0.8209,0.6858,0.8547,
+RgIA__alpha9,RgIA,alpha9,real,0.8688,0.7608,0.8957,
+RgIA__alpha9alpha10,RgIA,alpha9alpha10,real,0.9051,0.8537,0.918,8.284
+Vc11__alpha9,Vc1.1,alpha9,real,0.852,0.7511,0.8773,6.795
+Vc11__alpha9alpha10,Vc1.1,alpha9alpha10,real,0.8463,0.7504,0.8702,6.042
+Vc11__alpha3beta2,Vc1.1,alpha3beta2,real,0.9111,0.8483,0.9268,6.634
+Vc11__alpha3beta4,Vc1.1,alpha3beta4,real,0.8794,0.817,0.895,4.961
+Vc11__alpha6_alpha3beta2beta3,Vc1.1,alpha6_alpha3beta2beta3,real,0.8654,0.8043,0.8807,6.346
+Vc11__alpha6_alpha3beta4,Vc1.1,alpha6_alpha3beta4,real,0.8619,0.696,0.9034,5.429
+PeIA__alpha9alpha10,PeIA,alpha9alpha10,real,0.8209,0.5612,0.8858,7.26
+PeIA__alpha3beta2,PeIA,alpha3beta2,real,0.8967,0.8778,0.9014,7.011

@@ -1,0 +1,363 @@
+{
+  "7EGR_ligand_P.pdb": [
+    {
+      "file": "RgIA_2JUT_m01.pdb",
+      "atoms": 105,
+      "allatom": 4.453,
+      "backbone": 2.397,
+      "ca": 2.117
+    },
+    {
+      "file": "RgIA_2JUT_m02.pdb",
+      "atoms": 105,
+      "allatom": 4.307,
+      "backbone": 2.365,
+      "ca": 2.028
+    },
+    {
+      "file": "RgIA_2JUT_m03.pdb",
+      "atoms": 105,
+      "allatom": 3.826,
+      "backbone": 2.296,
+      "ca": 2.042
+    },
+    {
+      "file": "RgIA_2JUT_m04.pdb",
+      "atoms": 105,
+      "allatom": 3.975,
+      "backbone": 2.258,
+      "ca": 1.878
+    },
+    {
+      "file": "RgIA_2JUT_m05.pdb",
+      "atoms": 105,
+      "allatom": 4.626,
+      "backbone": 2.119,
+      "ca": 1.958
+    },
+    {
+      "file": "RgIA_2JUT_m06.pdb",
+      "atoms": 105,
+      "allatom": 4.409,
+      "backbone": 2.209,
+      "ca": 2.165
+    },
+    {
+      "file": "RgIA_2JUT_m07.pdb",
+      "atoms": 105,
+      "allatom": 4.656,
+      "backbone": 2.13,
+      "ca": 2.12
+    },
+    {
+      "file": "RgIA_2JUT_m08.pdb",
+      "atoms": 105,
+      "allatom": 4.526,
+      "backbone": 1.932,
+      "ca": 1.831
+    },
+    {
+      "file": "RgIA_2JUT_m09.pdb",
+      "atoms": 105,
+      "allatom": 4.366,
+      "backbone": 2.315,
+      "ca": 2.064
+    },
+    {
+      "file": "RgIA_2JUT_m10.pdb",
+      "atoms": 105,
+      "allatom": 4.852,
+      "backbone": 2.518,
+      "ca": 2.236
+    },
+    {
+      "file": "RgIA_2JUT_m11.pdb",
+      "atoms": 105,
+      "allatom": 4.15,
+      "backbone": 2.295,
+      "ca": 2.015
+    },
+    {
+      "file": "RgIA_2JUT_m12.pdb",
+      "atoms": 105,
+      "allatom": 4.261,
+      "backbone": 1.966,
+      "ca": 1.766
+    },
+    {
+      "file": "RgIA_2JUT_m13.pdb",
+      "atoms": 105,
+      "allatom": 4.216,
+      "backbone": 2.386,
+      "ca": 2.144
+    },
+    {
+      "file": "RgIA_2JUT_m14.pdb",
+      "atoms": 105,
+      "allatom": 4.561,
+      "backbone": 2.301,
+      "ca": 1.998
+    },
+    {
+      "file": "RgIA_2JUT_m15.pdb",
+      "atoms": 105,
+      "allatom": 3.439,
+      "backbone": 1.986,
+      "ca": 1.71
+    },
+    {
+      "file": "RgIA_2JUT_m16.pdb",
+      "atoms": 105,
+      "allatom": 4.384,
+      "backbone": 2.444,
+      "ca": 2.111
+    },
+    {
+      "file": "RgIA_2JUT_m17.pdb",
+      "atoms": 105,
+      "allatom": 4.852,
+      "backbone": 2.213,
+      "ca": 2.129
+    },
+    {
+      "file": "RgIA_2JUT_m18.pdb",
+      "atoms": 105,
+      "allatom": 3.711,
+      "backbone": 1.298,
+      "ca": 1.277
+    },
+    {
+      "file": "RgIA_2JUT_m19.pdb",
+      "atoms": 105,
+      "allatom": 3.248,
+      "backbone": 1.863,
+      "ca": 1.496
+    },
+    {
+      "file": "RgIA_2JUT_m20.pdb",
+      "atoms": 105,
+      "allatom": 3.939,
+      "backbone": 2.34,
+      "ca": 2.088
+    },
+    {
+      "file": "RgIA_bound_7EGR_Q.pdb",
+      "atoms": 105,
+      "allatom": 2.526,
+      "backbone": 0.697,
+      "ca": 0.677
+    }
+  ],
+  "9NX0_ligand_I.pdb": [
+    {
+      "file": "ImI_1G2G_m01.pdb",
+      "atoms": 90,
+      "allatom": 1.096,
+      "backbone": 0.761,
+      "ca": 0.638
+    },
+    {
+      "file": "ImI_1G2G_m02.pdb",
+      "atoms": 90,
+      "allatom": 1.639,
+      "backbone": 1.056,
+      "ca": 0.959
+    },
+    {
+      "file": "ImI_1G2G_m03.pdb",
+      "atoms": 90,
+      "allatom": 1.408,
+      "backbone": 1.034,
+      "ca": 0.952
+    },
+    {
+      "file": "ImI_1G2G_m04.pdb",
+      "atoms": 90,
+      "allatom": 1.484,
+      "backbone": 0.836,
+      "ca": 0.785
+    },
+    {
+      "file": "ImI_1G2G_m05.pdb",
+      "atoms": 90,
+      "allatom": 1.255,
+      "backbone": 1.058,
+      "ca": 0.923
+    },
+    {
+      "file": "ImI_1G2G_m06.pdb",
+      "atoms": 90,
+      "allatom": 2.085,
+      "backbone": 0.978,
+      "ca": 0.896
+    },
+    {
+      "file": "ImI_1G2G_m07.pdb",
+      "atoms": 90,
+      "allatom": 2.116,
+      "backbone": 1.018,
+      "ca": 0.913
+    },
+    {
+      "file": "ImI_1G2G_m08.pdb",
+      "atoms": 90,
+      "allatom": 1.367,
+      "backbone": 0.976,
+      "ca": 0.898
+    },
+    {
+      "file": "ImI_1G2G_m09.pdb",
+      "atoms": 90,
+      "allatom": 1.268,
+      "backbone": 0.872,
+      "ca": 0.811
+    },
+    {
+      "file": "ImI_1G2G_m10.pdb",
+      "atoms": 90,
+      "allatom": 1.314,
+      "backbone": 1.002,
+      "ca": 0.91
+    },
+    {
+      "file": "ImI_1G2G_m11.pdb",
+      "atoms": 90,
+      "allatom": 1.33,
+      "backbone": 1.064,
+      "ca": 1.007
+    },
+    {
+      "file": "ImI_1G2G_m12.pdb",
+      "atoms": 90,
+      "allatom": 1.239,
+      "backbone": 1.077,
+      "ca": 0.962
+    },
+    {
+      "file": "ImI_1G2G_m13.pdb",
+      "atoms": 90,
+      "allatom": 1.324,
+      "backbone": 0.901,
+      "ca": 0.85
+    },
+    {
+      "file": "ImI_1G2G_m14.pdb",
+      "atoms": 90,
+      "allatom": 1.987,
+      "backbone": 0.937,
+      "ca": 0.879
+    },
+    {
+      "file": "ImI_1G2G_m15.pdb",
+      "atoms": 90,
+      "allatom": 1.398,
+      "backbone": 0.975,
+      "ca": 0.896
+    },
+    {
+      "file": "ImI_1G2G_m16.pdb",
+      "atoms": 90,
+      "allatom": 2.131,
+      "backbone": 0.982,
+      "ca": 0.894
+    },
+    {
+      "file": "ImI_1G2G_m17.pdb",
+      "atoms": 90,
+      "allatom": 1.213,
+      "backbone": 1.002,
+      "ca": 0.917
+    },
+    {
+      "file": "ImI_1G2G_m18.pdb",
+      "atoms": 90,
+      "allatom": 1.577,
+      "backbone": 1.119,
+      "ca": 1.064
+    },
+    {
+      "file": "ImI_1G2G_m19.pdb",
+      "atoms": 90,
+      "allatom": 1.135,
+      "backbone": 0.799,
+      "ca": 0.717
+    },
+    {
+      "file": "ImI_1G2G_m20.pdb",
+      "atoms": 90,
+      "allatom": 1.328,
+      "backbone": 0.947,
+      "ca": 0.849
+    },
+    {
+      "file": "ImI_1G2G_m21.pdb",
+      "atoms": 90,
+      "allatom": 1.27,
+      "backbone": 0.885,
+      "ca": 0.817
+    },
+    {
+      "file": "ImI_1G2G_m22.pdb",
+      "atoms": 90,
+      "allatom": 2.018,
+      "backbone": 1.08,
+      "ca": 0.99
+    },
+    {
+      "file": "ImI_1G2G_m23.pdb",
+      "atoms": 90,
+      "allatom": 1.866,
+      "backbone": 1.128,
+      "ca": 1.035
+    },
+    {
+      "file": "ImI_1G2G_m24.pdb",
+      "atoms": 90,
+      "allatom": 1.022,
+      "backbone": 0.702,
+      "ca": 0.63
+    },
+    {
+      "file": "ImI_1G2G_m25.pdb",
+      "atoms": 90,
+      "allatom": 1.258,
+      "backbone": 0.925,
+      "ca": 0.869
+    },
+    {
+      "file": "ImI_1G2G_m26.pdb",
+      "atoms": 90,
+      "allatom": 1.814,
+      "backbone": 1.062,
+      "ca": 1.001
+    },
+    {
+      "file": "ImI_1G2G_m27.pdb",
+      "atoms": 90,
+      "allatom": 1.591,
+      "backbone": 1.176,
+      "ca": 1.131
+    },
+    {
+      "file": "ImI_1G2G_m28.pdb",
+      "atoms": 90,
+      "allatom": 1.94,
+      "backbone": 0.899,
+      "ca": 0.839
+    },
+    {
+      "file": "ImI_1G2G_m29.pdb",
+      "atoms": 90,
+      "allatom": 1.873,
+      "backbone": 0.861,
+      "ca": 0.763
+    },
+    {
+      "file": "ImI_1G2G_m30.pdb",
+      "atoms": 90,
+      "allatom": 1.76,
+      "backbone": 0.97,
+      "ca": 0.869
+    }
+  ]
+}

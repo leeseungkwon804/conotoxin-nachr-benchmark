@@ -1,0 +1,134 @@
+[
+  {
+    "run": "A1_9NX0_BLIND_rep1",
+    "n_swarm_centres": 390,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 13.87945953012374,
+    "min_dist_centre_to_nearest_native_atom_A": 7.179276425924399,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 10,
+    "n_centres_touching_native_ligand": 4,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A1_9NX0_BLIND_rep2",
+    "n_swarm_centres": 390,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 13.87945953012374,
+    "min_dist_centre_to_nearest_native_atom_A": 7.179276425924399,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 10,
+    "n_centres_touching_native_ligand": 4,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A1_9NX0_XDON_rep1",
+    "n_swarm_centres": 390,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 14.61464051288257,
+    "min_dist_centre_to_nearest_native_atom_A": 6.8041567442080435,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 56,
+    "n_centres_touching_native_ligand": 8,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A1_9NX0_XDON_rep2",
+    "n_swarm_centres": 390,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 14.61464051288257,
+    "min_dist_centre_to_nearest_native_atom_A": 6.8041567442080435,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 56,
+    "n_centres_touching_native_ligand": 8,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A1_9NX0_NATIVE_rep1",
+    "n_swarm_centres": 392,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 13.62450970836635,
+    "min_dist_centre_to_nearest_native_atom_A": 5.659514908523939,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 56,
+    "n_centres_touching_native_ligand": 12,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A1_9NX0_NATIVE_rep2",
+    "n_swarm_centres": 392,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 13.62450970836635,
+    "min_dist_centre_to_nearest_native_atom_A": 5.659514908523939,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 56,
+    "n_centres_touching_native_ligand": 12,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A2_7EGR_BLIND_rep1",
+    "n_swarm_centres": 134,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 6.075657865357973,
+    "min_dist_centre_to_nearest_native_atom_A": 0.6892358087037445,
+    "n_centres_within_radius_of_centroid": 5,
+    "n_centres_within_2radius_of_centroid": 23,
+    "n_centres_touching_native_ligand": 15,
+    "native_site_sampled": true
+  },
+  {
+    "run": "A2_7EGR_BLIND_rep2",
+    "n_swarm_centres": 134,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 6.075657865357973,
+    "min_dist_centre_to_nearest_native_atom_A": 0.6892358087037445,
+    "n_centres_within_radius_of_centroid": 5,
+    "n_centres_within_2radius_of_centroid": 23,
+    "n_centres_touching_native_ligand": 15,
+    "native_site_sampled": true
+  },
+  {
+    "run": "A2_7EGR_XDON_rep1",
+    "n_swarm_centres": 134,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 10.673381735786299,
+    "min_dist_centre_to_nearest_native_atom_A": 4.449052595777857,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 120,
+    "n_centres_touching_native_ligand": 57,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A2_7EGR_XDON_rep2",
+    "n_swarm_centres": 134,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 10.673381735786299,
+    "min_dist_centre_to_nearest_native_atom_A": 4.449052595777857,
+    "n_centres_within_radius_of_centroid": 0,
+    "n_centres_within_2radius_of_centroid": 120,
+    "n_centres_touching_native_ligand": 57,
+    "native_site_sampled": false
+  },
+  {
+    "run": "A2_7EGR_NATIVE_rep1",
+    "n_swarm_centres": 132,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 8.812982954909849,
+    "min_dist_centre_to_nearest_native_atom_A": 1.8870728655786195,
+    "n_centres_within_radius_of_centroid": 1,
+    "n_centres_within_2radius_of_centroid": 68,
+    "n_centres_touching_native_ligand": 43,
+    "native_site_sampled": true
+  },
+  {
+    "run": "A2_7EGR_NATIVE_rep2",
+    "n_swarm_centres": 132,
+    "swarm_radius_A": 10.0,
+    "min_dist_centre_to_native_centroid_A": 8.812982954909849,
+    "min_dist_centre_to_nearest_native_atom_A": 1.8870728655786195,
+    "n_centres_within_radius_of_centroid": 1,
+    "n_centres_within_2radius_of_centroid": 68,
+    "n_centres_touching_native_ligand": 43,
+    "native_site_sampled": true
+  }
+]

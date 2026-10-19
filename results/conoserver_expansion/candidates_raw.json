@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "P00002",
+    "name": "GI [S12>Benzoylphenylalanine]",
+    "sequence": "ECCNPACGRHYXC",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "alpha-Conotoxin GI benzoylphenylalanine derivatives. (1)H-NMR structures and photoaffinity labeling of the Torpedo californica nicotinic acetylcholine receptor"
+    ]
+  },
+  {
+    "id": "P00003",
+    "name": "GI [N4>Benzoylphenylalanine]",
+    "sequence": "ECCXPACGRHYSC",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "alpha-Conotoxin GI benzoylphenylalanine derivatives. (1)H-NMR structures and photoaffinity labeling of the Torpedo californica nicotinic acetylcholine receptor"
+    ]
+  },
+  {
+    "id": "P00004",
+    "name": "Vc1.1",
+    "sequence": "GCCSDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 20,
+    "titles": [
+      "The synthesis, structural characterization, and receptor specificity of the alpha-conotoxin Vc1.1",
+      "A novel alpha-conotoxin identified by gene sequencing is active in suppressing the vascular response to selective stimulation of sensory nerves in vivo",
+      "Alpha-conotoxin Vc1.1 alleviates neuropathic pain and accelerates functional recovery of injured neurones",
+      "Embryonic toxin expression in the cone snail Conus victoriae: primed to kill or divergent function?",
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Molecular mechanism for analgesia involving specific antagonism of alpha9alpha10 nicotinic acetylcholine receptors.",
+      "Key Structural Determinants in the Agonist Binding Loops of Human &beta;2 and &beta;4 Nicotinic Acetylcholine Receptor Subunits Contribute to &alpha;3&beta;4 Subtype Selectivity of &alpha;-Conotoxins.",
+      "A novel mechanism of inhibition of high-voltage activated calcium channels by &alpha;-conotoxins contributes to relief of nerve injury-induced neuropathic pain.",
+      "Are alpha9alpha10 nicotinic acetylcholine receptors a pain target for alpha-conotoxins?",
+      "Analgesic alpha-conotoxins Vc1.1 and Rg1A inhibit N-type calcium channels in rat sensory neurons via GABAB receptor activation.",
+      "Determination of the &alpha;-Conotoxin Vc1.1 Binding Site on the &alpha;9&alpha;10 Nicotinic Acetylcholine Receptor.",
+      "Role of CysI-CysIII Disulfide Bond on the Structure and Activity of &alpha;-Conotoxins at Human Neuronal Nicotinic Acetylcholine Receptors",
+      "Dimerization of &alpha;-Conotoxins as a Strategy to Enhance the Inhibition of the Human &alpha;7 and &alpha;9&alpha;10 Nicotinic Acetylcholine Receptors",
+      "&alpha;-Conotoxin Vc1.1 Structure-Activity Relationship at the Human &alpha;9&alpha;10 Nicotinic Acetylcholine Receptor Investigated by Minimal Side Chain Replacement",
+      "Molecular Determinants Conferring the Stoichiometric-Dependent Activity of &alpha;-Conotoxins at the Human &alpha;9&alpha;10 Nicotinic Acetylcholine Receptor Subtype",
+      "Targeting of N-Type Calcium Channels via GABAB-Receptor Activation by &alpha;-Conotoxin Vc1.1 Variants Displaying Improved Analgesic Activity",
+      "Analgesic &alpha;-conotoxins Vc1.1 and RgIA inhibit N-type calcium channels in sensory neurons of &alpha;9 nicotinic receptor knockout mice.",
+      "&alpha;-Conotoxin Vc1.1 inhibits human dorsal root ganglion neuroexcitability and mouse colonic nociception via GABA<sub>B</sub> receptors.",
+      "Alkyne-Bridged &alpha;-Conotoxin Vc1.1 Potently Reverses Mechanical Allodynia in Neuropathic Pain Models.",
+      "Analgesic &alpha;-conotoxins modulate native and recombinant GIRK1/2 channels via activation of GABAB receptors and reduce neuroexcitability."
+    ]
+  },
+  {
+    "id": "P00006",
+    "name": "OmIA",
+    "sequence": "GCCSHPACNVNNPHICGX",
+    "organism": "Conus omaria",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a3b2",
+      "a6",
+      "a7"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "Alpha-conotoxin OmIA is a potent ligand for the acetylcholine-binding protein as well as alpha3beta2 and alpha7 nicotinic acetylcholine receptors",
+      "Solution conformation of a neuronal nicotinic acetylcholine receptor antagonist alpha-conotoxin OmIA that discriminates alpha3 vs. alpha6 nAChR subtypes",
+      "Species specificity of rat and human &alpha;7 nicotinic acetylcholine receptors towards different classes of peptide and protein antagonists",
+      "Unique Pharmacological Properties of &alpha;-Conotoxin OmIA at &alpha;7 nAChRs."
+    ]
+  },
+  {
+    "id": "P00010",
+    "name": "ImI",
+    "sequence": "GCCSDPRCAWRCX",
+    "organism": "Conus imperialis",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 26,
+    "titles": [
+      "A nicotinic acetylcholine receptor ligand of unique specificity, alpha-conotoxin ImI",
+      "Functional Determinants By Which Snake And Cone Snail Toxins Block The Alpha 7 Neuronal Nicotinic Acetylcholine Receptors",
+      "Identification of residues in the neuronal alpha7 acetylcholine receptor that confer selectivity for conotoxin ImI",
+      "NMR spatial structure of alpha-conotoxin ImI reveals a common scaffold in snail and snake toxins recognizing neuronal nicotinic acetylcholine receptors",
+      "NMR solution structure of alpha-conotoxin ImI and comparison to other conotoxins specific for neuronal nicotinic acetylcholine receptors",
+      "Minimal conformation of the alpha-conotoxin ImI for the alpha7 neuronal nicotinic acetylcholine receptor recognition: correlated CD, NMR and binding studies",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "alpha-Conotoxins ImI and ImII: similar alpha 7 nicotinic receptor antagonists act at different sites",
+      "Solution structure of alpha-conotoxin ImI by 1H nuclear magnetic resonance",
+      "Structures Of Aplysia Achbp Complexes With Nicotinic Agonists And Antagonists Reveal Distinctive Binding Interfaces And Conformations",
+      "Structural determinants of selective alpha-conotoxin binding to a nicotinic acetylcholine receptor homolog AChBP",
+      "Alpha-selenoconotoxins, a new class of potent alpha7 neuronal nicotinic receptor antagonists",
+      "Alpha-conotoxins ImI and ImII target distinct regions of the human alpha7 nicotinic acetylcholine receptor and distinguish human nicotinic receptor subtypes.",
+      "Blockade of neuronal &alpha;7-nAChR by &alpha;-conotoxin ImI explained by computational scanning and energy calculations.",
+      "Rational design of alpha-conotoxin analogues targeting alpha7 nicotinic acetylcholine receptors: improved antagonistic activity by incorporation of proline derivatives.",
+      "A synthetic combinatorial strategy for developing alpha-conotoxin analogs as potent alpha7 nicotinic acetylcholine receptor antagonists.",
+      "Aromatic substitutions in alpha-conotoxin ImI. Synthesis of iodinated photoactivatable derivative.",
+      "Delineation of the unbinding pathway of &alpha;-conotoxin ImI from the &alpha;7 nicotinic acetylcholine receptor.",
+      "Blockade of Human &alpha;7 Nicotinic Acetylcholine Receptor by &alpha;-Conotoxin ImI Dendrimer: Insight from Computational Simulations",
+      "Role of CysI-CysIII Disulfide Bond on the Structure and Activity of &alpha;-Conotoxins at Human Neuronal Nicotinic Acetylcholine Receptors",
+      "&alpha;-Conotoxin dendrimers have enhanced potency and selectivity for homomeric nicotinic acetylcholine receptors",
+      "&alpha;-Conotoxin ImI-modified polymeric micelles as potential nanocarriers for targeted docetaxel delivery to &alpha;7-nAChR overexpressed non-small cell lung cancer",
+      "In vivo and in vitro testing of native &alpha;-conotoxins from the injected venom of Conus purpurascens",
+      "&alpha;-Conotoxin ImI incorporating stable cystathionine bridges maintains full potency and identical three-dimensional structure",
+      "Screening and Validation of Highly-Efficient Insecticidal Conotoxins from a Transcriptome-Based Dataset of Chinese Tubular Cone Snail",
+      "Residues Responsible for the Selectivity of &alpha;-Conotoxins for Ac-AChBP or nAChRs."
+    ]
+  },
+  {
+    "id": "P00023",
+    "name": "MI",
+    "sequence": "GRCCHPACGKNYSCX",
+    "organism": "Conus magus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a7",
+      "muscle"
+    ],
+    "n_refs": 10,
+    "titles": [
+      "Isolation and structure of a peptide toxin from the marine snail Conus magus",
+      "Conotoxin MI. Disulfide bonding and conformational states",
+      "Critical residues influence the affinity and selectivity of alpha-conotoxin MI for nicotinic acetylcholine receptors",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "Conotoxin truncation as a post-translational modification to increase the pharmacological diversity within the milked venom of Conus magus.",
+      "Interactions between alpha-conotoxin MI and the Torpedo marmorata receptor alpha-delta interface.",
+      "Molecular dissection of subunit interfaces in the acetylcholine receptor: identification of determinants of alpha-conotoxin M1 selectivity.",
+      "&alpha;-Conotoxin M1 (CTx) blocks &alpha;&delta; binding sites of adult nicotinic receptors while ACh binding at &alpha;&epsilon; sites elicits only small and short quantal synaptic currents.",
+      "Agonists binding nicotinic receptors elicit specific channel-opening patterns at &alpha;\u00ce\u00b3 and &alpha;\u00ce\u00b4 sites.",
+      "The 3/4- and 3/6-Subfamily Variants of &alpha;-Conotoxins GI and MI Exhibit Potent Inhibitory Activity against Muscular Nicotinic Acetylcholine Receptors"
+    ]
+  },
+  {
+    "id": "P00030",
+    "name": "RgIA [P6O,del13]",
+    "sequence": "GCCSDPRCRYRCX",
+    "organism": "Conus regius",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 3,
+    "titles": [
+      "Hyperhydroxylation: a new strategy for neuronal targeting by venomous marine molluscs",
+      "Alpha-RgIA, a novel conotoxin that blocks the alpha9alpha10 nAChR: structure and identification of key receptor-binding residues.",
+      "Effects of cyclization on stability, structure, and activity of &alpha;-conotoxin RgIA at the &alpha;9&alpha;10 nicotinic acetylcholine receptor and GABA(B) receptor."
+    ]
+  },
+  {
+    "id": "P00033",
+    "name": "ImI [R11E]",
+    "sequence": "GCCSDPRCAWECX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "A nicotinic acetylcholine receptor ligand of unique specificity, alpha-conotoxin ImI",
+      "NMR solution structure of alpha-conotoxin ImI and comparison to other conotoxins specific for neuronal nicotinic acetylcholine receptors",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "Structure-activity relationships in a peptidic alpha7 nicotinic acetylcholine receptor antagonist"
+    ]
+  },
+  {
+    "id": "P00034",
+    "name": "ImI [R7L]",
+    "sequence": "GCCSDPLCAWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "A nicotinic acetylcholine receptor ligand of unique specificity, alpha-conotoxin ImI",
+      "NMR solution structure of alpha-conotoxin ImI and comparison to other conotoxins specific for neuronal nicotinic acetylcholine receptors",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "Structure-activity relationships in a peptidic alpha7 nicotinic acetylcholine receptor antagonist"
+    ]
+  },
+  {
+    "id": "P00035",
+    "name": "ImI [D5N]",
+    "sequence": "GCCSNPRCAWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 5,
+    "titles": [
+      "Functional Determinants By Which Snake And Cone Snail Toxins Block The Alpha 7 Neuronal Nicotinic Acetylcholine Receptors",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "Structure-activity relationships in a peptidic alpha7 nicotinic acetylcholine receptor antagonist",
+      "Pairwise interactions between neuronal alpha7 acetylcholine receptors and alpha-conotoxin ImI.",
+      "Structural elements in alpha-conotoxin ImI essential for binding to neuronal alpha7 receptors."
+    ]
+  },
+  {
+    "id": "P00039",
+    "name": "MII",
+    "sequence": "GCCSNPVCHLEHSNLCX",
+    "organism": "Conus magus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a3b2",
+      "a6"
+    ],
+    "n_refs": 16,
+    "titles": [
+      "A new alpha-conotoxin which targets alpha3beta2 nicotinic acetylcholine receptors",
+      "Three-dimensional solution structure of alpha-conotoxin MII, an alpha3beta2 neuronal nicotinic acetylcholine receptor-targeted ligand",
+      "Three-dimensional solution structure of alpha-conotoxin MII by NMR spectroscopy: effects of solution environment on helicity",
+      "Determinants of potency on alpha-conotoxin MII, a peptide antagonist of neuronal nicotinic receptors",
+      "Engineering of &alpha;-conotoxin MII-derived peptides with increased selectivity for native &alpha;6&beta;2* nicotinic acetylcholine receptors.",
+      "Analogs of alpha-conotoxin MII are selective for alpha6-containing nicotinic acetylcholine receptors.",
+      "A novel mechanism of inhibition of high-voltage activated calcium channels by &alpha;-conotoxins contributes to relief of nerve injury-induced neuropathic pain.",
+      "Determinants of specificity for alpha-conotoxin MII on alpha3beta2 neuronal nicotinic receptors.",
+      "Beta2 subunit contribution to 4/7 alpha-conotoxin binding to the nicotinic acetylcholine receptor.",
+      "Intrathecal &alpha;-conotoxins Vc1.1, AuIB and MII acting on distinct nicotinic receptor subtypes reverse signs of neuropathic pain.",
+      "Conotoxin truncation as a post-translational modification to increase the pharmacological diversity within the milked venom of Conus magus.",
+      "Nigrostriatal damage preferentially decreases a subpopulation of alpha6beta2* nAChRs in mouse, monkey, and Parkinson",
+      "&alpha;-Conotoxins Enhance both the In Vivo Suppression of Ehrlich carcinoma Growth and In Vitro Reduction in Cell Viability Elicited by Cyclooxygenase and Lipoxygenase Inhibitors",
+      "Efficient binding of 4/7 &alpha;-conotoxins to nicotinic &alpha;4&beta;2 receptors is prevented by Arg185 and Pro195 in the &alpha;4 subunit",
+      "Computational and Functional Mapping of Human and Rat &alpha;6&beta;4 Nicotinic Acetylcholine Receptors Reveals Species-Specific Ligand-Binding Motifs.",
+      "&alpha;-Conotoxins and &alpha;-Cobratoxin Promote, while Lipoxygenase and Cyclooxygenase Inhibitors Suppress the Proliferation of Glioma C6 Cells."
+    ]
+  },
+  {
+    "id": "P00050",
+    "name": "EI",
+    "sequence": "RDPCCYHPTCNMSNPQICX",
+    "organism": "Conus ermineus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "alpha-Conotoxin EI, a new nicotinic acetylcholine receptor antagonist with novel selectivity",
+      "Solution conformation of alpha-conotoxin EI, a neuromuscular toxin specific for the alpha 1/delta subunit interface of torpedo nicotinic acetylcholine receptor",
+      "Novel alpha-conotoxins from Conus spurius and the alpha-conotoxin EI share high-affinity potentiation and low-affinity inhibition of nicotinic acetylcholine receptors.",
+      "Identification of Crucial Residues in &alpha;-Conotoxin EI Inhibiting Muscle Nicotinic Acetylcholine Receptor"
+    ]
+  },
+  {
+    "id": "P00074",
+    "name": "GI",
+    "sequence": "ECCNPACGRHYSCX",
+    "organism": "Conus geographus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 9,
+    "titles": [
+      "Peptide toxins from Conus geographus venom",
+      "Determinants involved in the affinity of alpha-conotoxins GI and SI for the muscle subtype of nicotinic acetylcholine receptors",
+      "Three-dimensional structure of the alpha-conotoxin GI at 1.2 A resolution",
+      "Solution structures of alpha-conotoxin G1 determined by two-dimensional NMR spectroscopy",
+      "Structure determination of the three disulfide bond isomers of alpha-conotoxin GI: a model for the role of disulfide bonds in structural stability",
+      "alpha-Conotoxin ImI exhibits subtype-specific nicotinic acetylcholine receptor blockade: preferential inhibition of homomeric alpha 7 and alpha 9 receptors",
+      "Alanine-Scanning Mutagenesis of &alpha;-Conotoxin GI Reveals the Residues Crucial for Activity at the Muscle Acetylcholine Receptor",
+      "The 3/4- and 3/6-Subfamily Variants of &alpha;-Conotoxins GI and MI Exhibit Potent Inhibitory Activity against Muscular Nicotinic Acetylcholine Receptors",
+      "Cysteine-Rich &alpha;-Conotoxin SII Displays Novel Interactions at the Muscle Nicotinic Acetylcholine Receptor."
+    ]
+  },
+  {
+    "id": "P00095",
+    "name": "AuIB",
+    "sequence": "GCCSYPPCFATNPDCX",
+    "organism": "Conus aulicus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a3b4"
+    ],
+    "n_refs": 10,
+    "titles": [
+      "A New Level of Conotoxin Diversity, a Non-native Disulfide Bond Connectivity in alpha -Conotoxin AuIB Reduces Structural Definition but Increases Biological Activity",
+      "alpha-conotoxin AuIB selectively blocks alpha3 beta4 nicotinic acetylcholine receptors and nicotine-evoked norepinephrine release",
+      "Nuclear magnetic resonance solution conformation of alpha-conotoxin AuIB, an alpha(3)beta(4) subtype-selective neuronal nicotinic acetylcholine receptor antagonist",
+      "Stabilization of &alpha;-conotoxin AuIB: influences of disulfide connectivity and backbone cyclization.",
+      "A novel mechanism of inhibition of high-voltage activated calcium channels by &alpha;-conotoxins contributes to relief of nerve injury-induced neuropathic pain.",
+      "Alpha-conotoxin AuIB isomers exhibit distinct inhibitory mechanisms and differential sensitivity to stoichiometry of alpha3beta4 nicotinic acetylcholine receptors.",
+      "Intrathecal &alpha;-conotoxins Vc1.1, AuIB and MII acting on distinct nicotinic receptor subtypes reverse signs of neuropathic pain.",
+      "Alpha-conotoxins EpI and AuIB switch subtype selectivity and activity in native versus recombinant nicotinic acetylcholine receptors.",
+      "Role of CysI-CysIII Disulfide Bond on the Structure and Activity of &alpha;-Conotoxins at Human Neuronal Nicotinic Acetylcholine Receptors",
+      "Stoichiometry dependent inhibition of rat &alpha;3&beta;4 nicotinic acetylcholine receptor by the ribbon isomer of &alpha;-conotoxin AuIB"
+    ]
+  },
+  {
+    "id": "P00132",
+    "name": "GIC",
+    "sequence": "GCCSHPACAGNNQHICX",
+    "organism": "Conus geographus",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a3b2"
+    ],
+    "n_refs": 3,
+    "titles": [
+      "Alpha-conotoxin GIC from Conus geographus, a novel peptide antagonist of nicotinic acetylcholine receptors",
+      "Solution conformation of alpha-conotoxin GIC, a novel potent antagonist of alpha3beta2 nicotinic acetylcholine receptors",
+      "Residues Responsible for the Selectivity of &alpha;-Conotoxins for Ac-AChBP or nAChRs."
+    ]
+  },
+  {
+    "id": "P00404",
+    "name": "AuIA",
+    "sequence": "GCCSYPPCFATNSDYCX",
+    "organism": "Conus aulicus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a3b4"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "alpha-conotoxin AuIB selectively blocks alpha3 beta4 nicotinic acetylcholine receptors and nicotine-evoked norepinephrine release"
+    ]
+  },
+  {
+    "id": "P00407",
+    "name": "AuIC",
+    "sequence": "GCCSYPPCFATNSGYCX",
+    "organism": "Conus aulicus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "a3b4"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "alpha-conotoxin AuIB selectively blocks alpha3 beta4 nicotinic acetylcholine receptors and nicotine-evoked norepinephrine release"
+    ]
+  },
+  {
+    "id": "P00595",
+    "name": "PIA",
+    "sequence": "RDPCCSNPVCTVHNPQICX",
+    "organism": "Conus purpurascens",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a6"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "Alpha-conotoxin PIA is selective for alpha6 subunit-containing nicotinic acetylcholine receptors",
+      "Solution structure of alpha-conotoxin PIA, a novel antagonist of alpha6 subunit containing nicotinic acetylcholine receptors",
+      "Engineering of &alpha;-conotoxin MII-derived peptides with increased selectivity for native &alpha;6&beta;2* nicotinic acetylcholine receptors.",
+      "Accelerated proteomic visualization of individual predatory venoms of Conus purpurascens reveals separately evolved predation-evoked venom cabals"
+    ]
+  },
+  {
+    "id": "P01635",
+    "name": "EIVA",
+    "sequence": "GCCGPYPNAACHPCGCKVGRPPYCDRPSGGX",
+    "organism": "Conus ermineus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Differential targeting of nicotinic acetylcholine receptors by novel alphaA-conotoxins",
+      "Solution conformation of alphaA-conotoxin EIVA, a potent neuromuscular nicotinic acetylcholine receptor antagonist from Conus ermineus"
+    ]
+  },
+  {
+    "id": "P01688",
+    "name": "OIVB",
+    "sequence": "CCGVPNAACPPCVCNKTCGX",
+    "organism": "Conus obscurus",
+    "protein_type": null,
+    "evidence": "protein level",
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Definition and characterization of the short alphaA-conotoxins: a single residue determines dissociation kinetics from the fetal muscle nicotinic acetylcholine receptor",
+      "A uniquely selective inhibitor of the mammalian fetal neuromuscular nicotinic acetylcholine receptor"
+    ]
+  },
+  {
+    "id": "P02478",
+    "name": "ImI [C2U,C8U]",
+    "sequence": "GCCSDPRCAWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Alpha-selenoconotoxins, a new class of potent alpha7 neuronal nicotinic receptor antagonists"
+    ]
+  },
+  {
+    "id": "P02479",
+    "name": "ImI [C2U,C3U,C8U,C12U]",
+    "sequence": "GCCSDPRCAWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Alpha-selenoconotoxins, a new class of potent alpha7 neuronal nicotinic receptor antagonists"
+    ]
+  },
+  {
+    "id": "P02585",
+    "name": "RgIA",
+    "sequence": "GCCSDPRCRYRCR",
+    "organism": "Conus regius",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 14,
+    "titles": [
+      "Alpha-RgIA: a novel conotoxin that specifically and potently blocks the alpha9alpha10 nAChR",
+      "Alpha-RgIA, a novel conotoxin that blocks the alpha9alpha10 nAChR: structure and identification of key receptor-binding residues.",
+      "Key Structural Determinants in the Agonist Binding Loops of Human &beta;2 and &beta;4 Nicotinic Acetylcholine Receptor Subunits Contribute to &alpha;3&beta;4 Subtype Selectivity of &alpha;-Conotoxins.",
+      "Analgesic alpha-conotoxins Vc1.1 and Rg1A inhibit N-type calcium channels in rat sensory neurons via GABAB receptor activation.",
+      "Effects of cyclization on stability, structure, and activity of &alpha;-conotoxin RgIA at the &alpha;9&alpha;10 nicotinic acetylcholine receptor and GABA(B) receptor.",
+      "d-Amino Acid Substitution of &alpha;-Conotoxin RgIA Identifies its Critical Residues and Improves the Enzymatic Stability",
+      "The &alpha;9&alpha;10 nicotinic acetylcholine receptors antagonist &alpha;-conotoxin RgIA reverses colitis signs in murine dextran sodium sulfate model",
+      "Critical residue properties for potency and selectivity of &alpha;-Conotoxin RgIA towards &alpha;9&alpha;10 nicotinic acetylcholine receptors.",
+      "Analgesic &alpha;-conotoxins Vc1.1 and RgIA inhibit N-type calcium channels in sensory neurons of &alpha;9 nicotinic receptor knockout mice.",
+      "&alpha;-Conotoxins and &alpha;-Cobratoxin Promote, while Lipoxygenase and Cyclooxygenase Inhibitors Suppress the Proliferation of Glioma C6 Cells.",
+      "Inhibition of &alpha;9&alpha;10 nicotinic acetylcholine receptors prevents chemotherapy-induced neuropathic pain.",
+      "Discovery of Methylene Thioacetal-Incorporated &alpha;-RgIA Analogues as Potent and Stable Antagonists of the Human &alpha;9&beta;10 Nicotinic Acetylcholine Receptor for the Treatment of Neuropathic Pain",
+      "From Crystal Structures of RgIA4 in Complex with Ac-AChBP to Molecular Determinants of Its High Potency of &alpha;9&alpha;10 nAChR.",
+      "Analgesic &alpha;-conotoxins modulate native and recombinant GIRK1/2 channels via activation of GABAB receptors and reduce neuroexcitability."
+    ]
+  },
+  {
+    "id": "P02586",
+    "name": "ImII",
+    "sequence": "ACCSDRRCRWRCX",
+    "organism": "Conus imperialis",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a7",
+      "muscle"
+    ],
+    "n_refs": 3,
+    "titles": [
+      "alpha-Conotoxin GI benzoylphenylalanine derivatives. (1)H-NMR structures and photoaffinity labeling of the Torpedo californica nicotinic acetylcholine receptor",
+      "alpha-Conotoxins ImI and ImII: similar alpha 7 nicotinic receptor antagonists act at different sites",
+      "Alpha-conotoxins ImI and ImII target distinct regions of the human alpha7 nicotinic acetylcholine receptor and distinguish human nicotinic receptor subtypes."
+    ]
+  },
+  {
+    "id": "P02608",
+    "name": "PeIA",
+    "sequence": "GCCSHPACSVNHPELCX",
+    "organism": "Conus pergrandis",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a7",
+      "a9a10"
+    ],
+    "n_refs": 10,
+    "titles": [
+      "A novel alpha-conotoxin, PeIA, cloned from Conus pergrandis, discriminates between rat alpha9alpha10 and alpha7 nicotinic cholinergic receptors",
+      "Structure and activity of alpha-conotoxin PeIA at nicotinic acetylcholine receptor subtypes and GABA(B) receptor-coupled N-type calcium channels.",
+      "&alpha;-Conotoxin PeIA[S9H,V10A,E14N] potently and selectively blocks &alpha;6&beta;2&beta;3 versus &alpha;6&beta;4 nicotinic acetylcholine receptors.",
+      "Positional scanning mutagenesis of &alpha;-conotoxin PeIA identifies critical residues that confer potency and selectivity for &alpha;6/&alpha;3&beta;2&beta;3 and &alpha;3&beta;2 nicotinic acetylcholine receptors.",
+      "Molecular determinants of &alpha;-conotoxin potency for inhibition of human and rat &alpha;6&beta;4 nicotinic acetylcholine receptors",
+      "Dimerization of &alpha;-Conotoxins as a Strategy to Enhance the Inhibition of the Human &alpha;7 and &alpha;9&alpha;10 Nicotinic Acetylcholine Receptors",
+      "PeIA-5466: A Novel Peptide Antagonist Containing Non-natural Amino Acids That Selectively Targets &alpha;3&beta;2 Nicotinic Acetylcholine Receptors",
+      "Expression of &alpha;3&beta;2&beta;4 nicotinic acetylcholine receptors by rat adrenal chromaffin cells determined using novel conopeptide antagonists",
+      "Computational and Functional Mapping of Human and Rat &alpha;6&beta;4 Nicotinic Acetylcholine Receptors Reveals Species-Specific Ligand-Binding Motifs.",
+      "Analgesic &alpha;-conotoxins modulate native and recombinant GIRK1/2 channels via activation of GABAB receptors and reduce neuroexcitability."
+    ]
+  },
+  {
+    "id": "P02748",
+    "name": "ArIA",
+    "sequence": "IRDECCSNPACRVNNPHVCRRR",
+    "organism": "Conus arenatus",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist"
+    ]
+  },
+  {
+    "id": "P02752",
+    "name": "ArIB",
+    "sequence": "DECCSNPACRVNNPHVCRRR",
+    "organism": "Conus arenatus",
+    "protein_type": null,
+    "evidence": "nucleic acid level",
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist"
+    ]
+  },
+  {
+    "id": "P02753",
+    "name": "ArIB [N6R,A8P]",
+    "sequence": "DECCSRPPCRVNNPHVCRRR",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist"
+    ]
+  },
+  {
+    "id": "P02754",
+    "name": "ArIB [V11L]",
+    "sequence": "DECCSNPACRLNNPHVCRRR",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist"
+    ]
+  },
+  {
+    "id": "P02755",
+    "name": "ArIB [V11L,V16A]",
+    "sequence": "DECCSNPACRLNNPHACRRR",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 3,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist",
+      "Synthesis and characterization of 125I-alpha-conotoxin ArIB[V11L;V16A], a selective alpha7 nicotinic acetylcholine receptor antagonist.",
+      "A novel fluorescent alpha-conotoxin for the study of alpha7 nicotinic acetylcholine receptors."
+    ]
+  },
+  {
+    "id": "P02756",
+    "name": "ArIB [V11L,V16D]",
+    "sequence": "DECCSNPACRLNNPHDCRRR",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "Discovery, Synthesis, and Structure Activity of a Highly Selective alpha7 Nicotinic Acetylcholine Receptor Antagonist",
+      "Alpha-conotoxin Arenatus IB[V11L,V16D] [corrected] is a potent and selective antagonist at rat and human native alpha7 nicotinic acetylcholine receptors.",
+      "Conopeptides [V11L; V16D] ArIB and RgIA4: powerful tools for the identification of novel nicotinic acetylcholine receptors in monocytes",
+      "&alpha;-Conotoxins and &alpha;-Cobratoxin Promote, while Lipoxygenase and Cyclooxygenase Inhibitors Suppress the Proliferation of Glioma C6 Cells."
+    ]
+  },
+  {
+    "id": "P02852",
+    "name": "ImI [P6A]",
+    "sequence": "GCCSDARCAWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a7"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Protein folding determinants: structural features determining alternative disulfide pairing in alpha- and chi/lambda-conotoxins.",
+      "Structural elements in alpha-conotoxin ImI essential for binding to neuronal alpha7 receptors."
+    ]
+  },
+  {
+    "id": "P03647",
+    "name": "Vc1.1[G1A]",
+    "sequence": "ACCSDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03648",
+    "name": "Vc1.1[S4A]",
+    "sequence": "GCCADPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03649",
+    "name": "Vc1.1[D5A]",
+    "sequence": "GCCSAPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03650",
+    "name": "Vc1.1[P6A]",
+    "sequence": "GCCSDARCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03651",
+    "name": "Vc1.1[R7A]",
+    "sequence": "GCCSDPACNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03652",
+    "name": "Vc1.1[N9A]",
+    "sequence": "GCCSDPRCAYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03653",
+    "name": "Vc1.1[Y10A]",
+    "sequence": "GCCSDPRCNADHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03654",
+    "name": "Vc1.1[D11A]",
+    "sequence": "GCCSDPRCNYAHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03655",
+    "name": "Vc1.1[H12A]",
+    "sequence": "GCCSDPRCNYDAPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03656",
+    "name": "Vc1.1[P13A]",
+    "sequence": "GCCSDPRCNYDHAEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03657",
+    "name": "Vc1.1[E14A]",
+    "sequence": "GCCSDPRCNYDHPAICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03658",
+    "name": "Vc1.1[I15A]",
+    "sequence": "GCCSDPRCNYDHPEACX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03659",
+    "name": "Vc1.1[G1K]",
+    "sequence": "KCCSDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03660",
+    "name": "Vc1.1[S4K]",
+    "sequence": "GCCKDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03661",
+    "name": "Vc1.1[D5K]",
+    "sequence": "GCCSKPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03662",
+    "name": "Vc1.1[P6K]",
+    "sequence": "GCCSDKRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03663",
+    "name": "Vc1.1[R7K]",
+    "sequence": "GCCSDPKCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03664",
+    "name": "Vc1.1[N9K]",
+    "sequence": "GCCSDPRCKYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03665",
+    "name": "Vc1.1[D11K]",
+    "sequence": "GCCSDPRCNYKHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03666",
+    "name": "Vc1.1[H12K]",
+    "sequence": "GCCSDPRCNYDKPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03667",
+    "name": "Vc1.1[P13K]",
+    "sequence": "GCCSDPRCNYDHKEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03668",
+    "name": "Vc1.1[E14K]",
+    "sequence": "GCCSDPRCNYDHPKICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03669",
+    "name": "Vc1.1[I15K]",
+    "sequence": "GCCSDPRCNYDHPEKCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03670",
+    "name": "Vc1.1[Y10K]",
+    "sequence": "GCCSDPRCNKDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03671",
+    "name": "Vc1.1[G1D]",
+    "sequence": "DCCSDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03672",
+    "name": "Vc1.1[S4D]",
+    "sequence": "GCCDDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03673",
+    "name": "Vc1.1[P6D]",
+    "sequence": "GCCSDDRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03674",
+    "name": "Vc1.1[R7D]",
+    "sequence": "GCCSDPDCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03675",
+    "name": "Vc1.1[N9D]",
+    "sequence": "GCCSDPRCDYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03676",
+    "name": "Vc1.1[Y10D]",
+    "sequence": "GCCSDPRCNDDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03677",
+    "name": "Vc1.1[H12D]",
+    "sequence": "GCCSDPRCNYDDPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03678",
+    "name": "Vc1.1[P13D]",
+    "sequence": "GCCSDPRCNYDHDEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03679",
+    "name": "Vc1.1[E14D]",
+    "sequence": "GCCSDPRCNYDHPDICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03680",
+    "name": "Vc1.1[I15D]",
+    "sequence": "GCCSDPRCNYDHPEDCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 2,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor.",
+      "Structure-Activity Studies Reveal the Molecular Basis for GABAB-Receptor Mediated Inhibition of High Voltage-Activated Calcium Channels by &alpha;-Conotoxin Vc1.1."
+    ]
+  },
+  {
+    "id": "P03681",
+    "name": "Vc1.1[N9I]",
+    "sequence": "GCCSDPRCIYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03682",
+    "name": "Vc1.1[N9L]",
+    "sequence": "GCCSDPRCLYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03683",
+    "name": "Vc1.1[N9G]",
+    "sequence": "GCCSDPRCGYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03684",
+    "name": "Vc1.1[S4R]",
+    "sequence": "GCCRDPRCNYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03685",
+    "name": "Vc1.1[S4K,N9A]",
+    "sequence": "GCCKDPRCAYDHPEICX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a9a10"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Scanning mutagenesis of alpha-conotoxin Vc1.1 reveals residues crucial for activity at the alpha9alpha10 nicotinic acetylcholine receptor."
+    ]
+  },
+  {
+    "id": "P03892",
+    "name": "MII [E11A]",
+    "sequence": "GCCSNPVCHLAHSNLCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "a6"
+    ],
+    "n_refs": 4,
+    "titles": [
+      "Determinants of potency on alpha-conotoxin MII, a peptide antagonist of neuronal nicotinic receptors",
+      "Structural basis for alpha-conotoxin potency and selectivity.",
+      "Analogs of alpha-conotoxin MII are selective for alpha6-containing nicotinic acetylcholine receptors.",
+      "Nigrostriatal damage preferentially decreases a subpopulation of alpha6beta2* nAChRs in mouse, monkey, and Parkinson"
+    ]
+  },
+  {
+    "id": "P03893",
+    "name": "ImII-iso",
+    "sequence": "ACCSDRRCRWRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Interaction of alpha-conotoxin ImII and its analogs with nicotinic receptors and acetylcholine-binding proteins: additional binding sites on Torpedo receptor."
+    ]
+  },
+  {
+    "id": "P03894",
+    "name": "ImII [W10Y]",
+    "sequence": "ACCSDRRCRYRCX",
+    "organism": "synthetic construct",
+    "protein_type": null,
+    "evidence": null,
+    "tags": [
+      "muscle"
+    ],
+    "n_refs": 1,
+    "titles": [
+      "Interaction of alpha-conotoxin ImII and its analogs with nicotinic receptors and acetylcholine-binding proteins: additional binding sites on Torpedo receptor."
+    ]
+  }
+]

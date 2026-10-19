@@ -1,0 +1,26 @@
+{
+  "dir": "/workspace/conotoxin_bench/s0_analysis/_calib/nstep11_XDON",
+  "swarm": 0,
+  "lo_step": 10,
+  "hi_step": 11,
+  "n": 200,
+  "n_moved": 180,
+  "tests": {
+    "E(P_10) vs Scoring in gso_11.out  [pre-move hypothesis]": {
+      "median_abs_diff": 0.00808585494692693,
+      "max_abs_diff": 0.18765603471604209,
+      "n_within_0.05": 186
+    },
+    "E(P_11) vs Scoring in gso_11.out  [post-move hypothesis]": {
+      "median_abs_diff": 5.312157342310015,
+      "max_abs_diff": 216.0974905024836,
+      "n_within_0.05": 24
+    },
+    "E(P_10) vs Scoring in gso_10.out  [same-file control]": {
+      "median_abs_diff": 5.683247616277856,
+      "max_abs_diff": 203.33744551513638,
+      "n_within_0.05": 24
+    }
+  },
+  "verdict": "PRE-MOVE: gso_N.out pairs post-move coordinates with the score of the PREVIOUS position"
+}

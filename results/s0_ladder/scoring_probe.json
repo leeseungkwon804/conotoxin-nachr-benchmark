@@ -1,0 +1,74 @@
+[
+  {
+    "run": "A2_7EGR_XDON_rep1",
+    "step": 100,
+    "variants": {
+      "A_restraint_free": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 1.1569632006025952,
+        "max_abs_diff": 91.04417797492964,
+        "ratio_recomputed_over_file_median": 0.9256980043303411
+      },
+      "B_restraints_wired": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 0.4233558884074524,
+        "max_abs_diff": 105.07613508408458,
+        "ratio_recomputed_over_file_median": 1.0000310419102085
+      }
+    },
+    "verdict_Q1": "Q1: inconclusive -- neither variant reproduces the file exactly.",
+    "verdict_Q2": "Q2: 1000 of 1000 poses differ, consistent with the Scoring column belonging to the pre-move position; the exact-match fraction 0.000 is the non-mover fraction."
+  },
+  {
+    "run": "A2_7EGR_NATIVE_rep1",
+    "step": 100,
+    "variants": {
+      "A_restraint_free": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 0.8548576389816773,
+        "max_abs_diff": 48.7689616741608,
+        "ratio_recomputed_over_file_median": 0.9693691931540562
+      },
+      "B_restraints_wired": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 0.39209151283402655,
+        "max_abs_diff": 52.20943265090269,
+        "ratio_recomputed_over_file_median": 1.000032757092248
+      }
+    },
+    "verdict_Q1": "Q1: inconclusive -- neither variant reproduces the file exactly.",
+    "verdict_Q2": "Q2: 1000 of 1000 poses differ, consistent with the Scoring column belonging to the pre-move position; the exact-match fraction 0.000 is the non-mover fraction."
+  },
+  {
+    "run": "A2_7EGR_BLIND_rep1",
+    "step": 100,
+    "variants": {
+      "A_restraint_free": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 0.42925626684691665,
+        "max_abs_diff": 64.62256104212933,
+        "ratio_recomputed_over_file_median": 0.9999621859867222
+      },
+      "B_restraints_wired": {
+        "n_poses": 1000,
+        "n_exact_match": 0,
+        "frac_exact_match": 0.0,
+        "median_abs_diff": 0.42925626684691665,
+        "max_abs_diff": 64.62256104212933,
+        "ratio_recomputed_over_file_median": 0.9999621859867222
+      }
+    },
+    "verdict_Q1": "Q1: inconclusive -- neither variant reproduces the file exactly.",
+    "verdict_Q2": "Q2: 1000 of 1000 poses differ, consistent with the Scoring column belonging to the pre-move position; the exact-match fraction 0.000 is the non-mover fraction."
+  }
+]

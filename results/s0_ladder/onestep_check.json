@@ -1,0 +1,36 @@
+[
+  {
+    "dir": "/workspace/conotoxin_bench/s0_analysis/_calib/onestep_XDON",
+    "swarm": 0,
+    "n_glowworms": 200,
+    "n_moved_on_step1": 0,
+    "combinations": {
+      "A_restraint_free @ P0_premove": {
+        "n_exact_1e-9": 0,
+        "n_exact_1e-6": 0,
+        "median_abs_diff": 3.904993180005448,
+        "max_abs_diff": 298.9237659444511
+      },
+      "B_restraints_wired @ P0_premove": {
+        "n_exact_1e-9": 0,
+        "n_exact_1e-6": 0,
+        "median_abs_diff": 0.008278769797144037,
+        "max_abs_diff": 0.2275219829859907
+      },
+      "A_restraint_free @ P1_postmove": {
+        "n_exact_1e-9": 0,
+        "n_exact_1e-6": 0,
+        "median_abs_diff": 3.904985992340544,
+        "max_abs_diff": 298.9237570401426
+      },
+      "B_restraints_wired @ P1_postmove": {
+        "n_exact_1e-9": 0,
+        "n_exact_1e-6": 0,
+        "median_abs_diff": 0.008267873968453188,
+        "max_abs_diff": 0.227514158571978
+      }
+    },
+    "winner": "A_restraint_free @ P0_premove",
+    "winner_exact_frac": 0.0
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "run": "A1_9NX0_BLIND_rep1",
+    "native": "9NX0_ligand_I.pdb",
+    "matched_atoms": 90,
+    "kabsch_rmsd_allatom_A": 2.439,
+    "kabsch_rmsd_backbone_A": 1.056,
+    "kabsch_rmsd_CA_A": 1.073,
+    "n_backbone": 48,
+    "n_CA": 12,
+    "max_atom_dev_after_superposition_A": 6.937,
+    "worst_atoms": [
+      [
+        6.94,
+        "CH2"
+      ],
+      [
+        6.87,
+        "CZ3"
+      ],
+      [
+        5.87,
+        "CZ2"
+      ],
+      [
+        5.36,
+        "CE3"
+      ],
+      [
+        5.22,
+        "NH2"
+      ],
+      [
+        4.9,
+        "NH1"
+      ]
+    ]
+  },
+  {
+    "run": "A2_7EGR_BLIND_rep1",
+    "native": "7EGR_ligand_P.pdb",
+    "matched_atoms": 105,
+    "kabsch_rmsd_allatom_A": 4.453,
+    "kabsch_rmsd_backbone_A": 2.397,
+    "kabsch_rmsd_CA_A": 2.117,
+    "n_backbone": 52,
+    "n_CA": 13,
+    "max_atom_dev_after_superposition_A": 13.778,
+    "worst_atoms": [
+      [
+        13.78,
+        "NH2"
+      ],
+      [
+        12.62,
+        "NH1"
+      ],
+      [
+        12.46,
+        "OH"
+      ],
+      [
+        11.84,
+        "CZ"
+      ],
+      [
+        9.9,
+        "CZ"
+      ],
+      [
+        9.45,
+        "NE"
+      ]
+    ]
+  }
+]

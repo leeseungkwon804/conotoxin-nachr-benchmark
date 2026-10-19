@@ -1,0 +1,4799 @@
+{
+ "alignments": [
+  {
+   "label": "6HY7.A(plus) <- 7EGR.H",
+   "ce_rmsd": 2.503125626907708,
+   "ce_len": 200,
+   "ce_z": 5.46,
+   "n_aligned": 186,
+   "rmsd": 1.224836179770109,
+   "n_ref": 210,
+   "n_mob": 206,
+   "seq_ident_over_aligned": 0.27419354838709675,
+   "seq_align_identity": 0.2871287128712871,
+   "seq_align_len": 202,
+   "struct_vs_seq_agree": 0.8736263736263736,
+   "struct_vs_seq_n": 182,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "H",
+   "mapping_n": 186
+  },
+  {
+   "label": "7EGR.H(plus) <- 6HY7.A",
+   "ce_rmsd": 2.5031256269076785,
+   "ce_len": 200,
+   "ce_z": 5.46,
+   "n_aligned": 186,
+   "rmsd": 1.2248361797701095,
+   "n_ref": 206,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.27419354838709675,
+   "seq_align_identity": 0.2871287128712871,
+   "seq_align_len": 202,
+   "struct_vs_seq_agree": 0.8736263736263736,
+   "struct_vs_seq_n": 182,
+   "face": "plus",
+   "target_chain": "H",
+   "donor_chain": "A",
+   "mapping_n": 186
+  },
+  {
+   "label": "9NX0.D(plus) <- 2BYP.A",
+   "ce_rmsd": 2.8509487162391025,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 187,
+   "rmsd": 1.4343033053078564,
+   "n_ref": 209,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.27807486631016043,
+   "seq_align_identity": 0.28,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8791208791208791,
+   "struct_vs_seq_n": 182,
+   "face": "plus",
+   "target_chain": "D",
+   "donor_chain": "A",
+   "mapping_n": 187
+  },
+  {
+   "label": "9NX0.E(minus) <- 2BYP.E",
+   "ce_rmsd": 2.726921226541361,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 187,
+   "rmsd": 1.4300269267505352,
+   "n_ref": 209,
+   "n_mob": 212,
+   "seq_ident_over_aligned": 0.27807486631016043,
+   "seq_align_identity": 0.2736318407960199,
+   "seq_align_len": 201,
+   "struct_vs_seq_agree": 0.8736263736263736,
+   "struct_vs_seq_n": 182,
+   "face": "minus",
+   "target_chain": "E",
+   "donor_chain": "E",
+   "mapping_n": 187
+  },
+  {
+   "label": "2BYP.A(plus) <- 9NX0.D",
+   "ce_rmsd": 2.850948716239128,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 187,
+   "rmsd": 1.4343033053078569,
+   "n_ref": 210,
+   "n_mob": 209,
+   "seq_ident_over_aligned": 0.27807486631016043,
+   "seq_align_identity": 0.28,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8791208791208791,
+   "struct_vs_seq_n": 182,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "D",
+   "mapping_n": 187
+  },
+  {
+   "label": "2BYP.E(minus) <- 9NX0.E",
+   "ce_rmsd": 2.726921226541388,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 187,
+   "rmsd": 1.4300269267505372,
+   "n_ref": 212,
+   "n_mob": 209,
+   "seq_ident_over_aligned": 0.27807486631016043,
+   "seq_align_identity": 0.2736318407960199,
+   "seq_align_len": 201,
+   "struct_vs_seq_agree": 0.8641304347826086,
+   "struct_vs_seq_n": 184,
+   "face": "minus",
+   "target_chain": "E",
+   "donor_chain": "E",
+   "mapping_n": 187
+  },
+  {
+   "label": "6HY7.A(plus) <- 2BYP.A",
+   "ce_rmsd": 2.4691630227936106,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 186,
+   "rmsd": 1.2763634978801075,
+   "n_ref": 210,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.27419354838709675,
+   "seq_align_identity": 0.305,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8764044943820225,
+   "struct_vs_seq_n": 178,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "A",
+   "mapping_n": 186
+  },
+  {
+   "label": "6HY7.A(plus) <- 7N43.C",
+   "ce_rmsd": 2.5942740369233888,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 186,
+   "rmsd": 1.4809373695636117,
+   "n_ref": 210,
+   "n_mob": 205,
+   "seq_ident_over_aligned": 0.1989247311827957,
+   "seq_align_identity": 0.22916666666666666,
+   "seq_align_len": 192,
+   "struct_vs_seq_agree": 0.8554913294797688,
+   "struct_vs_seq_n": 173,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "C",
+   "mapping_n": 186
+  },
+  {
+   "label": "7EGR.H(plus) <- 9NX0.D",
+   "ce_rmsd": 2.660664821631298,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 190,
+   "rmsd": 1.4294815022760523,
+   "n_ref": 206,
+   "n_mob": 209,
+   "seq_ident_over_aligned": 0.2789473684210526,
+   "seq_align_identity": 0.2878787878787879,
+   "seq_align_len": 198,
+   "struct_vs_seq_agree": 0.8532608695652174,
+   "struct_vs_seq_n": 184,
+   "face": "plus",
+   "target_chain": "H",
+   "donor_chain": "D",
+   "mapping_n": 190
+  },
+  {
+   "label": "7EGR.G(minus) <- 9NX0.E",
+   "ce_rmsd": 2.7630629920105014,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 189,
+   "rmsd": 1.4585385910477935,
+   "n_ref": 206,
+   "n_mob": 209,
+   "seq_ident_over_aligned": 0.2698412698412698,
+   "seq_align_identity": 0.2878787878787879,
+   "seq_align_len": 198,
+   "struct_vs_seq_agree": 0.8524590163934426,
+   "struct_vs_seq_n": 183,
+   "face": "minus",
+   "target_chain": "G",
+   "donor_chain": "E",
+   "mapping_n": 189
+  },
+  {
+   "label": "9NX0.D(plus) <- 7EGR.H",
+   "ce_rmsd": 2.660664821631298,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 190,
+   "rmsd": 1.4294815022760519,
+   "n_ref": 209,
+   "n_mob": 206,
+   "seq_ident_over_aligned": 0.2789473684210526,
+   "seq_align_identity": 0.2878787878787879,
+   "seq_align_len": 198,
+   "struct_vs_seq_agree": 0.8486486486486486,
+   "struct_vs_seq_n": 185,
+   "face": "plus",
+   "target_chain": "D",
+   "donor_chain": "H",
+   "mapping_n": 190
+  },
+  {
+   "label": "9NX0.E(minus) <- 7EGR.G",
+   "ce_rmsd": 2.7630629920105014,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 189,
+   "rmsd": 1.4585385910477946,
+   "n_ref": 209,
+   "n_mob": 206,
+   "seq_ident_over_aligned": 0.2698412698412698,
+   "seq_align_identity": 0.2878787878787879,
+   "seq_align_len": 198,
+   "struct_vs_seq_agree": 0.8478260869565217,
+   "struct_vs_seq_n": 184,
+   "face": "minus",
+   "target_chain": "E",
+   "donor_chain": "G",
+   "mapping_n": 189
+  },
+  {
+   "label": "2BYP.A(plus) <- 6HY7.A",
+   "ce_rmsd": 2.4691630227936106,
+   "ce_len": 200,
+   "ce_z": 5.6,
+   "n_aligned": 186,
+   "rmsd": 1.276363497880107,
+   "n_ref": 210,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.27419354838709675,
+   "seq_align_identity": 0.305,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8571428571428571,
+   "struct_vs_seq_n": 182,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "A",
+   "mapping_n": 186
+  },
+  {
+   "label": "5XGL.A(plus) <- 7N43.C",
+   "ce_rmsd": 1.9660378686620705,
+   "ce_len": 200,
+   "ce_z": 5.46,
+   "n_aligned": 194,
+   "rmsd": 1.2482963994520686,
+   "n_ref": 207,
+   "n_mob": 205,
+   "seq_ident_over_aligned": 0.33505154639175255,
+   "seq_align_identity": 0.375,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8947368421052632,
+   "struct_vs_seq_n": 190,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "C",
+   "mapping_n": 194
+  },
+  {
+   "label": "5XGL.G(minus) <- 7N43.D",
+   "ce_rmsd": 2.024635008995071,
+   "ce_len": 192,
+   "ce_z": 5.46,
+   "n_aligned": 193,
+   "rmsd": 1.305357788476251,
+   "n_ref": 207,
+   "n_mob": 202,
+   "seq_ident_over_aligned": 0.33678756476683935,
+   "seq_align_identity": 0.38071065989847713,
+   "seq_align_len": 197,
+   "struct_vs_seq_agree": 0.8571428571428571,
+   "struct_vs_seq_n": 189,
+   "face": "minus",
+   "target_chain": "G",
+   "donor_chain": "D",
+   "mapping_n": 193
+  },
+  {
+   "label": "7N43.C(plus) <- 5XGL.A",
+   "ce_rmsd": 1.9660378686620705,
+   "ce_len": 200,
+   "ce_z": 5.46,
+   "n_aligned": 194,
+   "rmsd": 1.2482963994520677,
+   "n_ref": 205,
+   "n_mob": 207,
+   "seq_ident_over_aligned": 0.33505154639175255,
+   "seq_align_identity": 0.375,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8947368421052632,
+   "struct_vs_seq_n": 190,
+   "face": "plus",
+   "target_chain": "C",
+   "donor_chain": "A",
+   "mapping_n": 194
+  },
+  {
+   "label": "7N43.D(minus) <- 5XGL.G",
+   "ce_rmsd": 2.0246350089950336,
+   "ce_len": 192,
+   "ce_z": 5.46,
+   "n_aligned": 193,
+   "rmsd": 1.3053577884762522,
+   "n_ref": 202,
+   "n_mob": 207,
+   "seq_ident_over_aligned": 0.33678756476683935,
+   "seq_align_identity": 0.38071065989847713,
+   "seq_align_len": 197,
+   "struct_vs_seq_agree": 0.8709677419354839,
+   "struct_vs_seq_n": 186,
+   "face": "minus",
+   "target_chain": "D",
+   "donor_chain": "G",
+   "mapping_n": 193
+  },
+  {
+   "label": "5CO5.I(plus) <- 7N43.C",
+   "ce_rmsd": 1.8318828867548245,
+   "ce_len": 200,
+   "ce_z": 5.33,
+   "n_aligned": 193,
+   "rmsd": 1.2674998880116655,
+   "n_ref": 207,
+   "n_mob": 205,
+   "seq_ident_over_aligned": 0.33678756476683935,
+   "seq_align_identity": 0.375,
+   "seq_align_len": 200,
+   "struct_vs_seq_agree": 0.8941798941798942,
+   "struct_vs_seq_n": 189,
+   "face": "plus",
+   "target_chain": "I",
+   "donor_chain": "C",
+   "mapping_n": 193
+  },
+  {
+   "label": "5CO5.D(minus) <- 7N43.D",
+   "ce_rmsd": 1.9401485353043697,
+   "ce_len": 192,
+   "ce_z": 5.46,
+   "n_aligned": 192,
+   "rmsd": 1.2529715087165982,
+   "n_ref": 207,
+   "n_mob": 202,
+   "seq_ident_over_aligned": 0.3333333333333333,
+   "seq_align_identity": 0.38071065989847713,
+   "seq_align_len": 197,
+   "struct_vs_seq_agree": 0.8617021276595744,
+   "struct_vs_seq_n": 188,
+   "face": "minus",
+   "target_chain": "D",
+   "donor_chain": "D",
+   "mapping_n": 192
+  },
+  {
+   "label": "5XGL.A(plus) <- 2BYP.A",
+   "ce_rmsd": 0.7110317876224043,
+   "ce_len": 200,
+   "ce_z": 5.04,
+   "n_aligned": 204,
+   "rmsd": 0.4574016073044749,
+   "n_ref": 207,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.9901960784313726,
+   "seq_align_identity": 0.9901960784313726,
+   "seq_align_len": 204,
+   "struct_vs_seq_agree": 1.0,
+   "struct_vs_seq_n": 204,
+   "face": "plus",
+   "target_chain": "A",
+   "donor_chain": "A",
+   "mapping_n": 204
+  },
+  {
+   "label": "5XGL.G(minus) <- 2BYP.E",
+   "ce_rmsd": 0.4522535687714332,
+   "ce_len": 200,
+   "ce_z": 5.04,
+   "n_aligned": 205,
+   "rmsd": 0.46123794110784994,
+   "n_ref": 207,
+   "n_mob": 212,
+   "seq_ident_over_aligned": 0.9902439024390244,
+   "seq_align_identity": 0.9902439024390244,
+   "seq_align_len": 205,
+   "struct_vs_seq_agree": 1.0,
+   "struct_vs_seq_n": 205,
+   "face": "minus",
+   "target_chain": "G",
+   "donor_chain": "E",
+   "mapping_n": 205
+  },
+  {
+   "label": "5CO5.I(plus) <- 2BYP.A",
+   "ce_rmsd": 0.7481725510133246,
+   "ce_len": 200,
+   "ce_z": 5.04,
+   "n_aligned": 204,
+   "rmsd": 0.4580706444520146,
+   "n_ref": 207,
+   "n_mob": 210,
+   "seq_ident_over_aligned": 0.9901960784313726,
+   "seq_align_identity": 0.9901960784313726,
+   "seq_align_len": 204,
+   "struct_vs_seq_agree": 1.0,
+   "struct_vs_seq_n": 204,
+   "face": "plus",
+   "target_chain": "I",
+   "donor_chain": "A",
+   "mapping_n": 204
+  },
+  {
+   "label": "5CO5.D(minus) <- 2BYP.E",
+   "ce_rmsd": 0.4871910073489616,
+   "ce_len": 200,
+   "ce_z": 5.04,
+   "n_aligned": 205,
+   "rmsd": 0.4902578582619081,
+   "n_ref": 207,
+   "n_mob": 212,
+   "seq_ident_over_aligned": 0.9902439024390244,
+   "seq_align_identity": 0.9902439024390244,
+   "seq_align_len": 205,
+   "struct_vs_seq_agree": 1.0,
+   "struct_vs_seq_n": 205,
+   "face": "minus",
+   "target_chain": "D",
+   "donor_chain": "E",
+   "mapping_n": 205
+  }
+ ],
+ "sets": [
+  {
+   "target": "6HY7",
+   "donor": "7EGR",
+   "tier": 1,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_7EGR_restraints.list",
+   "why": "same toxin RgIA (P0C1D0) in a different entry and a different receptor (Ac-AChBP Q8WSF8 vs human alpha9 Q9UGM1); the transplant is what a prospective user with no alpha9 complex could actually do",
+   "n_restraints": 15,
+   "audit": {
+    "target": "6HY7",
+    "donor": "7EGR",
+    "tier": 1,
+    "n_restraints": 15,
+    "n_native_5p0": 12,
+    "n_native_4p5": 9,
+    "n_overlap_5p0": 12,
+    "n_overlap_4p5": 9,
+    "frac_restraints_in_native_5p0": 0.8,
+    "frac_restraints_in_native_4p5": 0.6,
+    "recall_of_native_5p0": 1.0,
+    "n_restraints_not_native": 3,
+    "n_native_missed": 0,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2019-05-22",
+    "donor_released": "2022-04-06",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "A.157",
+     "A.195",
+     "A.196"
+    ],
+    "native_not_restrained": []
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "H",
+     "n_donor_iface": 17,
+     "n_mapped": 15,
+     "unmapped": [
+      [
+       "42",
+       "LYS",
+       "no structural counterpart within 4.0 A"
+      ],
+      [
+       "207",
+       "CYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR110",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "95",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLY162",
+       "target_chain": "A",
+       "target_resname": "GLY",
+       "target_resnum": "149",
+       "ca_dev": 0.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "SER163",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "150",
+       "ca_dev": 0.17,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TRP164",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "151",
+       "ca_dev": 1.06,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "VAL165",
+       "target_chain": "A",
+       "target_resname": "THR",
+       "target_resnum": "152",
+       "ca_dev": 0.98,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR166",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "153",
+       "ca_dev": 0.74,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "SER167",
+       "target_chain": "A",
+       "target_resname": "ASN",
+       "target_resnum": "154",
+       "ca_dev": 0.73,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLU170",
+       "target_chain": "A",
+       "target_resname": "GLN",
+       "target_resnum": "157",
+       "ca_dev": 0.33,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR205",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "192",
+       "ca_dev": 1.03,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "CYS208",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "195",
+       "ca_dev": 3.55,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "PRO209",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "196",
+       "ca_dev": 3.16,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLU210",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "197",
+       "ca_dev": 0.74,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR212",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "199",
+       "ca_dev": 0.7,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "ILE213",
+       "target_chain": "A",
+       "target_resname": "PRO",
+       "target_resnum": "200",
+       "ca_dev": 0.28,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "ASP214",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "201",
+       "ca_dev": 0.14,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.95",
+    "R A.GLY.149",
+    "R A.SER.150",
+    "R A.TRP.151",
+    "R A.THR.152",
+    "R A.TYR.153",
+    "R A.ASN.154",
+    "R A.GLN.157",
+    "R A.TYR.192",
+    "R A.CYS.195",
+    "R A.SER.196",
+    "R A.GLU.197",
+    "R A.TYR.199",
+    "R A.PRO.200",
+    "R A.ASP.201"
+   ]
+  },
+  {
+   "target": "7EGR",
+   "donor": "6HY7",
+   "tier": 1,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/7EGR_from_6HY7_restraints.list",
+   "why": "reciprocal of 6HY7<-7EGR; same toxin RgIA, donor is the human alpha9 ECD.  Donor has no (-) chain so only the (+) face transfers",
+   "n_restraints": 12,
+   "audit": {
+    "target": "7EGR",
+    "donor": "6HY7",
+    "tier": 1,
+    "n_restraints": 12,
+    "n_native_5p0": 33,
+    "n_native_4p5": 30,
+    "n_overlap_5p0": 12,
+    "n_overlap_4p5": 10,
+    "frac_restraints_in_native_5p0": 1.0,
+    "frac_restraints_in_native_4p5": 0.8333333333333334,
+    "recall_of_native_5p0": 0.36363636363636365,
+    "n_restraints_not_native": 0,
+    "n_native_missed": 21,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2022-04-06",
+    "donor_released": "2019-05-22",
+    "temporally_clean": true,
+    "restraints_not_in_native": [],
+    "native_not_restrained": [
+     "G.53",
+     "G.72",
+     "G.74",
+     "G.76",
+     "G.94",
+     "G.96",
+     "G.125",
+     "G.127",
+     "G.129",
+     "G.131",
+     "G.133",
+     "G.135",
+     "G.176",
+     "G.181",
+     "G.183",
+     "G.184",
+     "H.42",
+     "H.170",
+     "H.207",
+     "H.208",
+     "H.209"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "H",
+     "donor_chain": "A",
+     "n_donor_iface": 12,
+     "n_mapped": 12,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR95",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "110",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY149",
+       "target_chain": "H",
+       "target_resname": "GLY",
+       "target_resnum": "162",
+       "ca_dev": 0.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "H",
+       "target_resname": "SER",
+       "target_resnum": "163",
+       "ca_dev": 0.17,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP151",
+       "target_chain": "H",
+       "target_resname": "TRP",
+       "target_resnum": "164",
+       "ca_dev": 1.06,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "THR152",
+       "target_chain": "H",
+       "target_resname": "VAL",
+       "target_resnum": "165",
+       "ca_dev": 0.98,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR153",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "166",
+       "ca_dev": 0.74,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASN154",
+       "target_chain": "H",
+       "target_resname": "SER",
+       "target_resnum": "167",
+       "ca_dev": 0.73,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR192",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "205",
+       "ca_dev": 1.03,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU197",
+       "target_chain": "H",
+       "target_resname": "GLU",
+       "target_resnum": "210",
+       "ca_dev": 0.74,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR199",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "212",
+       "ca_dev": 0.7,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "PRO200",
+       "target_chain": "H",
+       "target_resname": "ILE",
+       "target_resnum": "213",
+       "ca_dev": 0.28,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP201",
+       "target_chain": "H",
+       "target_resname": "ASP",
+       "target_resnum": "214",
+       "ca_dev": 0.14,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R H.TYR.110",
+    "R H.GLY.162",
+    "R H.SER.163",
+    "R H.TRP.164",
+    "R H.VAL.165",
+    "R H.TYR.166",
+    "R H.SER.167",
+    "R H.TYR.205",
+    "R H.GLU.210",
+    "R H.TYR.212",
+    "R H.ILE.213",
+    "R H.ASP.214"
+   ]
+  },
+  {
+   "target": "9NX0",
+   "donor": "2BYP",
+   "tier": 1,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/9NX0_from_2BYP_restraints.list",
+   "why": "same toxin ImI (P50983) in a different entry and a different receptor (Ac-AChBP vs human alpha7)",
+   "n_restraints": 29,
+   "audit": {
+    "target": "9NX0",
+    "donor": "2BYP",
+    "tier": 1,
+    "n_restraints": 29,
+    "n_native_5p0": 28,
+    "n_native_4p5": 24,
+    "n_overlap_5p0": 25,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8620689655172413,
+    "frac_restraints_in_native_4p5": 0.7586206896551724,
+    "recall_of_native_5p0": 0.8928571428571429,
+    "n_restraints_not_native": 4,
+    "n_native_missed": 3,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2026-02-04",
+    "donor_released": "2005-10-05",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "D.144",
+     "E.58",
+     "E.78",
+     "E.166"
+    ],
+    "native_not_restrained": [
+     "D.191",
+     "E.75",
+     "E.114"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "D",
+     "donor_chain": "A",
+     "n_donor_iface": 17,
+     "n_mapped": 16,
+     "unmapped": [
+      [
+       "25",
+       "LYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR93",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "92",
+       "ca_dev": 0.87,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS143",
+       "target_chain": "D",
+       "target_resname": "LYS",
+       "target_resnum": "144",
+       "ca_dev": 1.36,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY145",
+       "target_chain": "D",
+       "target_resname": "GLY",
+       "target_resnum": "146",
+       "ca_dev": 0.66,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER146",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "147",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP147",
+       "target_chain": "D",
+       "target_resname": "TRP",
+       "target_resnum": "148",
+       "ca_dev": 0.71,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "VAL148",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "149",
+       "ca_dev": 0.93,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR149",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "150",
+       "ca_dev": 0.85,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "D",
+       "target_resname": "GLY",
+       "target_resnum": "151",
+       "ca_dev": 0.68,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLN186",
+       "target_chain": "D",
+       "target_resname": "ARG",
+       "target_resnum": "185",
+       "ca_dev": 1.16,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR188",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "187",
+       "ca_dev": 1.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS190",
+       "target_chain": "D",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 1.53,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS191",
+       "target_chain": "D",
+       "target_resname": "CYS",
+       "target_resnum": "190",
+       "ca_dev": 1.28,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU193",
+       "target_chain": "D",
+       "target_resname": "GLU",
+       "target_resnum": "192",
+       "ca_dev": 0.35,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR195",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "194",
+       "ca_dev": 0.69,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ILE196",
+       "target_chain": "D",
+       "target_resname": "PRO",
+       "target_resnum": "195",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP197",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "196",
+       "ca_dev": 0.31,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "E",
+     "donor_chain": "E",
+     "n_donor_iface": 13,
+     "n_mapped": 13,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "E",
+       "donor_res": "THR36",
+       "target_chain": "E",
+       "target_resname": "ASN",
+       "target_resnum": "35",
+       "ca_dev": 0.25,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "TYR55",
+       "target_chain": "E",
+       "target_resname": "TRP",
+       "target_resnum": "54",
+       "ca_dev": 0.22,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN57",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "56",
+       "ca_dev": 0.14,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG59",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "58",
+       "ca_dev": 0.48,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP77",
+       "target_chain": "E",
+       "target_resname": "THR",
+       "target_resnum": "76",
+       "ca_dev": 1.46,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG79",
+       "target_chain": "E",
+       "target_resname": "ARG",
+       "target_resnum": "78",
+       "ca_dev": 2.35,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "VAL108",
+       "target_chain": "E",
+       "target_resname": "LEU",
+       "target_resnum": "108",
+       "ca_dev": 1.07,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "THR110",
+       "target_chain": "E",
+       "target_resname": "ASN",
+       "target_resnum": "110",
+       "ca_dev": 0.89,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "MET116",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "116",
+       "ca_dev": 0.26,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ILE118",
+       "target_chain": "E",
+       "target_resname": "LEU",
+       "target_resnum": "118",
+       "ca_dev": 0.28,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP164",
+       "target_chain": "E",
+       "target_resname": "ASP",
+       "target_resnum": "163",
+       "ca_dev": 0.73,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER166",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 0.52,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER167",
+       "target_chain": "E",
+       "target_resname": "GLY",
+       "target_resnum": "166",
+       "ca_dev": 0.69,
+       "same_aa": false
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R D.TYR.92",
+    "R D.LYS.144",
+    "R D.GLY.146",
+    "R D.SER.147",
+    "R D.TRP.148",
+    "R D.SER.149",
+    "R D.TYR.150",
+    "R D.GLY.151",
+    "R D.ARG.185",
+    "R D.TYR.187",
+    "R D.CYS.189",
+    "R D.CYS.190",
+    "R D.GLU.192",
+    "R D.TYR.194",
+    "R D.PRO.195",
+    "R D.ASP.196",
+    "R E.ASN.35",
+    "R E.TRP.54",
+    "R E.GLN.56",
+    "R E.SER.58",
+    "R E.THR.76",
+    "R E.ARG.78",
+    "R E.LEU.108",
+    "R E.ASN.110",
+    "R E.GLN.116",
+    "R E.LEU.118",
+    "R E.ASP.163",
+    "R E.SER.165",
+    "R E.GLY.166"
+   ]
+  },
+  {
+   "target": "2BYP",
+   "donor": "9NX0",
+   "tier": 1,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/2BYP_from_9NX0_restraints.list",
+   "why": "reciprocal of 9NX0<-2BYP; same toxin ImI, donor is human alpha7",
+   "n_restraints": 28,
+   "audit": {
+    "target": "2BYP",
+    "donor": "9NX0",
+    "tier": 1,
+    "n_restraints": 28,
+    "n_native_5p0": 30,
+    "n_native_4p5": 26,
+    "n_overlap_5p0": 25,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8928571428571429,
+    "frac_restraints_in_native_4p5": 0.7857142857142857,
+    "recall_of_native_5p0": 0.8333333333333334,
+    "n_restraints_not_native": 3,
+    "n_native_missed": 5,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2005-10-05",
+    "donor_released": "2026-02-04",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "A.192",
+     "E.76",
+     "E.114"
+    ],
+    "native_not_restrained": [
+     "A.25",
+     "A.143",
+     "E.59",
+     "E.79",
+     "E.167"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "D",
+     "n_donor_iface": 16,
+     "n_mapped": 16,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR92",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "93",
+       "ca_dev": 0.87,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLY146",
+       "target_chain": "A",
+       "target_resname": "GLY",
+       "target_resnum": "145",
+       "ca_dev": 0.66,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "SER147",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "146",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TRP148",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "147",
+       "ca_dev": 0.71,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "SER149",
+       "target_chain": "A",
+       "target_resname": "VAL",
+       "target_resnum": "148",
+       "ca_dev": 0.93,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR150",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "149",
+       "ca_dev": 0.85,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLY151",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "150",
+       "ca_dev": 0.68,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ARG185",
+       "target_chain": "A",
+       "target_resname": "GLN",
+       "target_resnum": "186",
+       "ca_dev": 1.16,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR187",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "188",
+       "ca_dev": 1.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "CYS189",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "190",
+       "ca_dev": 1.53,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "CYS190",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "191",
+       "ca_dev": 1.28,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LYS191",
+       "target_chain": "A",
+       "target_resname": "PRO",
+       "target_resnum": "192",
+       "ca_dev": 0.54,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU192",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "193",
+       "ca_dev": 0.35,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR194",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "195",
+       "ca_dev": 0.69,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "PRO195",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "196",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ASP196",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "197",
+       "ca_dev": 0.31,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "E",
+     "donor_chain": "E",
+     "n_donor_iface": 12,
+     "n_mapped": 12,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "E",
+       "donor_res": "ASN35",
+       "target_chain": "E",
+       "target_resname": "THR",
+       "target_resnum": "36",
+       "ca_dev": 0.25,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "TRP54",
+       "target_chain": "E",
+       "target_resname": "TYR",
+       "target_resnum": "55",
+       "ca_dev": 0.22,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN56",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "57",
+       "ca_dev": 0.14,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LYS75",
+       "target_chain": "E",
+       "target_resname": "THR",
+       "target_resnum": "76",
+       "ca_dev": 1.97,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "THR76",
+       "target_chain": "E",
+       "target_resname": "ASP",
+       "target_resnum": "77",
+       "ca_dev": 1.46,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LEU108",
+       "target_chain": "E",
+       "target_resname": "VAL",
+       "target_resnum": "108",
+       "ca_dev": 1.07,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASN110",
+       "target_chain": "E",
+       "target_resname": "THR",
+       "target_resnum": "110",
+       "ca_dev": 0.89,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "HIS114",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "114",
+       "ca_dev": 0.35,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN116",
+       "target_chain": "E",
+       "target_resname": "MET",
+       "target_resnum": "116",
+       "ca_dev": 0.26,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LEU118",
+       "target_chain": "E",
+       "target_resname": "ILE",
+       "target_resnum": "118",
+       "ca_dev": 0.28,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP163",
+       "target_chain": "E",
+       "target_resname": "ASP",
+       "target_resnum": "164",
+       "ca_dev": 0.73,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER165",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "166",
+       "ca_dev": 0.52,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.93",
+    "R A.GLY.145",
+    "R A.SER.146",
+    "R A.TRP.147",
+    "R A.VAL.148",
+    "R A.TYR.149",
+    "R A.SER.150",
+    "R A.GLN.186",
+    "R A.TYR.188",
+    "R A.CYS.190",
+    "R A.CYS.191",
+    "R A.PRO.192",
+    "R A.GLU.193",
+    "R A.TYR.195",
+    "R A.ILE.196",
+    "R A.ASP.197",
+    "R E.THR.36",
+    "R E.TYR.55",
+    "R E.GLN.57",
+    "R E.THR.76",
+    "R E.ASP.77",
+    "R E.VAL.108",
+    "R E.THR.110",
+    "R E.SER.114",
+    "R E.MET.116",
+    "R E.ILE.118",
+    "R E.ASP.164",
+    "R E.SER.166"
+   ]
+  },
+  {
+   "target": "6HY7",
+   "donor": "2BYP",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_2BYP_restraints.list",
+   "why": "cross-toxin: donor toxin is ImI (P50983), not RgIA, on Ac-AChBP. Donor and target toxins share the measured Cys framework (inter-Cys gaps 0/4/3, alpha4/3) but differ in sequence, and the receptors are different proteins.  Built because the tier-1 6HY7<-7EGR set encloses 100 % of 6HY7's native contacts",
+   "n_restraints": 15,
+   "audit": {
+    "target": "6HY7",
+    "donor": "2BYP",
+    "tier": 2,
+    "n_restraints": 15,
+    "n_native_5p0": 12,
+    "n_native_4p5": 9,
+    "n_overlap_5p0": 12,
+    "n_overlap_4p5": 9,
+    "frac_restraints_in_native_5p0": 0.8,
+    "frac_restraints_in_native_4p5": 0.6,
+    "recall_of_native_5p0": 1.0,
+    "n_restraints_not_native": 3,
+    "n_native_missed": 0,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2019-05-22",
+    "donor_released": "2005-10-05",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "A.147",
+     "A.190",
+     "A.195"
+    ],
+    "native_not_restrained": []
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "A",
+     "n_donor_iface": 17,
+     "n_mapped": 15,
+     "unmapped": [
+      [
+       "25",
+       "LYS",
+       "no structural counterpart within 4.0 A"
+      ],
+      [
+       "190",
+       "CYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR93",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "95",
+       "ca_dev": 0.77,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS143",
+       "target_chain": "A",
+       "target_resname": "THR",
+       "target_resnum": "147",
+       "ca_dev": 1.34,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY145",
+       "target_chain": "A",
+       "target_resname": "GLY",
+       "target_resnum": "149",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER146",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "150",
+       "ca_dev": 0.47,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP147",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "151",
+       "ca_dev": 1.08,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "VAL148",
+       "target_chain": "A",
+       "target_resname": "THR",
+       "target_resnum": "152",
+       "ca_dev": 1.16,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR149",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "153",
+       "ca_dev": 0.95,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "A",
+       "target_resname": "ASN",
+       "target_resnum": "154",
+       "ca_dev": 0.92,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLN186",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "190",
+       "ca_dev": 1.17,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR188",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "192",
+       "ca_dev": 0.96,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS191",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "195",
+       "ca_dev": 2.97,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU193",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "197",
+       "ca_dev": 1.13,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR195",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "199",
+       "ca_dev": 0.85,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ILE196",
+       "target_chain": "A",
+       "target_resname": "PRO",
+       "target_resnum": "200",
+       "ca_dev": 0.47,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP197",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "201",
+       "ca_dev": 0.82,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.95",
+    "R A.THR.147",
+    "R A.GLY.149",
+    "R A.SER.150",
+    "R A.TRP.151",
+    "R A.THR.152",
+    "R A.TYR.153",
+    "R A.ASN.154",
+    "R A.ILE.190",
+    "R A.TYR.192",
+    "R A.CYS.195",
+    "R A.GLU.197",
+    "R A.TYR.199",
+    "R A.PRO.200",
+    "R A.ASP.201"
+   ]
+  },
+  {
+   "target": "6HY7",
+   "donor": "7N43",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_7N43_restraints.list",
+   "why": "cross-toxin, cross-framework: donor toxin OmIA is 18 aa with inter-Cys gaps 0/4/7 (alpha4/7) vs RgIA 0/4/3 (alpha4/3), and the receptor is Ls-AChBP (P58154).  The most distant donor available; included as the strict/stress variant",
+   "n_restraints": 13,
+   "audit": {
+    "target": "6HY7",
+    "donor": "7N43",
+    "tier": 2,
+    "n_restraints": 13,
+    "n_native_5p0": 12,
+    "n_native_4p5": 9,
+    "n_overlap_5p0": 11,
+    "n_overlap_4p5": 9,
+    "frac_restraints_in_native_5p0": 0.8461538461538461,
+    "frac_restraints_in_native_4p5": 0.6923076923076923,
+    "recall_of_native_5p0": 0.9166666666666666,
+    "n_restraints_not_native": 2,
+    "n_native_missed": 1,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2019-05-22",
+    "donor_released": "2021-12-01",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "A.190",
+     "A.195"
+    ],
+    "native_not_restrained": [
+     "A.149"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "C",
+     "n_donor_iface": 14,
+     "n_mapped": 13,
+     "unmapped": [
+      [
+       "187",
+       "CYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR89",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "95",
+       "ca_dev": 1.4,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "SER142",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "150",
+       "ca_dev": 0.54,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TRP143",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "151",
+       "ca_dev": 0.91,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "THR144",
+       "target_chain": "A",
+       "target_resname": "THR",
+       "target_resnum": "152",
+       "ca_dev": 0.86,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS145",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "153",
+       "ca_dev": 0.6,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS146",
+       "target_chain": "A",
+       "target_resname": "ASN",
+       "target_resnum": "154",
+       "ca_dev": 0.54,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "VAL183",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "190",
+       "ca_dev": 1.31,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR185",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "192",
+       "ca_dev": 1.25,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "CYS188",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "195",
+       "ca_dev": 4.07,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU190",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "197",
+       "ca_dev": 0.88,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR192",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "199",
+       "ca_dev": 0.71,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU193",
+       "target_chain": "A",
+       "target_resname": "PRO",
+       "target_resnum": "200",
+       "ca_dev": 0.55,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "ASP194",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "201",
+       "ca_dev": 0.53,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.95",
+    "R A.SER.150",
+    "R A.TRP.151",
+    "R A.THR.152",
+    "R A.TYR.153",
+    "R A.ASN.154",
+    "R A.ILE.190",
+    "R A.TYR.192",
+    "R A.CYS.195",
+    "R A.GLU.197",
+    "R A.TYR.199",
+    "R A.PRO.200",
+    "R A.ASP.201"
+   ]
+  },
+  {
+   "target": "7EGR",
+   "donor": "9NX0",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/7EGR_from_9NX0_restraints.list",
+   "why": "cross-toxin: donor toxin ImI on human alpha7.  Unlike 6HY7 this donor has both (+) and (-) chains, so 7EGR gets a two-face set",
+   "n_restraints": 28,
+   "audit": {
+    "target": "7EGR",
+    "donor": "9NX0",
+    "tier": 2,
+    "n_restraints": 28,
+    "n_native_5p0": 33,
+    "n_native_4p5": 30,
+    "n_overlap_5p0": 26,
+    "n_overlap_4p5": 23,
+    "frac_restraints_in_native_5p0": 0.9285714285714286,
+    "frac_restraints_in_native_4p5": 0.8214285714285714,
+    "recall_of_native_5p0": 0.7878787878787878,
+    "n_restraints_not_native": 2,
+    "n_native_missed": 7,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2022-04-06",
+    "donor_released": "2026-02-04",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "G.93",
+     "H.203"
+    ],
+    "native_not_restrained": [
+     "G.76",
+     "G.96",
+     "G.129",
+     "G.176",
+     "G.184",
+     "H.42",
+     "H.170"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "H",
+     "donor_chain": "D",
+     "n_donor_iface": 16,
+     "n_mapped": 16,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR92",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "110",
+       "ca_dev": 1.01,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLY146",
+       "target_chain": "H",
+       "target_resname": "GLY",
+       "target_resnum": "162",
+       "ca_dev": 0.53,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "SER147",
+       "target_chain": "H",
+       "target_resname": "SER",
+       "target_resnum": "163",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TRP148",
+       "target_chain": "H",
+       "target_resname": "TRP",
+       "target_resnum": "164",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "SER149",
+       "target_chain": "H",
+       "target_resname": "VAL",
+       "target_resnum": "165",
+       "ca_dev": 0.77,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR150",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "166",
+       "ca_dev": 0.72,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLY151",
+       "target_chain": "H",
+       "target_resname": "SER",
+       "target_resnum": "167",
+       "ca_dev": 0.62,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ARG185",
+       "target_chain": "H",
+       "target_resname": "GLN",
+       "target_resnum": "203",
+       "ca_dev": 1.06,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR187",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "205",
+       "ca_dev": 1.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "CYS189",
+       "target_chain": "H",
+       "target_resname": "CYS",
+       "target_resnum": "207",
+       "ca_dev": 1.08,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "CYS190",
+       "target_chain": "H",
+       "target_resname": "CYS",
+       "target_resnum": "208",
+       "ca_dev": 1.54,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LYS191",
+       "target_chain": "H",
+       "target_resname": "PRO",
+       "target_resnum": "209",
+       "ca_dev": 1.02,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU192",
+       "target_chain": "H",
+       "target_resname": "GLU",
+       "target_resnum": "210",
+       "ca_dev": 0.31,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR194",
+       "target_chain": "H",
+       "target_resname": "TYR",
+       "target_resnum": "212",
+       "ca_dev": 0.54,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "PRO195",
+       "target_chain": "H",
+       "target_resname": "ILE",
+       "target_resnum": "213",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ASP196",
+       "target_chain": "H",
+       "target_resname": "ASP",
+       "target_resnum": "214",
+       "ca_dev": 0.43,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "G",
+     "donor_chain": "E",
+     "n_donor_iface": 12,
+     "n_mapped": 12,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "E",
+       "donor_res": "ASN35",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "53",
+       "ca_dev": 0.22,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "TRP54",
+       "target_chain": "G",
+       "target_resname": "TYR",
+       "target_resnum": "72",
+       "ca_dev": 0.49,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN56",
+       "target_chain": "G",
+       "target_resname": "GLN",
+       "target_resnum": "74",
+       "ca_dev": 0.3,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LYS75",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "93",
+       "ca_dev": 2.15,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "THR76",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "94",
+       "ca_dev": 1.53,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LEU108",
+       "target_chain": "G",
+       "target_resname": "VAL",
+       "target_resnum": "125",
+       "ca_dev": 0.89,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASN110",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "127",
+       "ca_dev": 1.01,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "HIS114",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "131",
+       "ca_dev": 0.41,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN116",
+       "target_chain": "G",
+       "target_resname": "MET",
+       "target_resnum": "133",
+       "ca_dev": 0.19,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "LEU118",
+       "target_chain": "G",
+       "target_resname": "ILE",
+       "target_resnum": "135",
+       "ca_dev": 0.29,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP163",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "181",
+       "ca_dev": 0.7,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER165",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "183",
+       "ca_dev": 0.52,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R G.THR.53",
+    "R G.TYR.72",
+    "R G.GLN.74",
+    "R G.THR.93",
+    "R G.ASP.94",
+    "R G.VAL.125",
+    "R G.THR.127",
+    "R G.SER.131",
+    "R G.MET.133",
+    "R G.ILE.135",
+    "R G.ASP.181",
+    "R G.SER.183",
+    "R H.TYR.110",
+    "R H.GLY.162",
+    "R H.SER.163",
+    "R H.TRP.164",
+    "R H.VAL.165",
+    "R H.TYR.166",
+    "R H.SER.167",
+    "R H.GLN.203",
+    "R H.TYR.205",
+    "R H.CYS.207",
+    "R H.CYS.208",
+    "R H.PRO.209",
+    "R H.GLU.210",
+    "R H.TYR.212",
+    "R H.ILE.213",
+    "R H.ASP.214"
+   ]
+  },
+  {
+   "target": "9NX0",
+   "donor": "7EGR",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/9NX0_from_7EGR_restraints.list",
+   "why": "cross-toxin: donor toxin RgIA on Ac-AChBP",
+   "n_restraints": 32,
+   "audit": {
+    "target": "9NX0",
+    "donor": "7EGR",
+    "tier": 2,
+    "n_restraints": 32,
+    "n_native_5p0": 28,
+    "n_native_4p5": 24,
+    "n_overlap_5p0": 26,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8125,
+    "frac_restraints_in_native_4p5": 0.6875,
+    "recall_of_native_5p0": 0.9285714285714286,
+    "n_restraints_not_native": 6,
+    "n_native_missed": 2,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2026-02-04",
+    "donor_released": "2022-04-06",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "D.154",
+     "E.58",
+     "E.78",
+     "E.112",
+     "E.160",
+     "E.166"
+    ],
+    "native_not_restrained": [
+     "D.185",
+     "E.75"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "D",
+     "donor_chain": "H",
+     "n_donor_iface": 17,
+     "n_mapped": 16,
+     "unmapped": [
+      [
+       "42",
+       "LYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR110",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "92",
+       "ca_dev": 1.01,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLY162",
+       "target_chain": "D",
+       "target_resname": "GLY",
+       "target_resnum": "146",
+       "ca_dev": 0.53,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "SER163",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "147",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TRP164",
+       "target_chain": "D",
+       "target_resname": "TRP",
+       "target_resnum": "148",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "VAL165",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "149",
+       "ca_dev": 0.77,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR166",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "150",
+       "ca_dev": 0.72,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "SER167",
+       "target_chain": "D",
+       "target_resname": "GLY",
+       "target_resnum": "151",
+       "ca_dev": 0.62,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLU170",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "154",
+       "ca_dev": 0.34,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR205",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "187",
+       "ca_dev": 1.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "CYS207",
+       "target_chain": "D",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 1.08,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "CYS208",
+       "target_chain": "D",
+       "target_resname": "CYS",
+       "target_resnum": "190",
+       "ca_dev": 1.54,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "PRO209",
+       "target_chain": "D",
+       "target_resname": "LYS",
+       "target_resnum": "191",
+       "ca_dev": 1.02,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "GLU210",
+       "target_chain": "D",
+       "target_resname": "GLU",
+       "target_resnum": "192",
+       "ca_dev": 0.31,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "TYR212",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "194",
+       "ca_dev": 0.54,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "ILE213",
+       "target_chain": "D",
+       "target_resname": "PRO",
+       "target_resnum": "195",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "H",
+       "donor_res": "ASP214",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "196",
+       "ca_dev": 0.43,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "E",
+     "donor_chain": "G",
+     "n_donor_iface": 16,
+     "n_mapped": 16,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "G",
+       "donor_res": "THR53",
+       "target_chain": "E",
+       "target_resname": "ASN",
+       "target_resnum": "35",
+       "ca_dev": 0.22,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "TYR72",
+       "target_chain": "E",
+       "target_resname": "TRP",
+       "target_resnum": "54",
+       "ca_dev": 0.49,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "GLN74",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "56",
+       "ca_dev": 0.3,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ARG76",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "58",
+       "ca_dev": 0.39,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP94",
+       "target_chain": "E",
+       "target_resname": "THR",
+       "target_resnum": "76",
+       "ca_dev": 1.53,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ARG96",
+       "target_chain": "E",
+       "target_resname": "ARG",
+       "target_resnum": "78",
+       "ca_dev": 2.51,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "VAL125",
+       "target_chain": "E",
+       "target_resname": "LEU",
+       "target_resnum": "108",
+       "ca_dev": 0.89,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "THR127",
+       "target_chain": "E",
+       "target_resname": "ASN",
+       "target_resnum": "110",
+       "ca_dev": 1.01,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP129",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "112",
+       "ca_dev": 0.66,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER131",
+       "target_chain": "E",
+       "target_resname": "HIS",
+       "target_resnum": "114",
+       "ca_dev": 0.41,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "MET133",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "116",
+       "ca_dev": 0.19,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ILE135",
+       "target_chain": "E",
+       "target_resname": "LEU",
+       "target_resnum": "118",
+       "ca_dev": 0.29,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP176",
+       "target_chain": "E",
+       "target_resname": "GLN",
+       "target_resnum": "160",
+       "ca_dev": 2.02,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP181",
+       "target_chain": "E",
+       "target_resname": "ASP",
+       "target_resnum": "163",
+       "ca_dev": 0.7,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER183",
+       "target_chain": "E",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 0.52,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER184",
+       "target_chain": "E",
+       "target_resname": "GLY",
+       "target_resnum": "166",
+       "ca_dev": 0.82,
+       "same_aa": false
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R D.TYR.92",
+    "R D.GLY.146",
+    "R D.SER.147",
+    "R D.TRP.148",
+    "R D.SER.149",
+    "R D.TYR.150",
+    "R D.GLY.151",
+    "R D.SER.154",
+    "R D.TYR.187",
+    "R D.CYS.189",
+    "R D.CYS.190",
+    "R D.LYS.191",
+    "R D.GLU.192",
+    "R D.TYR.194",
+    "R D.PRO.195",
+    "R D.ASP.196",
+    "R E.ASN.35",
+    "R E.TRP.54",
+    "R E.GLN.56",
+    "R E.SER.58",
+    "R E.THR.76",
+    "R E.ARG.78",
+    "R E.LEU.108",
+    "R E.ASN.110",
+    "R E.SER.112",
+    "R E.HIS.114",
+    "R E.GLN.116",
+    "R E.LEU.118",
+    "R E.GLN.160",
+    "R E.ASP.163",
+    "R E.SER.165",
+    "R E.GLY.166"
+   ]
+  },
+  {
+   "target": "2BYP",
+   "donor": "6HY7",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/2BYP_from_6HY7_restraints.list",
+   "why": "cross-toxin: donor toxin RgIA on human alpha9; (+) face only because the donor receptor is a single subunit",
+   "n_restraints": 12,
+   "audit": {
+    "target": "2BYP",
+    "donor": "6HY7",
+    "tier": 2,
+    "n_restraints": 12,
+    "n_native_5p0": 30,
+    "n_native_4p5": 26,
+    "n_overlap_5p0": 12,
+    "n_overlap_4p5": 11,
+    "frac_restraints_in_native_5p0": 1.0,
+    "frac_restraints_in_native_4p5": 0.9166666666666666,
+    "recall_of_native_5p0": 0.4,
+    "n_restraints_not_native": 0,
+    "n_native_missed": 18,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2005-10-05",
+    "donor_released": "2019-05-22",
+    "temporally_clean": false,
+    "restraints_not_in_native": [],
+    "native_not_restrained": [
+     "A.25",
+     "A.143",
+     "A.186",
+     "A.190",
+     "A.191",
+     "E.36",
+     "E.55",
+     "E.57",
+     "E.59",
+     "E.77",
+     "E.79",
+     "E.108",
+     "E.110",
+     "E.116",
+     "E.118",
+     "E.164",
+     "E.166",
+     "E.167"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "A",
+     "n_donor_iface": 12,
+     "n_mapped": 12,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR95",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "93",
+       "ca_dev": 0.77,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY149",
+       "target_chain": "A",
+       "target_resname": "GLY",
+       "target_resnum": "145",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "146",
+       "ca_dev": 0.47,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP151",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "147",
+       "ca_dev": 1.08,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "THR152",
+       "target_chain": "A",
+       "target_resname": "VAL",
+       "target_resnum": "148",
+       "ca_dev": 1.16,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR153",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "149",
+       "ca_dev": 0.95,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASN154",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "150",
+       "ca_dev": 0.92,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR192",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "188",
+       "ca_dev": 0.96,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU197",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "193",
+       "ca_dev": 1.13,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR199",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "195",
+       "ca_dev": 0.85,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "PRO200",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "196",
+       "ca_dev": 0.47,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP201",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "197",
+       "ca_dev": 0.82,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.93",
+    "R A.GLY.145",
+    "R A.SER.146",
+    "R A.TRP.147",
+    "R A.VAL.148",
+    "R A.TYR.149",
+    "R A.SER.150",
+    "R A.TYR.188",
+    "R A.GLU.193",
+    "R A.TYR.195",
+    "R A.ILE.196",
+    "R A.ASP.197"
+   ]
+  },
+  {
+   "target": "5XGL",
+   "donor": "7N43",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/5XGL_from_7N43_restraints.list",
+   "why": "no second LvIA entry exists in this set.  Donor differs in BOTH toxin (OmIA) and receptor species (Ls-AChBP P58154 vs Ac-AChBP Q8WSF8) -- strictly harder than same-toxin.  Chosen over the ImI/RgIA donors because donor and target toxins share the measured Cys spacing / loop-2 length (gaps 0/4/7, see cys_framework)",
+   "n_restraints": 29,
+   "audit": {
+    "target": "5XGL",
+    "donor": "7N43",
+    "tier": 2,
+    "n_restraints": 29,
+    "n_native_5p0": 29,
+    "n_native_4p5": 26,
+    "n_overlap_5p0": 24,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8275862068965517,
+    "frac_restraints_in_native_4p5": 0.7586206896551724,
+    "recall_of_native_5p0": 0.8275862068965517,
+    "n_restraints_not_native": 5,
+    "n_native_missed": 5,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2018-06-13",
+    "donor_released": "2021-12-01",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "A.184",
+     "A.194",
+     "A.195",
+     "G.30",
+     "G.115"
+    ],
+    "native_not_restrained": [
+     "A.23",
+     "A.151",
+     "A.190",
+     "G.77",
+     "G.162"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "C",
+     "n_donor_iface": 14,
+     "n_mapped": 14,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR89",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "91",
+       "ca_dev": 0.96,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "SER142",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "144",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TRP143",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "145",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "THR144",
+       "target_chain": "A",
+       "target_resname": "VAL",
+       "target_resnum": "146",
+       "ca_dev": 0.27,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS145",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "147",
+       "ca_dev": 0.35,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS146",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "148",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "VAL183",
+       "target_chain": "A",
+       "target_resname": "GLN",
+       "target_resnum": "184",
+       "ca_dev": 1.41,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR185",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "186",
+       "ca_dev": 0.98,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "CYS187",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "188",
+       "ca_dev": 1.09,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "CYS188",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 1.33,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU190",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "191",
+       "ca_dev": 0.66,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR192",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "193",
+       "ca_dev": 0.59,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU193",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "194",
+       "ca_dev": 0.56,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "ASP194",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "195",
+       "ca_dev": 0.42,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "G",
+     "donor_chain": "D",
+     "n_donor_iface": 15,
+     "n_mapped": 15,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "D",
+       "donor_res": "SER30",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "30",
+       "ca_dev": 0.71,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LYS34",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "34",
+       "ca_dev": 1.1,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TRP53",
+       "target_chain": "G",
+       "target_resname": "TYR",
+       "target_resnum": "53",
+       "ca_dev": 0.51,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLN55",
+       "target_chain": "G",
+       "target_resname": "GLN",
+       "target_resnum": "55",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "THR57",
+       "target_chain": "G",
+       "target_resname": "ARG",
+       "target_resnum": "57",
+       "ca_dev": 0.55,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLN73",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "75",
+       "ca_dev": 0.85,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ARG104",
+       "target_chain": "G",
+       "target_resname": "VAL",
+       "target_resnum": "106",
+       "ca_dev": 0.91,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "VAL106",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "108",
+       "ca_dev": 0.7,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU110",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "112",
+       "ca_dev": 0.43,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LEU112",
+       "target_chain": "G",
+       "target_resname": "MET",
+       "target_resnum": "114",
+       "ca_dev": 0.39,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR113",
+       "target_chain": "G",
+       "target_resname": "PHE",
+       "target_resnum": "115",
+       "ca_dev": 0.49,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "MET114",
+       "target_chain": "G",
+       "target_resname": "ILE",
+       "target_resnum": "116",
+       "ca_dev": 0.37,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "THR155",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "157",
+       "ca_dev": 2.48,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU163",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "164",
+       "ca_dev": 1.07,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR164",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 1.67,
+       "same_aa": false
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.TYR.91",
+    "R A.SER.144",
+    "R A.TRP.145",
+    "R A.VAL.146",
+    "R A.TYR.147",
+    "R A.SER.148",
+    "R A.GLN.184",
+    "R A.TYR.186",
+    "R A.CYS.188",
+    "R A.CYS.189",
+    "R A.GLU.191",
+    "R A.TYR.193",
+    "R A.ILE.194",
+    "R A.ASP.195",
+    "R G.THR.30",
+    "R G.THR.34",
+    "R G.TYR.53",
+    "R G.GLN.55",
+    "R G.ARG.57",
+    "R G.ASP.75",
+    "R G.VAL.106",
+    "R G.THR.108",
+    "R G.SER.112",
+    "R G.MET.114",
+    "R G.PHE.115",
+    "R G.ILE.116",
+    "R G.ASP.157",
+    "R G.SER.164",
+    "R G.SER.165"
+   ]
+  },
+  {
+   "target": "7N43",
+   "donor": "5XGL",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/7N43_from_5XGL_restraints.list",
+   "why": "reciprocal; donor LvIA/Ac-AChBP, different toxin and species, same measured Cys framework (0/4/7)",
+   "n_restraints": 28,
+   "audit": {
+    "target": "7N43",
+    "donor": "5XGL",
+    "tier": 2,
+    "n_restraints": 28,
+    "n_native_5p0": 29,
+    "n_native_4p5": 28,
+    "n_overlap_5p0": 24,
+    "n_overlap_4p5": 24,
+    "frac_restraints_in_native_5p0": 0.8571428571428571,
+    "frac_restraints_in_native_4p5": 0.8571428571428571,
+    "recall_of_native_5p0": 0.8275862068965517,
+    "n_restraints_not_native": 4,
+    "n_native_missed": 5,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2021-12-01",
+    "donor_released": "2018-06-13",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "C.149",
+     "C.189",
+     "D.75",
+     "D.161"
+    ],
+    "native_not_restrained": [
+     "C.183",
+     "C.193",
+     "C.194",
+     "D.30",
+     "D.113"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "C",
+     "donor_chain": "A",
+     "n_donor_iface": 14,
+     "n_mapped": 13,
+     "unmapped": [
+      [
+       "23",
+       "LYS",
+       "no structural counterpart within 4.0 A"
+      ]
+     ],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR91",
+       "target_chain": "C",
+       "target_resname": "TYR",
+       "target_resnum": "89",
+       "ca_dev": 0.96,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER144",
+       "target_chain": "C",
+       "target_resname": "SER",
+       "target_resnum": "142",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP145",
+       "target_chain": "C",
+       "target_resname": "TRP",
+       "target_resnum": "143",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "VAL146",
+       "target_chain": "C",
+       "target_resname": "THR",
+       "target_resnum": "144",
+       "ca_dev": 0.27,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR147",
+       "target_chain": "C",
+       "target_resname": "HIS",
+       "target_resnum": "145",
+       "ca_dev": 0.35,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER148",
+       "target_chain": "C",
+       "target_resname": "HIS",
+       "target_resnum": "146",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU151",
+       "target_chain": "C",
+       "target_resname": "GLU",
+       "target_resnum": "149",
+       "ca_dev": 0.63,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR186",
+       "target_chain": "C",
+       "target_resname": "TYR",
+       "target_resnum": "185",
+       "ca_dev": 0.98,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS188",
+       "target_chain": "C",
+       "target_resname": "CYS",
+       "target_resnum": "187",
+       "ca_dev": 1.09,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS189",
+       "target_chain": "C",
+       "target_resname": "CYS",
+       "target_resnum": "188",
+       "ca_dev": 1.33,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "PRO190",
+       "target_chain": "C",
+       "target_resname": "PRO",
+       "target_resnum": "189",
+       "ca_dev": 1.56,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU191",
+       "target_chain": "C",
+       "target_resname": "GLU",
+       "target_resnum": "190",
+       "ca_dev": 0.66,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR193",
+       "target_chain": "C",
+       "target_resname": "TYR",
+       "target_resnum": "192",
+       "ca_dev": 0.59,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "D",
+     "donor_chain": "G",
+     "n_donor_iface": 15,
+     "n_mapped": 15,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "G",
+       "donor_res": "THR34",
+       "target_chain": "D",
+       "target_resname": "LYS",
+       "target_resnum": "34",
+       "ca_dev": 1.1,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "TYR53",
+       "target_chain": "D",
+       "target_resname": "TRP",
+       "target_resnum": "53",
+       "ca_dev": 0.51,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "GLN55",
+       "target_chain": "D",
+       "target_resname": "GLN",
+       "target_resnum": "55",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ARG57",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "57",
+       "ca_dev": 0.55,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP75",
+       "target_chain": "D",
+       "target_resname": "GLN",
+       "target_resnum": "73",
+       "ca_dev": 0.85,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ARG77",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "75",
+       "ca_dev": 0.8,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "VAL106",
+       "target_chain": "D",
+       "target_resname": "ARG",
+       "target_resnum": "104",
+       "ca_dev": 0.91,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "THR108",
+       "target_chain": "D",
+       "target_resname": "VAL",
+       "target_resnum": "106",
+       "ca_dev": 0.7,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER112",
+       "target_chain": "D",
+       "target_resname": "GLU",
+       "target_resnum": "110",
+       "ca_dev": 0.43,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "MET114",
+       "target_chain": "D",
+       "target_resname": "LEU",
+       "target_resnum": "112",
+       "ca_dev": 0.39,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ILE116",
+       "target_chain": "D",
+       "target_resname": "MET",
+       "target_resnum": "114",
+       "ca_dev": 0.37,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP157",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "155",
+       "ca_dev": 2.48,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "ASP162",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "161",
+       "ca_dev": 4.07,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER164",
+       "target_chain": "D",
+       "target_resname": "GLU",
+       "target_resnum": "163",
+       "ca_dev": 1.07,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "G",
+       "donor_res": "SER165",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "164",
+       "ca_dev": 1.67,
+       "same_aa": false
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R C.TYR.89",
+    "R C.SER.142",
+    "R C.TRP.143",
+    "R C.THR.144",
+    "R C.HIS.145",
+    "R C.HIS.146",
+    "R C.GLU.149",
+    "R C.TYR.185",
+    "R C.CYS.187",
+    "R C.CYS.188",
+    "R C.PRO.189",
+    "R C.GLU.190",
+    "R C.TYR.192",
+    "R D.LYS.34",
+    "R D.TRP.53",
+    "R D.GLN.55",
+    "R D.THR.57",
+    "R D.GLN.73",
+    "R D.SER.75",
+    "R D.ARG.104",
+    "R D.VAL.106",
+    "R D.GLU.110",
+    "R D.LEU.112",
+    "R D.MET.114",
+    "R D.THR.155",
+    "R D.ASP.161",
+    "R D.GLU.163",
+    "R D.TYR.164"
+   ]
+  },
+  {
+   "target": "5CO5",
+   "donor": "7N43",
+   "tier": 2,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/5CO5_from_7N43_restraints.list",
+   "why": "no second GIC entry exists.  Donor OmIA/Ls-AChBP differs in toxin and in receptor species, and shares the measured Cys framework.  A 5XGL donor would have been same-receptor (Ac-AChBP) and so a weaker test of the transplant",
+   "n_restraints": 29,
+   "audit": {
+    "target": "5CO5",
+    "donor": "7N43",
+    "tier": 2,
+    "n_restraints": 29,
+    "n_native_5p0": 31,
+    "n_native_4p5": 25,
+    "n_overlap_5p0": 24,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8275862068965517,
+    "frac_restraints_in_native_4p5": 0.7586206896551724,
+    "recall_of_native_5p0": 0.7741935483870968,
+    "n_restraints_not_native": 5,
+    "n_native_missed": 7,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2016-07-20",
+    "donor_released": "2021-12-01",
+    "temporally_clean": false,
+    "restraints_not_in_native": [
+     "D.30",
+     "D.115",
+     "I.184",
+     "I.194",
+     "I.195"
+    ],
+    "native_not_restrained": [
+     "D.77",
+     "D.107",
+     "D.113",
+     "D.162",
+     "I.23",
+     "I.141",
+     "I.151"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "I",
+     "donor_chain": "C",
+     "n_donor_iface": 14,
+     "n_mapped": 14,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR89",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "91",
+       "ca_dev": 0.78,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "SER142",
+       "target_chain": "I",
+       "target_resname": "SER",
+       "target_resnum": "144",
+       "ca_dev": 0.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TRP143",
+       "target_chain": "I",
+       "target_resname": "TRP",
+       "target_resnum": "145",
+       "ca_dev": 0.25,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "THR144",
+       "target_chain": "I",
+       "target_resname": "VAL",
+       "target_resnum": "146",
+       "ca_dev": 0.32,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS145",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "147",
+       "ca_dev": 0.29,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "HIS146",
+       "target_chain": "I",
+       "target_resname": "SER",
+       "target_resnum": "148",
+       "ca_dev": 0.4,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "VAL183",
+       "target_chain": "I",
+       "target_resname": "GLN",
+       "target_resnum": "184",
+       "ca_dev": 1.13,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR185",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "186",
+       "ca_dev": 0.77,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "CYS187",
+       "target_chain": "I",
+       "target_resname": "CYS",
+       "target_resnum": "188",
+       "ca_dev": 1.06,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "CYS188",
+       "target_chain": "I",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 1.43,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU190",
+       "target_chain": "I",
+       "target_resname": "GLU",
+       "target_resnum": "191",
+       "ca_dev": 0.9,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "TYR192",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "193",
+       "ca_dev": 0.77,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "GLU193",
+       "target_chain": "I",
+       "target_resname": "ILE",
+       "target_resnum": "194",
+       "ca_dev": 0.68,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "C",
+       "donor_res": "ASP194",
+       "target_chain": "I",
+       "target_resname": "ASP",
+       "target_resnum": "195",
+       "ca_dev": 0.53,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "D",
+     "donor_chain": "D",
+     "n_donor_iface": 15,
+     "n_mapped": 15,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "D",
+       "donor_res": "SER30",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "30",
+       "ca_dev": 0.57,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LYS34",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "34",
+       "ca_dev": 1.15,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TRP53",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "53",
+       "ca_dev": 0.43,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLN55",
+       "target_chain": "D",
+       "target_resname": "GLN",
+       "target_resnum": "55",
+       "ca_dev": 0.44,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "THR57",
+       "target_chain": "D",
+       "target_resname": "ARG",
+       "target_resnum": "57",
+       "ca_dev": 0.43,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLN73",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "75",
+       "ca_dev": 0.87,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "ARG104",
+       "target_chain": "D",
+       "target_resname": "VAL",
+       "target_resnum": "106",
+       "ca_dev": 0.46,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "VAL106",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "108",
+       "ca_dev": 0.72,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU110",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "112",
+       "ca_dev": 0.5,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "LEU112",
+       "target_chain": "D",
+       "target_resname": "MET",
+       "target_resnum": "114",
+       "ca_dev": 0.29,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR113",
+       "target_chain": "D",
+       "target_resname": "PHE",
+       "target_resnum": "115",
+       "ca_dev": 0.34,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "MET114",
+       "target_chain": "D",
+       "target_resname": "ILE",
+       "target_resnum": "116",
+       "ca_dev": 0.4,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "THR155",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "157",
+       "ca_dev": 2.45,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "GLU163",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "164",
+       "ca_dev": 0.78,
+       "same_aa": false
+      },
+      {
+       "donor_chain": "D",
+       "donor_res": "TYR164",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 1.64,
+       "same_aa": false
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R D.THR.30",
+    "R D.THR.34",
+    "R D.TYR.53",
+    "R D.GLN.55",
+    "R D.ARG.57",
+    "R D.ASP.75",
+    "R D.VAL.106",
+    "R D.THR.108",
+    "R D.SER.112",
+    "R D.MET.114",
+    "R D.PHE.115",
+    "R D.ILE.116",
+    "R D.ASP.157",
+    "R D.SER.164",
+    "R D.SER.165",
+    "R I.TYR.91",
+    "R I.SER.144",
+    "R I.TRP.145",
+    "R I.VAL.146",
+    "R I.TYR.147",
+    "R I.SER.148",
+    "R I.GLN.184",
+    "R I.TYR.186",
+    "R I.CYS.188",
+    "R I.CYS.189",
+    "R I.GLU.191",
+    "R I.TYR.193",
+    "R I.ILE.194",
+    "R I.ASP.195"
+   ]
+  },
+  {
+   "target": "5XGL",
+   "donor": "2BYP",
+   "tier": 3,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/5XGL_from_2BYP_restraints.list",
+   "why": "time-split clean donor: 2BYP released 2005-10-05, target 5XGL released 2018-06-13.  Cross-toxin (ImI, alpha4/3, gaps 0/4/3) vs target LvIA (alpha4/7, gaps 0/4/7); same receptor protein Ac-AChBP so residue mapping is near-identity and the test is purely 'does a 4/3 toxin footprint predict a 4/7 toxin footprint'",
+   "n_restraints": 30,
+   "audit": {
+    "target": "5XGL",
+    "donor": "2BYP",
+    "tier": 3,
+    "n_restraints": 30,
+    "n_native_5p0": 29,
+    "n_native_4p5": 26,
+    "n_overlap_5p0": 25,
+    "n_overlap_4p5": 24,
+    "frac_restraints_in_native_5p0": 0.8333333333333334,
+    "frac_restraints_in_native_4p5": 0.8,
+    "recall_of_native_5p0": 0.8620689655172413,
+    "n_restraints_not_native": 5,
+    "n_native_missed": 4,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2018-06-13",
+    "donor_released": "2005-10-05",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "A.141",
+     "A.143",
+     "A.184",
+     "A.194",
+     "A.195"
+    ],
+    "native_not_restrained": [
+     "A.151",
+     "A.190",
+     "G.112",
+     "G.157"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "A",
+     "donor_chain": "A",
+     "n_donor_iface": 17,
+     "n_mapped": 17,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS25",
+       "target_chain": "A",
+       "target_resname": "LYS",
+       "target_resnum": "23",
+       "ca_dev": 0.51,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR93",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "91",
+       "ca_dev": 0.41,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS143",
+       "target_chain": "A",
+       "target_resname": "LYS",
+       "target_resnum": "141",
+       "ca_dev": 0.36,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY145",
+       "target_chain": "A",
+       "target_resname": "GLY",
+       "target_resnum": "143",
+       "ca_dev": 0.42,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER146",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "144",
+       "ca_dev": 0.47,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP147",
+       "target_chain": "A",
+       "target_resname": "TRP",
+       "target_resnum": "145",
+       "ca_dev": 0.51,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "VAL148",
+       "target_chain": "A",
+       "target_resname": "VAL",
+       "target_resnum": "146",
+       "ca_dev": 0.18,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR149",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "147",
+       "ca_dev": 0.4,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "A",
+       "target_resname": "SER",
+       "target_resnum": "148",
+       "ca_dev": 0.32,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLN186",
+       "target_chain": "A",
+       "target_resname": "GLN",
+       "target_resnum": "184",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR188",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "186",
+       "ca_dev": 0.63,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS190",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "188",
+       "ca_dev": 0.39,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS191",
+       "target_chain": "A",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 0.56,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU193",
+       "target_chain": "A",
+       "target_resname": "GLU",
+       "target_resnum": "191",
+       "ca_dev": 0.41,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR195",
+       "target_chain": "A",
+       "target_resname": "TYR",
+       "target_resnum": "193",
+       "ca_dev": 0.3,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ILE196",
+       "target_chain": "A",
+       "target_resname": "ILE",
+       "target_resnum": "194",
+       "ca_dev": 0.3,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP197",
+       "target_chain": "A",
+       "target_resname": "ASP",
+       "target_resnum": "195",
+       "ca_dev": 0.58,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "G",
+     "donor_chain": "E",
+     "n_donor_iface": 13,
+     "n_mapped": 13,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "E",
+       "donor_res": "THR36",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "34",
+       "ca_dev": 0.18,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "TYR55",
+       "target_chain": "G",
+       "target_resname": "TYR",
+       "target_resnum": "53",
+       "ca_dev": 0.36,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN57",
+       "target_chain": "G",
+       "target_resname": "GLN",
+       "target_resnum": "55",
+       "ca_dev": 0.22,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG59",
+       "target_chain": "G",
+       "target_resname": "ARG",
+       "target_resnum": "57",
+       "ca_dev": 0.41,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP77",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "75",
+       "ca_dev": 0.26,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG79",
+       "target_chain": "G",
+       "target_resname": "ARG",
+       "target_resnum": "77",
+       "ca_dev": 0.27,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "VAL108",
+       "target_chain": "G",
+       "target_resname": "VAL",
+       "target_resnum": "106",
+       "ca_dev": 0.72,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "THR110",
+       "target_chain": "G",
+       "target_resname": "THR",
+       "target_resnum": "108",
+       "ca_dev": 0.45,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "MET116",
+       "target_chain": "G",
+       "target_resname": "MET",
+       "target_resnum": "114",
+       "ca_dev": 0.12,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ILE118",
+       "target_chain": "G",
+       "target_resname": "ILE",
+       "target_resnum": "116",
+       "ca_dev": 0.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP164",
+       "target_chain": "G",
+       "target_resname": "ASP",
+       "target_resnum": "162",
+       "ca_dev": 0.16,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER166",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "164",
+       "ca_dev": 0.4,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER167",
+       "target_chain": "G",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 0.29,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R A.LYS.23",
+    "R A.TYR.91",
+    "R A.LYS.141",
+    "R A.GLY.143",
+    "R A.SER.144",
+    "R A.TRP.145",
+    "R A.VAL.146",
+    "R A.TYR.147",
+    "R A.SER.148",
+    "R A.GLN.184",
+    "R A.TYR.186",
+    "R A.CYS.188",
+    "R A.CYS.189",
+    "R A.GLU.191",
+    "R A.TYR.193",
+    "R A.ILE.194",
+    "R A.ASP.195",
+    "R G.THR.34",
+    "R G.TYR.53",
+    "R G.GLN.55",
+    "R G.ARG.57",
+    "R G.ASP.75",
+    "R G.ARG.77",
+    "R G.VAL.106",
+    "R G.THR.108",
+    "R G.MET.114",
+    "R G.ILE.116",
+    "R G.ASP.162",
+    "R G.SER.164",
+    "R G.SER.165"
+   ]
+  },
+  {
+   "target": "5CO5",
+   "donor": "2BYP",
+   "tier": 3,
+   "path": "/workspace/conotoxin_bench/restraints_crossdonated/5CO5_from_2BYP_restraints.list",
+   "why": "time-split clean donor: 2BYP 2005-10-05 vs target 5CO5 2016-07-20. Cross-toxin and cross-framework, same receptor protein",
+   "n_restraints": 30,
+   "audit": {
+    "target": "5CO5",
+    "donor": "2BYP",
+    "tier": 3,
+    "n_restraints": 30,
+    "n_native_5p0": 31,
+    "n_native_4p5": 25,
+    "n_overlap_5p0": 26,
+    "n_overlap_4p5": 22,
+    "frac_restraints_in_native_5p0": 0.8666666666666667,
+    "frac_restraints_in_native_4p5": 0.7333333333333333,
+    "recall_of_native_5p0": 0.8387096774193549,
+    "n_restraints_not_native": 4,
+    "n_native_missed": 5,
+    "exact_match_5p0": false,
+    "exact_match_4p5": false,
+    "target_released": "2016-07-20",
+    "donor_released": "2005-10-05",
+    "temporally_clean": true,
+    "restraints_not_in_native": [
+     "I.143",
+     "I.184",
+     "I.194",
+     "I.195"
+    ],
+    "native_not_restrained": [
+     "D.107",
+     "D.112",
+     "D.113",
+     "D.157",
+     "I.151"
+    ]
+   },
+   "faces": [
+    {
+     "face": "plus",
+     "target_chain": "I",
+     "donor_chain": "A",
+     "n_donor_iface": 17,
+     "n_mapped": 17,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS25",
+       "target_chain": "I",
+       "target_resname": "LYS",
+       "target_resnum": "23",
+       "ca_dev": 0.58,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR93",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "91",
+       "ca_dev": 0.26,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "LYS143",
+       "target_chain": "I",
+       "target_resname": "LYS",
+       "target_resnum": "141",
+       "ca_dev": 0.35,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLY145",
+       "target_chain": "I",
+       "target_resname": "GLY",
+       "target_resnum": "143",
+       "ca_dev": 0.24,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER146",
+       "target_chain": "I",
+       "target_resname": "SER",
+       "target_resnum": "144",
+       "ca_dev": 0.31,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TRP147",
+       "target_chain": "I",
+       "target_resname": "TRP",
+       "target_resnum": "145",
+       "ca_dev": 0.49,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "VAL148",
+       "target_chain": "I",
+       "target_resname": "VAL",
+       "target_resnum": "146",
+       "ca_dev": 0.34,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR149",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "147",
+       "ca_dev": 0.19,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "SER150",
+       "target_chain": "I",
+       "target_resname": "SER",
+       "target_resnum": "148",
+       "ca_dev": 0.16,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLN186",
+       "target_chain": "I",
+       "target_resname": "GLN",
+       "target_resnum": "184",
+       "ca_dev": 0.48,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR188",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "186",
+       "ca_dev": 1.08,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS190",
+       "target_chain": "I",
+       "target_resname": "CYS",
+       "target_resnum": "188",
+       "ca_dev": 1.21,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "CYS191",
+       "target_chain": "I",
+       "target_resname": "CYS",
+       "target_resnum": "189",
+       "ca_dev": 1.1,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "GLU193",
+       "target_chain": "I",
+       "target_resname": "GLU",
+       "target_resnum": "191",
+       "ca_dev": 0.71,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "TYR195",
+       "target_chain": "I",
+       "target_resname": "TYR",
+       "target_resnum": "193",
+       "ca_dev": 0.18,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ILE196",
+       "target_chain": "I",
+       "target_resname": "ILE",
+       "target_resnum": "194",
+       "ca_dev": 0.35,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "A",
+       "donor_res": "ASP197",
+       "target_chain": "I",
+       "target_resname": "ASP",
+       "target_resnum": "195",
+       "ca_dev": 0.55,
+       "same_aa": true
+      }
+     ]
+    },
+    {
+     "face": "minus",
+     "target_chain": "D",
+     "donor_chain": "E",
+     "n_donor_iface": 13,
+     "n_mapped": 13,
+     "unmapped": [],
+     "mapped": [
+      {
+       "donor_chain": "E",
+       "donor_res": "THR36",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "34",
+       "ca_dev": 0.18,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "TYR55",
+       "target_chain": "D",
+       "target_resname": "TYR",
+       "target_resnum": "53",
+       "ca_dev": 0.2,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "GLN57",
+       "target_chain": "D",
+       "target_resname": "GLN",
+       "target_resnum": "55",
+       "ca_dev": 0.26,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG59",
+       "target_chain": "D",
+       "target_resname": "ARG",
+       "target_resnum": "57",
+       "ca_dev": 0.31,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP77",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "75",
+       "ca_dev": 0.51,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ARG79",
+       "target_chain": "D",
+       "target_resname": "ARG",
+       "target_resnum": "77",
+       "ca_dev": 0.43,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "VAL108",
+       "target_chain": "D",
+       "target_resname": "VAL",
+       "target_resnum": "106",
+       "ca_dev": 0.45,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "THR110",
+       "target_chain": "D",
+       "target_resname": "THR",
+       "target_resnum": "108",
+       "ca_dev": 0.56,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "MET116",
+       "target_chain": "D",
+       "target_resname": "MET",
+       "target_resnum": "114",
+       "ca_dev": 0.28,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ILE118",
+       "target_chain": "D",
+       "target_resname": "ILE",
+       "target_resnum": "116",
+       "ca_dev": 0.11,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "ASP164",
+       "target_chain": "D",
+       "target_resname": "ASP",
+       "target_resnum": "162",
+       "ca_dev": 0.17,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER166",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "164",
+       "ca_dev": 0.33,
+       "same_aa": true
+      },
+      {
+       "donor_chain": "E",
+       "donor_res": "SER167",
+       "target_chain": "D",
+       "target_resname": "SER",
+       "target_resnum": "165",
+       "ca_dev": 0.31,
+       "same_aa": true
+      }
+     ]
+    }
+   ],
+   "missing_from_receptor_pdb": [],
+   "missing_from_pair_pdb": [],
+   "restraints": [
+    "R D.THR.34",
+    "R D.TYR.53",
+    "R D.GLN.55",
+    "R D.ARG.57",
+    "R D.ASP.75",
+    "R D.ARG.77",
+    "R D.VAL.106",
+    "R D.THR.108",
+    "R D.MET.114",
+    "R D.ILE.116",
+    "R D.ASP.162",
+    "R D.SER.164",
+    "R D.SER.165",
+    "R I.LYS.23",
+    "R I.TYR.91",
+    "R I.LYS.141",
+    "R I.GLY.143",
+    "R I.SER.144",
+    "R I.TRP.145",
+    "R I.VAL.146",
+    "R I.TYR.147",
+    "R I.SER.148",
+    "R I.GLN.184",
+    "R I.TYR.186",
+    "R I.CYS.188",
+    "R I.CYS.189",
+    "R I.GLU.191",
+    "R I.TYR.193",
+    "R I.ILE.194",
+    "R I.ASP.195"
+   ]
+  }
+ ],
+ "notes": [
+  "9NX0 receptor chain modelled residues 1-478 (n=392); ECD cut for alignment at <=209"
+ ],
+ "cys_framework": {
+  "9NX0": {
+   "n_res": 13,
+   "seq": "GCCSDPRCAWRCX",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    11
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    3
+   ]
+  },
+  "9NX1": {
+   "n_res": 12,
+   "seq": "ACCSDRRCRWRC",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    11
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    3
+   ]
+  },
+  "7EGR": {
+   "n_res": 13,
+   "seq": "GCCSDPRCRYRCR",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    11
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    3
+   ]
+  },
+  "2BYP": {
+   "n_res": 11,
+   "seq": "GCCSDPRCAWR",
+   "cys_idx0": [
+    1,
+    2,
+    7
+   ],
+   "inter_cys_gaps": [
+    0,
+    4
+   ]
+  },
+  "5XGL": {
+   "n_res": 17,
+   "seq": "GCCSHPACNVDHPEICX",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    15
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    7
+   ]
+  },
+  "7N43": {
+   "n_res": 18,
+   "seq": "GCCSHPACNVNNPHICGX",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    15
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    7
+   ]
+  },
+  "5CO5": {
+   "n_res": 17,
+   "seq": "GCCSHPACAGNNQHICX",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    15
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    7
+   ]
+  },
+  "6HY7": {
+   "n_res": 12,
+   "seq": "GCCSDPRCRYRC",
+   "cys_idx0": [
+    1,
+    2,
+    7,
+    11
+   ],
+   "inter_cys_gaps": [
+    0,
+    4,
+    3
+   ]
+  }
+ }
+}

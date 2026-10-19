@@ -1,0 +1,9 @@
+name,fasta_source,full_length,ecd_start,ecd_end,ecd_length
+a7nAChR,a7nAChR.fasta,502,23,233,211
+a9nAChR,a9nAChR.fasta,479,23,238,216
+a10nAChR,a10nAChR.fasta,450,25,237,213
+a3nAChR,a3nAChR.fasta,505,32,250,219
+a6nAChR,a6nAChR.fasta,494,26,239,214
+b2nAChR,b2nAChR.fasta,502,26,238,213
+b3nAChR,b3nAChR.fasta,458,22,237,216
+b4nAChR,b4nAChR.fasta,498,22,239,218

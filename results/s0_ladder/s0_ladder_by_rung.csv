@@ -1,0 +1,7 @@
+anchor,pdb,rung,restraints_R,reps,best_allatom_pooled_A,best_allatom_per_rep_A,pooled_per_swarm_best_median_A,swarms_scored
+A1,9NX0,BLIND,0,1/2,7.647,8.745 / 7.647,43.891,390 / 390
+A1,9NX0,XDON,29,1/2,9.007,9.150 / 9.007,20.533,390 / 390
+A1,9NX0,NATIVE,28,1/2,9.834,10.640 / 9.834,20.705,392 / 392
+A2,7EGR,BLIND,0,1/2,5.990,5.990 / 7.168,27.643,134 / 134
+A2,7EGR,XDON,12,1/2,7.807,9.349 / 7.807,14.572,134 / 134
+A2,7EGR,NATIVE,33,1/2,8.181,8.181 / 8.858,17.857,132 / 132

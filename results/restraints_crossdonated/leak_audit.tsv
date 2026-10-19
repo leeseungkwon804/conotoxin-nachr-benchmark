@@ -1,0 +1,15 @@
+target	donor	tier	n_restraints	n_native_5p0	n_overlap_5p0	frac_restraints_in_native_5p0	n_overlap_4p5	frac_restraints_in_native_4p5	recall_of_native_5p0	n_restraints_not_native	n_native_missed	exact_match_5p0	exact_match_4p5	target_released	donor_released	temporally_clean	path
+6HY7	7EGR	1	15	12	12	0.8	9	0.6	1.0	3	0	False	False	2019-05-22	2022-04-06	False	/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_7EGR_restraints.list
+7EGR	6HY7	1	12	33	12	1.0	10	0.8333333333333334	0.36363636363636365	0	21	False	False	2022-04-06	2019-05-22	True	/workspace/conotoxin_bench/restraints_crossdonated/7EGR_from_6HY7_restraints.list
+9NX0	2BYP	1	29	28	25	0.8620689655172413	22	0.7586206896551724	0.8928571428571429	4	3	False	False	2026-02-04	2005-10-05	True	/workspace/conotoxin_bench/restraints_crossdonated/9NX0_from_2BYP_restraints.list
+2BYP	9NX0	1	28	30	25	0.8928571428571429	22	0.7857142857142857	0.8333333333333334	3	5	False	False	2005-10-05	2026-02-04	False	/workspace/conotoxin_bench/restraints_crossdonated/2BYP_from_9NX0_restraints.list
+6HY7	2BYP	2	15	12	12	0.8	9	0.6	1.0	3	0	False	False	2019-05-22	2005-10-05	True	/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_2BYP_restraints.list
+6HY7	7N43	2	13	12	11	0.8461538461538461	9	0.6923076923076923	0.9166666666666666	2	1	False	False	2019-05-22	2021-12-01	False	/workspace/conotoxin_bench/restraints_crossdonated/6HY7_from_7N43_restraints.list
+7EGR	9NX0	2	28	33	26	0.9285714285714286	23	0.8214285714285714	0.7878787878787878	2	7	False	False	2022-04-06	2026-02-04	False	/workspace/conotoxin_bench/restraints_crossdonated/7EGR_from_9NX0_restraints.list
+9NX0	7EGR	2	32	28	26	0.8125	22	0.6875	0.9285714285714286	6	2	False	False	2026-02-04	2022-04-06	True	/workspace/conotoxin_bench/restraints_crossdonated/9NX0_from_7EGR_restraints.list
+2BYP	6HY7	2	12	30	12	1.0	11	0.9166666666666666	0.4	0	18	False	False	2005-10-05	2019-05-22	False	/workspace/conotoxin_bench/restraints_crossdonated/2BYP_from_6HY7_restraints.list
+5XGL	7N43	2	29	29	24	0.8275862068965517	22	0.7586206896551724	0.8275862068965517	5	5	False	False	2018-06-13	2021-12-01	False	/workspace/conotoxin_bench/restraints_crossdonated/5XGL_from_7N43_restraints.list
+7N43	5XGL	2	28	29	24	0.8571428571428571	24	0.8571428571428571	0.8275862068965517	4	5	False	False	2021-12-01	2018-06-13	True	/workspace/conotoxin_bench/restraints_crossdonated/7N43_from_5XGL_restraints.list
+5CO5	7N43	2	29	31	24	0.8275862068965517	22	0.7586206896551724	0.7741935483870968	5	7	False	False	2016-07-20	2021-12-01	False	/workspace/conotoxin_bench/restraints_crossdonated/5CO5_from_7N43_restraints.list
+5XGL	2BYP	3	30	29	25	0.8333333333333334	24	0.8	0.8620689655172413	5	4	False	False	2018-06-13	2005-10-05	True	/workspace/conotoxin_bench/restraints_crossdonated/5XGL_from_2BYP_restraints.list
+5CO5	2BYP	3	30	31	26	0.8666666666666667	22	0.7333333333333333	0.8387096774193549	4	5	False	False	2016-07-20	2005-10-05	True	/workspace/conotoxin_bench/restraints_crossdonated/5CO5_from_2BYP_restraints.list

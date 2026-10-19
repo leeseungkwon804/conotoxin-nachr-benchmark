@@ -1,0 +1,892 @@
+pdb_id,toxin_name,toxin_chain,toxin_resnum,toxin_resname,channel_name,channel_chain,channel_resnum,channel_resname,min_dist_A
+6J8E,Mu-conotoxin KIIIA,D,1,CYS,NaV1.2 (SCN2A),A,916,ASN,4.13
+6J8E,Mu-conotoxin KIIIA,D,1,CYS,NaV1.2 (SCN2A),A,1373,GLU,3.85
+6J8E,Mu-conotoxin KIIIA,D,2,CYS,NaV1.2 (SCN2A),A,916,ASN,3.87
+6J8E,Mu-conotoxin KIIIA,D,2,CYS,NaV1.2 (SCN2A),A,1371,THR,4.76
+6J8E,Mu-conotoxin KIIIA,D,2,CYS,NaV1.2 (SCN2A),A,1373,GLU,4.8
+6J8E,Mu-conotoxin KIIIA,D,3,ASN,NaV1.2 (SCN2A),A,330,GLU,2.76
+6J8E,Mu-conotoxin KIIIA,D,3,ASN,NaV1.2 (SCN2A),A,331,GLY,4.4
+6J8E,Mu-conotoxin KIIIA,D,3,ASN,NaV1.2 (SCN2A),A,1371,THR,4.21
+6J8E,Mu-conotoxin KIIIA,D,4,CYS,NaV1.2 (SCN2A),A,1371,THR,4.92
+6J8E,Mu-conotoxin KIIIA,D,4,CYS,NaV1.2 (SCN2A),A,1372,GLY,3.75
+6J8E,Mu-conotoxin KIIIA,D,4,CYS,NaV1.2 (SCN2A),A,1373,GLU,4.08
+6J8E,Mu-conotoxin KIIIA,D,5,SER,NaV1.2 (SCN2A),A,330,GLU,4.3
+6J8E,Mu-conotoxin KIIIA,D,6,SER,NaV1.2 (SCN2A),A,330,GLU,4.99
+6J8E,Mu-conotoxin KIIIA,D,6,SER,NaV1.2 (SCN2A),A,331,GLY,3.54
+6J8E,Mu-conotoxin KIIIA,D,6,SER,NaV1.2 (SCN2A),A,332,GLN,3.84
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,332,GLN,4.74
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,385,PHE,4.07
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,937,ARG,4.89
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,942,GLU,4.76
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,945,GLU,2.5
+6J8E,Mu-conotoxin KIIIA,D,7,LYS,NaV1.2 (SCN2A),A,1425,MET,4.88
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,333,ASN,3.49
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,362,TYR,3.36
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,914,ILE,4.49
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,915,SER,3.83
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,916,ASN,4.2
+6J8E,Mu-conotoxin KIIIA,D,8,TRP,NaV1.2 (SCN2A),A,949,ASP,4.94
+6J8E,Mu-conotoxin KIIIA,D,9,CYS,NaV1.2 (SCN2A),A,331,GLY,4.78
+6J8E,Mu-conotoxin KIIIA,D,10,ARG,NaV1.2 (SCN2A),A,922,ARG,3.82
+6J8E,Mu-conotoxin KIIIA,D,10,ARG,NaV1.2 (SCN2A),A,1425,MET,3.51
+6J8E,Mu-conotoxin KIIIA,D,10,ARG,NaV1.2 (SCN2A),A,1426,ASP,2.45
+6J8E,Mu-conotoxin KIIIA,D,10,ARG,NaV1.2 (SCN2A),A,1429,TYR,4.12
+6J8E,Mu-conotoxin KIIIA,D,10,ARG,NaV1.2 (SCN2A),A,1689,VAL,4.8
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,921,PRO,3.95
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,922,ARG,3.05
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,923,TRP,4.44
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,937,ARG,4.94
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,945,GLU,4.35
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,1425,MET,4.46
+6J8E,Mu-conotoxin KIIIA,D,11,ASP,NaV1.2 (SCN2A),A,1429,TYR,2.6
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,362,TYR,4.28
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,914,ILE,3.56
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,915,SER,3.6
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,916,ASN,3.17
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,921,PRO,3.7
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,922,ARG,4.93
+6J8E,Mu-conotoxin KIIIA,D,12,HIS,NaV1.2 (SCN2A),A,949,ASP,3.11
+6J8E,Mu-conotoxin KIIIA,D,13,SER,NaV1.2 (SCN2A),A,916,ASN,3.54
+6J8E,Mu-conotoxin KIIIA,D,13,SER,NaV1.2 (SCN2A),A,922,ARG,4.57
+6J8E,Mu-conotoxin KIIIA,D,13,SER,NaV1.2 (SCN2A),A,1443,TYR,4.55
+6J8E,Mu-conotoxin KIIIA,D,14,ARG,NaV1.2 (SCN2A),A,919,GLU,4.03
+6J8E,Mu-conotoxin KIIIA,D,14,ARG,NaV1.2 (SCN2A),A,920,LEU,3.33
+6J8E,Mu-conotoxin KIIIA,D,14,ARG,NaV1.2 (SCN2A),A,1443,TYR,3.66
+6J8E,Mu-conotoxin KIIIA,D,15,CYS,NaV1.2 (SCN2A),A,916,ASN,4.68
+6J8E,Mu-conotoxin KIIIA,D,15,CYS,NaV1.2 (SCN2A),A,1373,GLU,3.85
+6J8E,Mu-conotoxin KIIIA,D,15,CYS,NaV1.2 (SCN2A),A,1374,MET,3.07
+6J8E,Mu-conotoxin KIIIA,D,16,CYS,NaV1.2 (SCN2A),A,1374,MET,4.09
+7VFU,Omega-conotoxin MVIIA,E,1,CYS,CaV2.2 (CACNA1B),A,1310,TYR,3.35
+7VFU,Omega-conotoxin MVIIA,E,1,CYS,CaV2.2 (CACNA1B),A,1311,CYS,3.88
+7VFU,Omega-conotoxin MVIIA,E,1,CYS,CaV2.2 (CACNA1B),A,1312,THR,4.02
+7VFU,Omega-conotoxin MVIIA,E,1,CYS,CaV2.2 (CACNA1B),A,1314,GLU,4.75
+7VFU,Omega-conotoxin MVIIA,E,1,CYS,CaV2.2 (CACNA1B),A,1330,GLU,4.41
+7VFU,Omega-conotoxin MVIIA,E,2,LYS,CaV2.2 (CACNA1B),A,1330,GLU,3.86
+7VFU,Omega-conotoxin MVIIA,E,3,GLY,CaV2.2 (CACNA1B),A,1330,GLU,4.2
+7VFU,Omega-conotoxin MVIIA,E,3,GLY,CaV2.2 (CACNA1B),A,1331,LYS,4.89
+7VFU,Omega-conotoxin MVIIA,E,4,LYS,CaV2.2 (CACNA1B),A,1331,LYS,3.45
+7VFU,Omega-conotoxin MVIIA,E,4,LYS,CaV2.2 (CACNA1B),A,1627,ASP,3.68
+7VFU,Omega-conotoxin MVIIA,E,4,LYS,CaV2.2 (CACNA1B),A,1629,ASP,3.6
+7VFU,Omega-conotoxin MVIIA,E,5,GLY,CaV2.2 (CACNA1B),A,1331,LYS,4.68
+7VFU,Omega-conotoxin MVIIA,E,5,GLY,CaV2.2 (CACNA1B),A,1629,ASP,3.34
+7VFU,Omega-conotoxin MVIIA,E,6,ALA,CaV2.2 (CACNA1B),A,1330,GLU,4.43
+7VFU,Omega-conotoxin MVIIA,E,6,ALA,CaV2.2 (CACNA1B),A,1331,LYS,3.95
+7VFU,Omega-conotoxin MVIIA,E,7,LYS,CaV2.2 (CACNA1B),A,1330,GLU,4.58
+7VFU,Omega-conotoxin MVIIA,E,9,SER,CaV2.2 (CACNA1B),A,638,GLN,3.85
+7VFU,Omega-conotoxin MVIIA,E,9,SER,CaV2.2 (CACNA1B),A,671,HIS,4.73
+7VFU,Omega-conotoxin MVIIA,E,10,ARG,CaV2.2 (CACNA1B),A,663,GLU,4.45
+7VFU,Omega-conotoxin MVIIA,E,10,ARG,CaV2.2 (CACNA1B),A,664,ASP,3.16
+7VFU,Omega-conotoxin MVIIA,E,10,ARG,CaV2.2 (CACNA1B),A,667,ALA,3.67
+7VFU,Omega-conotoxin MVIIA,E,10,ARG,CaV2.2 (CACNA1B),A,1659,GLU,4.63
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,642,PRO,3.45
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,643,THR,2.69
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,644,THR,3.15
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,667,ALA,3.31
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,668,VAL,3.95
+7VFU,Omega-conotoxin MVIIA,E,11,LEU,CaV2.2 (CACNA1B),A,671,HIS,3.73
+7VFU,Omega-conotoxin MVIIA,E,12,MET,CaV2.2 (CACNA1B),A,640,GLU,3.63
+7VFU,Omega-conotoxin MVIIA,E,12,MET,CaV2.2 (CACNA1B),A,641,THR,3.22
+7VFU,Omega-conotoxin MVIIA,E,12,MET,CaV2.2 (CACNA1B),A,642,PRO,3.5
+7VFU,Omega-conotoxin MVIIA,E,12,MET,CaV2.2 (CACNA1B),A,643,THR,3.61
+7VFU,Omega-conotoxin MVIIA,E,12,MET,CaV2.2 (CACNA1B),A,1372,LYS,3.42
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,643,THR,3.19
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,644,THR,3.95
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,658,GLN,2.89
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,663,GLU,4.87
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,664,ASP,2.9
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,1368,PRO,3.4
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,1369,MET,3.71
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,1372,LYS,3.52
+7VFU,Omega-conotoxin MVIIA,E,13,TYR,CaV2.2 (CACNA1B),A,1373,HIS,4.06
+7VFU,Omega-conotoxin MVIIA,E,14,ASP,CaV2.2 (CACNA1B),A,640,GLU,4.77
+7VFU,Omega-conotoxin MVIIA,E,14,ASP,CaV2.2 (CACNA1B),A,1372,LYS,3.86
+7VFU,Omega-conotoxin MVIIA,E,15,CYS,CaV2.2 (CACNA1B),A,1369,MET,3.94
+7VFU,Omega-conotoxin MVIIA,E,16,CYS,CaV2.2 (CACNA1B),A,1310,TYR,3.7
+7VFU,Omega-conotoxin MVIIA,E,16,CYS,CaV2.2 (CACNA1B),A,1344,TYR,4.09
+7VFU,Omega-conotoxin MVIIA,E,17,THR,CaV2.2 (CACNA1B),A,1310,TYR,2.91
+7VFU,Omega-conotoxin MVIIA,E,17,THR,CaV2.2 (CACNA1B),A,1342,LYS,4.17
+7VFU,Omega-conotoxin MVIIA,E,17,THR,CaV2.2 (CACNA1B),A,1343,LYS,4.62
+7VFU,Omega-conotoxin MVIIA,E,17,THR,CaV2.2 (CACNA1B),A,1345,ASP,3.39
+7VFU,Omega-conotoxin MVIIA,E,18,GLY,CaV2.2 (CACNA1B),A,1345,ASP,3.52
+7VFU,Omega-conotoxin MVIIA,E,18,GLY,CaV2.2 (CACNA1B),A,1369,MET,3.19
+7VFU,Omega-conotoxin MVIIA,E,18,GLY,CaV2.2 (CACNA1B),A,1659,GLU,4.99
+7VFU,Omega-conotoxin MVIIA,E,19,SER,CaV2.2 (CACNA1B),A,1369,MET,4.01
+7VFU,Omega-conotoxin MVIIA,E,19,SER,CaV2.2 (CACNA1B),A,1659,GLU,2.98
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,318,ASP,4.74
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1627,ASP,4.79
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1628,ASP,2.3
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1629,ASP,3.4
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1630,THR,2.35
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1631,SER,4.04
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1633,ASN,3.2
+7VFU,Omega-conotoxin MVIIA,E,21,ARG,CaV2.2 (CACNA1B),A,1659,GLU,4.9
+7VFU,Omega-conotoxin MVIIA,E,22,SER,CaV2.2 (CACNA1B),A,265,ASP,3.48
+7VFU,Omega-conotoxin MVIIA,E,24,LYS,CaV2.2 (CACNA1B),A,1629,ASP,4.15
+7VFU,Omega-conotoxin MVIIA,E,25,CYS,CaV2.2 (CACNA1B),A,1629,ASP,3.22
+7MIX,Omega-conotoxin MVIIA,B,1,CYS,CaV2.2 (CACNA1B),A,1310,TYR,3.49
+7MIX,Omega-conotoxin MVIIA,B,1,CYS,CaV2.2 (CACNA1B),A,1312,THR,4.14
+7MIX,Omega-conotoxin MVIIA,B,1,CYS,CaV2.2 (CACNA1B),A,1314,GLU,4.93
+7MIX,Omega-conotoxin MVIIA,B,1,CYS,CaV2.2 (CACNA1B),A,1344,TYR,4.3
+7MIX,Omega-conotoxin MVIIA,B,2,LYS,CaV2.2 (CACNA1B),A,640,GLU,4.5
+7MIX,Omega-conotoxin MVIIA,B,2,LYS,CaV2.2 (CACNA1B),A,1330,GLU,4.89
+7MIX,Omega-conotoxin MVIIA,B,4,LYS,CaV2.2 (CACNA1B),A,1627,ASP,4.25
+7MIX,Omega-conotoxin MVIIA,B,4,LYS,CaV2.2 (CACNA1B),A,1628,ASP,4.3
+7MIX,Omega-conotoxin MVIIA,B,4,LYS,CaV2.2 (CACNA1B),A,1629,ASP,2.92
+7MIX,Omega-conotoxin MVIIA,B,4,LYS,CaV2.2 (CACNA1B),A,1630,THR,4.46
+7MIX,Omega-conotoxin MVIIA,B,5,GLY,CaV2.2 (CACNA1B),A,1629,ASP,2.97
+7MIX,Omega-conotoxin MVIIA,B,6,ALA,CaV2.2 (CACNA1B),A,1330,GLU,3.65
+7MIX,Omega-conotoxin MVIIA,B,7,LYS,CaV2.2 (CACNA1B),A,639,ASP,4.67
+7MIX,Omega-conotoxin MVIIA,B,7,LYS,CaV2.2 (CACNA1B),A,1330,GLU,4.3
+7MIX,Omega-conotoxin MVIIA,B,9,SER,CaV2.2 (CACNA1B),A,638,GLN,3.8
+7MIX,Omega-conotoxin MVIIA,B,9,SER,CaV2.2 (CACNA1B),A,639,ASP,4.82
+7MIX,Omega-conotoxin MVIIA,B,10,ARG,CaV2.2 (CACNA1B),A,664,ASP,3.74
+7MIX,Omega-conotoxin MVIIA,B,10,ARG,CaV2.2 (CACNA1B),A,667,ALA,4.01
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,642,PRO,3.3
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,643,THR,3.49
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,644,THR,3.67
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,664,ASP,4.68
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,667,ALA,4.19
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,668,VAL,3.62
+7MIX,Omega-conotoxin MVIIA,B,11,LEU,CaV2.2 (CACNA1B),A,671,HIS,4.06
+7MIX,Omega-conotoxin MVIIA,B,12,MET,CaV2.2 (CACNA1B),A,640,GLU,3.55
+7MIX,Omega-conotoxin MVIIA,B,12,MET,CaV2.2 (CACNA1B),A,641,THR,3.35
+7MIX,Omega-conotoxin MVIIA,B,12,MET,CaV2.2 (CACNA1B),A,642,PRO,3.54
+7MIX,Omega-conotoxin MVIIA,B,12,MET,CaV2.2 (CACNA1B),A,643,THR,4.2
+7MIX,Omega-conotoxin MVIIA,B,12,MET,CaV2.2 (CACNA1B),A,1372,LYS,3.65
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,643,THR,3.46
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,644,THR,3.88
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,658,GLN,2.98
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,664,ASP,3.21
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,1368,PRO,3.64
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,1369,MET,3.44
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,1372,LYS,3.23
+7MIX,Omega-conotoxin MVIIA,B,13,TYR,CaV2.2 (CACNA1B),A,1373,HIS,4.52
+7MIX,Omega-conotoxin MVIIA,B,14,ASP,CaV2.2 (CACNA1B),A,1369,MET,4.96
+7MIX,Omega-conotoxin MVIIA,B,14,ASP,CaV2.2 (CACNA1B),A,1372,LYS,4.49
+7MIX,Omega-conotoxin MVIIA,B,15,CYS,CaV2.2 (CACNA1B),A,1369,MET,4.1
+7MIX,Omega-conotoxin MVIIA,B,15,CYS,CaV2.2 (CACNA1B),A,1373,HIS,4.88
+7MIX,Omega-conotoxin MVIIA,B,16,CYS,CaV2.2 (CACNA1B),A,1310,TYR,3.33
+7MIX,Omega-conotoxin MVIIA,B,16,CYS,CaV2.2 (CACNA1B),A,1344,TYR,3.89
+7MIX,Omega-conotoxin MVIIA,B,16,CYS,CaV2.2 (CACNA1B),A,1345,ASP,4.9
+7MIX,Omega-conotoxin MVIIA,B,17,THR,CaV2.2 (CACNA1B),A,1310,TYR,4.99
+7MIX,Omega-conotoxin MVIIA,B,17,THR,CaV2.2 (CACNA1B),A,1345,ASP,2.73
+7MIX,Omega-conotoxin MVIIA,B,18,GLY,CaV2.2 (CACNA1B),A,1345,ASP,3.67
+7MIX,Omega-conotoxin MVIIA,B,18,GLY,CaV2.2 (CACNA1B),A,1369,MET,3.38
+7MIX,Omega-conotoxin MVIIA,B,18,GLY,CaV2.2 (CACNA1B),A,1659,GLU,2.99
+7MIX,Omega-conotoxin MVIIA,B,19,SER,CaV2.2 (CACNA1B),A,1369,MET,4.74
+7MIX,Omega-conotoxin MVIIA,B,19,SER,CaV2.2 (CACNA1B),A,1659,GLU,2.63
+7MIX,Omega-conotoxin MVIIA,B,21,ARG,CaV2.2 (CACNA1B),A,1628,ASP,3.32
+7MIX,Omega-conotoxin MVIIA,B,21,ARG,CaV2.2 (CACNA1B),A,1629,ASP,3.54
+7MIX,Omega-conotoxin MVIIA,B,21,ARG,CaV2.2 (CACNA1B),A,1630,THR,3.86
+7MIX,Omega-conotoxin MVIIA,B,21,ARG,CaV2.2 (CACNA1B),A,1633,ASN,3.32
+7MIX,Omega-conotoxin MVIIA,B,22,SER,CaV2.2 (CACNA1B),A,265,ASP,3.16
+7MIX,Omega-conotoxin MVIIA,B,23,GLY,CaV2.2 (CACNA1B),A,265,ASP,4.42
+7MIX,Omega-conotoxin MVIIA,B,24,LYS,CaV2.2 (CACNA1B),A,263,VAL,4.95
+7MIX,Omega-conotoxin MVIIA,B,24,LYS,CaV2.2 (CACNA1B),A,1629,ASP,4.4
+7MIX,Omega-conotoxin MVIIA,B,25,CYS,CaV2.2 (CACNA1B),A,1629,ASP,2.92
+8X91,Omega-conotoxin MVIIC,X,1,CYS,CaV2.1 (CACNA1A),A,1404,HIS,3.92
+8X91,Omega-conotoxin MVIIC,X,1,CYS,CaV2.1 (CACNA1A),A,1405,CYS,4.61
+8X91,Omega-conotoxin MVIIC,X,1,CYS,CaV2.1 (CACNA1A),A,1406,THR,4.06
+8X91,Omega-conotoxin MVIIC,X,1,CYS,CaV2.1 (CACNA1A),A,1408,GLU,3.32
+8X91,Omega-conotoxin MVIIC,X,2,LYS,CaV2.1 (CACNA1A),A,1408,GLU,4.99
+8X91,Omega-conotoxin MVIIC,X,3,GLY,CaV2.1 (CACNA1A),A,1420,TYR,4.91
+8X91,Omega-conotoxin MVIIC,X,3,GLY,CaV2.1 (CACNA1A),A,1422,LEU,4.8
+8X91,Omega-conotoxin MVIIC,X,3,GLY,CaV2.1 (CACNA1A),A,1431,ARG,4.47
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1431,ARG,3.24
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1722,ASP,2.91
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1723,GLU,4.39
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1724,ASP,3.55
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1725,SER,2.96
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1726,ASP,3.72
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1727,GLU,3.96
+8X91,Omega-conotoxin MVIIC,X,4,LYS,CaV2.1 (CACNA1A),A,1728,ASP,3.4
+8X91,Omega-conotoxin MVIIC,X,5,GLY,CaV2.1 (CACNA1A),A,1724,ASP,4.48
+8X91,Omega-conotoxin MVIIC,X,6,ALA,CaV2.1 (CACNA1A),A,1424,GLU,4.62
+8X91,Omega-conotoxin MVIIC,X,7,PRO,CaV2.1 (CACNA1A),A,267,GLU,3.58
+8X91,Omega-conotoxin MVIIC,X,7,PRO,CaV2.1 (CACNA1A),A,1424,GLU,4.17
+8X91,Omega-conotoxin MVIIC,X,9,ARG,CaV2.1 (CACNA1A),A,641,PHE,4.35
+8X91,Omega-conotoxin MVIIC,X,9,ARG,CaV2.1 (CACNA1A),A,643,GLU,3.51
+8X91,Omega-conotoxin MVIIC,X,9,ARG,CaV2.1 (CACNA1A),A,646,PRO,4.75
+8X91,Omega-conotoxin MVIIC,X,9,ARG,CaV2.1 (CACNA1A),A,675,ASP,2.99
+8X91,Omega-conotoxin MVIIC,X,9,ARG,CaV2.1 (CACNA1A),A,678,LYS,3.82
+8X91,Omega-conotoxin MVIIC,X,10,LYS,CaV2.1 (CACNA1A),A,668,ASP,2.5
+8X91,Omega-conotoxin MVIIC,X,10,LYS,CaV2.1 (CACNA1A),A,671,GLU,3.65
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,646,PRO,3.59
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,647,PRO,3.28
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,648,THR,3.2
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,671,GLU,3.59
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,672,VAL,4.27
+8X91,Omega-conotoxin MVIIC,X,11,THR,CaV2.1 (CACNA1A),A,675,ASP,3.27
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,643,GLU,3.73
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,644,GLY,3.14
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,645,THR,3.51
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,646,PRO,3.56
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,647,PRO,3.52
+8X91,Omega-conotoxin MVIIC,X,12,MET,CaV2.1 (CACNA1A),A,1466,LYS,4.21
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,647,PRO,4.72
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,648,THR,4.47
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,662,GLN,3.33
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,668,ASP,2.47
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,1462,PRO,3.64
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,1463,GLN,3.75
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,1466,LYS,3.83
+8X91,Omega-conotoxin MVIIC,X,13,TYR,CaV2.1 (CACNA1A),A,1467,HIS,4.74
+8X91,Omega-conotoxin MVIIC,X,14,ASP,CaV2.1 (CACNA1A),A,1466,LYS,3.74
+8X91,Omega-conotoxin MVIIC,X,15,CYS,CaV2.1 (CACNA1A),A,1463,GLN,3.67
+8X91,Omega-conotoxin MVIIC,X,16,CYS,CaV2.1 (CACNA1A),A,1404,HIS,4.29
+8X91,Omega-conotoxin MVIIC,X,16,CYS,CaV2.1 (CACNA1A),A,1406,THR,4.6
+8X91,Omega-conotoxin MVIIC,X,17,SER,CaV2.1 (CACNA1A),A,1436,LYS,4.68
+8X91,Omega-conotoxin MVIIC,X,17,SER,CaV2.1 (CACNA1A),A,1439,GLU,3.32
+8X91,Omega-conotoxin MVIIC,X,17,SER,CaV2.1 (CACNA1A),A,1727,GLU,2.97
+8X91,Omega-conotoxin MVIIC,X,17,SER,CaV2.1 (CACNA1A),A,1729,GLU,4.52
+8X91,Omega-conotoxin MVIIC,X,18,GLY,CaV2.1 (CACNA1A),A,1439,GLU,3.41
+8X91,Omega-conotoxin MVIIC,X,18,GLY,CaV2.1 (CACNA1A),A,1463,GLN,3.08
+8X91,Omega-conotoxin MVIIC,X,18,GLY,CaV2.1 (CACNA1A),A,1727,GLU,4.76
+8X91,Omega-conotoxin MVIIC,X,18,GLY,CaV2.1 (CACNA1A),A,1759,ASN,4.21
+8X91,Omega-conotoxin MVIIC,X,19,SER,CaV2.1 (CACNA1A),A,1463,GLN,4.13
+8X91,Omega-conotoxin MVIIC,X,19,SER,CaV2.1 (CACNA1A),A,1729,GLU,3.67
+8X91,Omega-conotoxin MVIIC,X,19,SER,CaV2.1 (CACNA1A),A,1759,ASN,4.05
+8X91,Omega-conotoxin MVIIC,X,20,CYS,CaV2.1 (CACNA1A),A,1729,GLU,4.7
+8X91,Omega-conotoxin MVIIC,X,21,GLY,CaV2.1 (CACNA1A),A,1729,GLU,3.62
+8X91,Omega-conotoxin MVIIC,X,22,ARG,CaV2.1 (CACNA1A),A,322,ASP,3.87
+8X91,Omega-conotoxin MVIIC,X,22,ARG,CaV2.1 (CACNA1A),A,325,TYR,3.76
+8X91,Omega-conotoxin MVIIC,X,22,ARG,CaV2.1 (CACNA1A),A,326,ASN,3.26
+8X91,Omega-conotoxin MVIIC,X,22,ARG,CaV2.1 (CACNA1A),A,329,ASP,3.11
+8X91,Omega-conotoxin MVIIC,X,22,ARG,CaV2.1 (CACNA1A),A,1735,HIS,4.18
+8X91,Omega-conotoxin MVIIC,X,23,ARG,CaV2.1 (CACNA1A),A,268,SER,2.98
+8X91,Omega-conotoxin MVIIC,X,23,ARG,CaV2.1 (CACNA1A),A,269,PRO,4.59
+8X91,Omega-conotoxin MVIIC,X,23,ARG,CaV2.1 (CACNA1A),A,270,ALA,3.64
+8X91,Omega-conotoxin MVIIC,X,23,ARG,CaV2.1 (CACNA1A),A,279,ARG,4.4
+8X91,Omega-conotoxin MVIIC,X,25,LYS,CaV2.1 (CACNA1A),A,268,SER,3.13
+8X91,Omega-conotoxin MVIIC,X,25,LYS,CaV2.1 (CACNA1A),A,1729,GLU,3.74
+8X91,Omega-conotoxin MVIIC,X,26,CYS,CaV2.1 (CACNA1A),A,1729,GLU,3.21
+9NX0,Alpha-conotoxin ImI,F,1,GLY,alpha7 nAChR (CHRNA7),A,185,ARG,3.95
+9NX0,Alpha-conotoxin ImI,F,1,GLY,alpha7 nAChR (CHRNA7),A,187,TYR,3.0
+9NX0,Alpha-conotoxin ImI,F,2,CYS,alpha7 nAChR (CHRNA7),A,185,ARG,4.44
+9NX0,Alpha-conotoxin ImI,F,2,CYS,alpha7 nAChR (CHRNA7),A,187,TYR,2.95
+9NX0,Alpha-conotoxin ImI,F,2,CYS,alpha7 nAChR (CHRNA7),A,189,CYS,4.98
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),A,185,ARG,4.99
+9NX0,Alpha-conotoxin ImI,F,5,ASP,alpha7 nAChR (CHRNA7),A,92,TYR,3.81
+9NX0,Alpha-conotoxin ImI,F,5,ASP,alpha7 nAChR (CHRNA7),A,185,ARG,3.41
+9NX0,Alpha-conotoxin ImI,F,5,ASP,alpha7 nAChR (CHRNA7),A,187,TYR,2.06
+9NX0,Alpha-conotoxin ImI,F,5,ASP,alpha7 nAChR (CHRNA7),A,194,TYR,4.56
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),A,92,TYR,3.98
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),A,148,TRP,3.17
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),A,149,SER,3.89
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,92,TYR,3.26
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,144,LYS,4.59
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,146,GLY,3.97
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,147,SER,3.03
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,148,TRP,3.33
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,149,SER,3.75
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,150,TYR,3.29
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,151,GLY,4.25
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,185,ARG,3.85
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,187,TYR,4.18
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,194,TYR,2.45
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,195,PRO,3.01
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),A,196,ASP,4.1
+9NX0,Alpha-conotoxin ImI,F,8,CYS,alpha7 nAChR (CHRNA7),A,187,TYR,4.03
+9NX0,Alpha-conotoxin ImI,F,8,CYS,alpha7 nAChR (CHRNA7),A,189,CYS,4.93
+9NX0,Alpha-conotoxin ImI,F,8,CYS,alpha7 nAChR (CHRNA7),A,194,TYR,3.58
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),A,194,TYR,4.83
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,187,TYR,4.12
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,189,CYS,2.94
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,190,CYS,2.04
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,191,LYS,3.22
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,192,GLU,2.77
+9NX0,Alpha-conotoxin ImI,F,11,ARG,alpha7 nAChR (CHRNA7),A,194,TYR,2.82
+9NX0,Alpha-conotoxin ImI,F,1,GLY,alpha7 nAChR (CHRNA7),B,163,ASP,4.67
+9NX0,Alpha-conotoxin ImI,F,1,GLY,alpha7 nAChR (CHRNA7),B,165,SER,4.85
+9NX0,Alpha-conotoxin ImI,F,3,CYS,alpha7 nAChR (CHRNA7),B,56,GLN,3.28
+9NX0,Alpha-conotoxin ImI,F,3,CYS,alpha7 nAChR (CHRNA7),B,118,LEU,3.91
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),B,35,ASN,4.07
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),B,54,TRP,3.95
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),B,56,GLN,3.94
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),B,118,LEU,3.33
+9NX0,Alpha-conotoxin ImI,F,4,SER,alpha7 nAChR (CHRNA7),B,163,ASP,3.52
+9NX0,Alpha-conotoxin ImI,F,5,ASP,alpha7 nAChR (CHRNA7),B,118,LEU,3.74
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),B,54,TRP,3.49
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),B,108,LEU,3.72
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),B,116,GLN,4.36
+9NX0,Alpha-conotoxin ImI,F,6,PRO,alpha7 nAChR (CHRNA7),B,118,LEU,2.99
+9NX0,Alpha-conotoxin ImI,F,7,ARG,alpha7 nAChR (CHRNA7),B,108,LEU,4.48
+9NX0,Alpha-conotoxin ImI,F,9,ALA,alpha7 nAChR (CHRNA7),B,114,HIS,4.88
+9NX0,Alpha-conotoxin ImI,F,9,ALA,alpha7 nAChR (CHRNA7),B,116,GLN,2.83
+9NX0,Alpha-conotoxin ImI,F,9,ALA,alpha7 nAChR (CHRNA7),B,118,LEU,3.23
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,75,LYS,3.93
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,76,THR,3.01
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,108,LEU,3.01
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,110,ASN,2.84
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,111,PRO,4.57
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,114,HIS,4.23
+9NX0,Alpha-conotoxin ImI,F,10,TRP,alpha7 nAChR (CHRNA7),B,116,GLN,3.2
+9NX0,Alpha-conotoxin ImI,G,1,GLY,alpha7 nAChR (CHRNA7),B,185,ARG,3.68
+9NX0,Alpha-conotoxin ImI,G,1,GLY,alpha7 nAChR (CHRNA7),B,187,TYR,2.73
+9NX0,Alpha-conotoxin ImI,G,2,CYS,alpha7 nAChR (CHRNA7),B,185,ARG,4.19
+9NX0,Alpha-conotoxin ImI,G,2,CYS,alpha7 nAChR (CHRNA7),B,187,TYR,2.66
+9NX0,Alpha-conotoxin ImI,G,2,CYS,alpha7 nAChR (CHRNA7),B,188,GLU,5.0
+9NX0,Alpha-conotoxin ImI,G,2,CYS,alpha7 nAChR (CHRNA7),B,189,CYS,4.81
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),B,185,ARG,4.67
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),B,92,TYR,3.74
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),B,144,LYS,4.93
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),B,185,ARG,3.14
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),B,187,TYR,1.99
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),B,194,TYR,4.35
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),B,92,TYR,3.71
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),B,147,SER,4.88
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),B,148,TRP,3.09
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),B,149,SER,3.79
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,92,TYR,3.36
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,144,LYS,4.58
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,146,GLY,3.96
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,147,SER,3.1
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,148,TRP,3.55
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,149,SER,3.89
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,150,TYR,3.24
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,151,GLY,4.09
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,185,ARG,3.78
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,187,TYR,4.26
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,194,TYR,2.2
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,195,PRO,2.74
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),B,196,ASP,3.92
+9NX0,Alpha-conotoxin ImI,G,8,CYS,alpha7 nAChR (CHRNA7),B,187,TYR,3.83
+9NX0,Alpha-conotoxin ImI,G,8,CYS,alpha7 nAChR (CHRNA7),B,189,CYS,4.85
+9NX0,Alpha-conotoxin ImI,G,8,CYS,alpha7 nAChR (CHRNA7),B,194,TYR,3.43
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),B,194,TYR,4.62
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,187,TYR,4.05
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,189,CYS,2.99
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,190,CYS,2.06
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,191,LYS,3.04
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,192,GLU,2.53
+9NX0,Alpha-conotoxin ImI,G,11,ARG,alpha7 nAChR (CHRNA7),B,194,TYR,2.68
+9NX0,Alpha-conotoxin ImI,G,1,GLY,alpha7 nAChR (CHRNA7),C,163,ASP,4.9
+9NX0,Alpha-conotoxin ImI,G,1,GLY,alpha7 nAChR (CHRNA7),C,165,SER,4.92
+9NX0,Alpha-conotoxin ImI,G,3,CYS,alpha7 nAChR (CHRNA7),C,56,GLN,3.47
+9NX0,Alpha-conotoxin ImI,G,3,CYS,alpha7 nAChR (CHRNA7),C,118,LEU,3.92
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),C,35,ASN,4.14
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),C,54,TRP,3.99
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),C,56,GLN,4.17
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),C,118,LEU,3.6
+9NX0,Alpha-conotoxin ImI,G,4,SER,alpha7 nAChR (CHRNA7),C,163,ASP,3.57
+9NX0,Alpha-conotoxin ImI,G,5,ASP,alpha7 nAChR (CHRNA7),C,118,LEU,3.95
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),C,54,TRP,3.47
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),C,108,LEU,3.88
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),C,116,GLN,4.61
+9NX0,Alpha-conotoxin ImI,G,6,PRO,alpha7 nAChR (CHRNA7),C,118,LEU,3.16
+9NX0,Alpha-conotoxin ImI,G,7,ARG,alpha7 nAChR (CHRNA7),C,108,LEU,4.64
+9NX0,Alpha-conotoxin ImI,G,9,ALA,alpha7 nAChR (CHRNA7),C,116,GLN,2.97
+9NX0,Alpha-conotoxin ImI,G,9,ALA,alpha7 nAChR (CHRNA7),C,118,LEU,3.3
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,75,LYS,3.89
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,76,THR,3.02
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,108,LEU,2.97
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,110,ASN,3.0
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,111,PRO,4.68
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,114,HIS,4.46
+9NX0,Alpha-conotoxin ImI,G,10,TRP,alpha7 nAChR (CHRNA7),C,116,GLN,3.41
+9NX0,Alpha-conotoxin ImI,H,1,GLY,alpha7 nAChR (CHRNA7),C,185,ARG,3.6
+9NX0,Alpha-conotoxin ImI,H,1,GLY,alpha7 nAChR (CHRNA7),C,187,TYR,2.7
+9NX0,Alpha-conotoxin ImI,H,2,CYS,alpha7 nAChR (CHRNA7),C,185,ARG,4.15
+9NX0,Alpha-conotoxin ImI,H,2,CYS,alpha7 nAChR (CHRNA7),C,187,TYR,2.66
+9NX0,Alpha-conotoxin ImI,H,2,CYS,alpha7 nAChR (CHRNA7),C,189,CYS,4.97
+9NX0,Alpha-conotoxin ImI,H,3,CYS,alpha7 nAChR (CHRNA7),C,187,TYR,4.98
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),C,185,ARG,4.7
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),C,92,TYR,3.59
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),C,144,LYS,4.85
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),C,185,ARG,3.25
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),C,187,TYR,2.24
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),C,194,TYR,4.28
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),C,92,TYR,3.63
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),C,147,SER,4.73
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),C,148,TRP,2.94
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),C,149,SER,3.59
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,92,TYR,3.21
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,144,LYS,4.62
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,146,GLY,3.77
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,147,SER,2.89
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,148,TRP,3.39
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,149,SER,3.66
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,150,TYR,3.13
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,151,GLY,4.07
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,185,ARG,4.02
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,187,TYR,4.49
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,194,TYR,2.21
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,195,PRO,2.68
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),C,196,ASP,3.95
+9NX0,Alpha-conotoxin ImI,H,8,CYS,alpha7 nAChR (CHRNA7),C,187,TYR,3.94
+9NX0,Alpha-conotoxin ImI,H,8,CYS,alpha7 nAChR (CHRNA7),C,194,TYR,3.31
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),C,194,TYR,4.73
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,187,TYR,4.16
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,189,CYS,3.23
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,190,CYS,2.3
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,191,LYS,3.22
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,192,GLU,2.54
+9NX0,Alpha-conotoxin ImI,H,11,ARG,alpha7 nAChR (CHRNA7),C,194,TYR,2.63
+9NX0,Alpha-conotoxin ImI,H,1,GLY,alpha7 nAChR (CHRNA7),D,163,ASP,4.91
+9NX0,Alpha-conotoxin ImI,H,1,GLY,alpha7 nAChR (CHRNA7),D,165,SER,4.93
+9NX0,Alpha-conotoxin ImI,H,3,CYS,alpha7 nAChR (CHRNA7),D,56,GLN,3.44
+9NX0,Alpha-conotoxin ImI,H,3,CYS,alpha7 nAChR (CHRNA7),D,118,LEU,3.7
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),D,35,ASN,4.04
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),D,54,TRP,3.84
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),D,56,GLN,4.19
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),D,118,LEU,3.54
+9NX0,Alpha-conotoxin ImI,H,4,SER,alpha7 nAChR (CHRNA7),D,163,ASP,3.73
+9NX0,Alpha-conotoxin ImI,H,5,ASP,alpha7 nAChR (CHRNA7),D,118,LEU,3.87
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),D,54,TRP,3.47
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),D,108,LEU,3.76
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),D,116,GLN,4.68
+9NX0,Alpha-conotoxin ImI,H,6,PRO,alpha7 nAChR (CHRNA7),D,118,LEU,3.2
+9NX0,Alpha-conotoxin ImI,H,7,ARG,alpha7 nAChR (CHRNA7),D,108,LEU,4.47
+9NX0,Alpha-conotoxin ImI,H,9,ALA,alpha7 nAChR (CHRNA7),D,116,GLN,2.8
+9NX0,Alpha-conotoxin ImI,H,9,ALA,alpha7 nAChR (CHRNA7),D,118,LEU,3.15
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,75,LYS,3.8
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,76,THR,2.81
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,108,LEU,2.75
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,110,ASN,2.84
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,111,PRO,4.58
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,114,HIS,4.42
+9NX0,Alpha-conotoxin ImI,H,10,TRP,alpha7 nAChR (CHRNA7),D,116,GLN,3.29
+9NX0,Alpha-conotoxin ImI,I,1,GLY,alpha7 nAChR (CHRNA7),D,185,ARG,3.77
+9NX0,Alpha-conotoxin ImI,I,1,GLY,alpha7 nAChR (CHRNA7),D,187,TYR,2.91
+9NX0,Alpha-conotoxin ImI,I,2,CYS,alpha7 nAChR (CHRNA7),D,185,ARG,4.34
+9NX0,Alpha-conotoxin ImI,I,2,CYS,alpha7 nAChR (CHRNA7),D,187,TYR,2.9
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),D,185,ARG,4.95
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),D,92,TYR,3.58
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),D,144,LYS,4.91
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),D,185,ARG,3.5
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),D,187,TYR,2.39
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),D,194,TYR,4.42
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),D,92,TYR,3.8
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),D,147,SER,4.82
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),D,148,TRP,2.96
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),D,149,SER,3.59
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,92,TYR,3.06
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,144,LYS,4.65
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,146,GLY,3.7
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,147,SER,2.74
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,148,TRP,3.18
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,149,SER,3.49
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,150,TYR,3.14
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,151,GLY,4.22
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,185,ARG,4.16
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,187,TYR,4.53
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,194,TYR,2.43
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,195,PRO,2.87
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),D,196,ASP,4.09
+9NX0,Alpha-conotoxin ImI,I,8,CYS,alpha7 nAChR (CHRNA7),D,187,TYR,4.15
+9NX0,Alpha-conotoxin ImI,I,8,CYS,alpha7 nAChR (CHRNA7),D,194,TYR,3.39
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),D,194,TYR,4.94
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,187,TYR,4.27
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,189,CYS,3.3
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,190,CYS,2.4
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,191,LYS,3.44
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,192,GLU,2.76
+9NX0,Alpha-conotoxin ImI,I,11,ARG,alpha7 nAChR (CHRNA7),D,194,TYR,2.67
+9NX0,Alpha-conotoxin ImI,I,1,GLY,alpha7 nAChR (CHRNA7),E,163,ASP,4.69
+9NX0,Alpha-conotoxin ImI,I,1,GLY,alpha7 nAChR (CHRNA7),E,165,SER,4.83
+9NX0,Alpha-conotoxin ImI,I,3,CYS,alpha7 nAChR (CHRNA7),E,56,GLN,3.23
+9NX0,Alpha-conotoxin ImI,I,3,CYS,alpha7 nAChR (CHRNA7),E,118,LEU,3.52
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),E,35,ASN,3.84
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),E,54,TRP,3.66
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),E,56,GLN,3.99
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),E,118,LEU,3.32
+9NX0,Alpha-conotoxin ImI,I,4,SER,alpha7 nAChR (CHRNA7),E,163,ASP,3.76
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),E,54,TRP,4.9
+9NX0,Alpha-conotoxin ImI,I,5,ASP,alpha7 nAChR (CHRNA7),E,118,LEU,3.63
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),E,54,TRP,3.42
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),E,108,LEU,3.68
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),E,116,GLN,4.56
+9NX0,Alpha-conotoxin ImI,I,6,PRO,alpha7 nAChR (CHRNA7),E,118,LEU,3.08
+9NX0,Alpha-conotoxin ImI,I,7,ARG,alpha7 nAChR (CHRNA7),E,108,LEU,4.28
+9NX0,Alpha-conotoxin ImI,I,9,ALA,alpha7 nAChR (CHRNA7),E,114,HIS,4.83
+9NX0,Alpha-conotoxin ImI,I,9,ALA,alpha7 nAChR (CHRNA7),E,116,GLN,2.59
+9NX0,Alpha-conotoxin ImI,I,9,ALA,alpha7 nAChR (CHRNA7),E,118,LEU,2.94
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,75,LYS,3.81
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,76,THR,2.69
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,108,LEU,2.62
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,110,ASN,2.66
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,111,PRO,4.47
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,114,HIS,4.24
+9NX0,Alpha-conotoxin ImI,I,10,TRP,alpha7 nAChR (CHRNA7),E,116,GLN,3.1
+9NX0,Alpha-conotoxin ImI,J,1,GLY,alpha7 nAChR (CHRNA7),A,163,ASP,4.58
+9NX0,Alpha-conotoxin ImI,J,1,GLY,alpha7 nAChR (CHRNA7),A,165,SER,4.8
+9NX0,Alpha-conotoxin ImI,J,3,CYS,alpha7 nAChR (CHRNA7),A,56,GLN,3.11
+9NX0,Alpha-conotoxin ImI,J,3,CYS,alpha7 nAChR (CHRNA7),A,118,LEU,3.73
+9NX0,Alpha-conotoxin ImI,J,4,SER,alpha7 nAChR (CHRNA7),A,35,ASN,3.9
+9NX0,Alpha-conotoxin ImI,J,4,SER,alpha7 nAChR (CHRNA7),A,54,TRP,3.76
+9NX0,Alpha-conotoxin ImI,J,4,SER,alpha7 nAChR (CHRNA7),A,56,GLN,3.83
+9NX0,Alpha-conotoxin ImI,J,4,SER,alpha7 nAChR (CHRNA7),A,118,LEU,3.25
+9NX0,Alpha-conotoxin ImI,J,4,SER,alpha7 nAChR (CHRNA7),A,163,ASP,3.56
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),A,54,TRP,4.98
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),A,118,LEU,3.55
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),A,54,TRP,3.38
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),A,108,LEU,3.76
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),A,116,GLN,4.31
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),A,118,LEU,2.87
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),A,108,LEU,4.27
+9NX0,Alpha-conotoxin ImI,J,9,ALA,alpha7 nAChR (CHRNA7),A,114,HIS,4.72
+9NX0,Alpha-conotoxin ImI,J,9,ALA,alpha7 nAChR (CHRNA7),A,116,GLN,2.68
+9NX0,Alpha-conotoxin ImI,J,9,ALA,alpha7 nAChR (CHRNA7),A,118,LEU,2.98
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,75,LYS,3.95
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,76,THR,2.83
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,108,LEU,2.73
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,110,ASN,2.67
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,111,PRO,4.47
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,114,HIS,4.06
+9NX0,Alpha-conotoxin ImI,J,10,TRP,alpha7 nAChR (CHRNA7),A,116,GLN,3.01
+9NX0,Alpha-conotoxin ImI,J,1,GLY,alpha7 nAChR (CHRNA7),E,185,ARG,3.95
+9NX0,Alpha-conotoxin ImI,J,1,GLY,alpha7 nAChR (CHRNA7),E,187,TYR,3.04
+9NX0,Alpha-conotoxin ImI,J,2,CYS,alpha7 nAChR (CHRNA7),E,185,ARG,4.45
+9NX0,Alpha-conotoxin ImI,J,2,CYS,alpha7 nAChR (CHRNA7),E,187,TYR,3.0
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),E,92,TYR,3.7
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),E,185,ARG,3.55
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),E,187,TYR,2.26
+9NX0,Alpha-conotoxin ImI,J,5,ASP,alpha7 nAChR (CHRNA7),E,194,TYR,4.59
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),E,92,TYR,3.99
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),E,148,TRP,3.19
+9NX0,Alpha-conotoxin ImI,J,6,PRO,alpha7 nAChR (CHRNA7),E,149,SER,3.85
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,92,TYR,3.07
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,144,LYS,4.61
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,146,GLY,3.81
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,147,SER,2.82
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,148,TRP,3.1
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,149,SER,3.58
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,150,TYR,3.28
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,151,GLY,4.37
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,185,ARG,4.04
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,187,TYR,4.34
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,194,TYR,2.59
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,195,PRO,3.08
+9NX0,Alpha-conotoxin ImI,J,7,ARG,alpha7 nAChR (CHRNA7),E,196,ASP,4.18
+9NX0,Alpha-conotoxin ImI,J,8,CYS,alpha7 nAChR (CHRNA7),E,187,TYR,4.18
+9NX0,Alpha-conotoxin ImI,J,8,CYS,alpha7 nAChR (CHRNA7),E,194,TYR,3.57
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,187,TYR,4.25
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,189,CYS,3.15
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,190,CYS,2.29
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,191,LYS,3.47
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,192,GLU,2.9
+9NX0,Alpha-conotoxin ImI,J,11,ARG,alpha7 nAChR (CHRNA7),E,194,TYR,2.79
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),B,45,LYS,4.99
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),B,254,LEU,3.22
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),B,258,GLU,2.24
+9NX1,Alpha-conotoxin ImII,A,2,CYS,alpha7 nAChR (CHRNA7),B,254,LEU,3.48
+9NX1,Alpha-conotoxin ImII,A,2,CYS,alpha7 nAChR (CHRNA7),B,255,LEU,4.62
+9NX1,Alpha-conotoxin ImII,A,2,CYS,alpha7 nAChR (CHRNA7),B,258,GLU,2.2
+9NX1,Alpha-conotoxin ImII,A,3,CYS,alpha7 nAChR (CHRNA7),B,258,GLU,4.84
+9NX1,Alpha-conotoxin ImII,A,5,ASP,alpha7 nAChR (CHRNA7),B,254,LEU,3.31
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),B,247,LEU,4.25
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),B,251,VAL,3.53
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),B,254,LEU,4.74
+9NX1,Alpha-conotoxin ImII,A,11,ARG,alpha7 nAChR (CHRNA7),B,258,GLU,3.82
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),C,254,LEU,4.35
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),C,255,LEU,2.84
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),C,258,GLU,2.92
+9NX1,Alpha-conotoxin ImII,A,1,ALA,alpha7 nAChR (CHRNA7),C,259,ILE,5.0
+9NX1,Alpha-conotoxin ImII,A,3,CYS,alpha7 nAChR (CHRNA7),C,258,GLU,2.46
+9NX1,Alpha-conotoxin ImII,A,4,SER,alpha7 nAChR (CHRNA7),C,254,LEU,2.91
+9NX1,Alpha-conotoxin ImII,A,4,SER,alpha7 nAChR (CHRNA7),C,258,GLU,2.88
+9NX1,Alpha-conotoxin ImII,A,5,ASP,alpha7 nAChR (CHRNA7),C,251,VAL,4.65
+9NX1,Alpha-conotoxin ImII,A,5,ASP,alpha7 nAChR (CHRNA7),C,254,LEU,2.74
+9NX1,Alpha-conotoxin ImII,A,5,ASP,alpha7 nAChR (CHRNA7),C,258,GLU,4.59
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),C,247,LEU,2.82
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),C,251,VAL,2.95
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),C,254,LEU,4.72
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),C,251,VAL,4.57
+9NX1,Alpha-conotoxin ImII,A,12,CYS,alpha7 nAChR (CHRNA7),C,45,LYS,4.52
+9NX1,Alpha-conotoxin ImII,A,12,CYS,alpha7 nAChR (CHRNA7),C,46,ASN,4.84
+9NX1,Alpha-conotoxin ImII,A,12,CYS,alpha7 nAChR (CHRNA7),C,258,GLU,2.95
+9NX1,Alpha-conotoxin ImII,A,3,CYS,alpha7 nAChR (CHRNA7),D,258,GLU,3.95
+9NX1,Alpha-conotoxin ImII,A,4,SER,alpha7 nAChR (CHRNA7),D,254,LEU,2.96
+9NX1,Alpha-conotoxin ImII,A,4,SER,alpha7 nAChR (CHRNA7),D,255,LEU,3.51
+9NX1,Alpha-conotoxin ImII,A,4,SER,alpha7 nAChR (CHRNA7),D,258,GLU,2.8
+9NX1,Alpha-conotoxin ImII,A,5,ASP,alpha7 nAChR (CHRNA7),D,254,LEU,3.12
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),D,247,LEU,3.45
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),D,251,VAL,2.34
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),D,254,LEU,2.62
+9NX1,Alpha-conotoxin ImII,A,8,CYS,alpha7 nAChR (CHRNA7),D,258,GLU,4.49
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),D,254,LEU,2.13
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),D,258,GLU,2.47
+9NX1,Alpha-conotoxin ImII,A,10,TRP,alpha7 nAChR (CHRNA7),D,258,GLU,4.43
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),E,247,LEU,4.0
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),E,251,VAL,3.15
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),E,254,LEU,2.55
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),E,255,LEU,4.98
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),E,254,LEU,2.19
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),E,258,GLU,4.32
+9NX1,Alpha-conotoxin ImII,A,8,CYS,alpha7 nAChR (CHRNA7),E,254,LEU,4.31
+9NX1,Alpha-conotoxin ImII,A,8,CYS,alpha7 nAChR (CHRNA7),E,258,GLU,4.26
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),E,251,VAL,3.69
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),E,254,LEU,2.26
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),E,255,LEU,2.06
+9NX1,Alpha-conotoxin ImII,A,9,ARG,alpha7 nAChR (CHRNA7),E,258,GLU,2.16
+9NX1,Alpha-conotoxin ImII,A,10,TRP,alpha7 nAChR (CHRNA7),E,258,GLU,1.67
+9NX1,Alpha-conotoxin ImII,A,2,CYS,alpha7 nAChR (CHRNA7),F,254,LEU,4.44
+9NX1,Alpha-conotoxin ImII,A,2,CYS,alpha7 nAChR (CHRNA7),F,258,GLU,4.96
+9NX1,Alpha-conotoxin ImII,A,6,ARG,alpha7 nAChR (CHRNA7),F,247,LEU,4.98
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),F,247,LEU,4.91
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),F,251,VAL,2.26
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),F,254,LEU,2.15
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),F,255,LEU,4.4
+9NX1,Alpha-conotoxin ImII,A,7,ARG,alpha7 nAChR (CHRNA7),F,258,GLU,4.47
+9NX1,Alpha-conotoxin ImII,A,8,CYS,alpha7 nAChR (CHRNA7),F,254,LEU,4.96
+9NX1,Alpha-conotoxin ImII,A,8,CYS,alpha7 nAChR (CHRNA7),F,258,GLU,4.02
+9NX1,Alpha-conotoxin ImII,A,10,TRP,alpha7 nAChR (CHRNA7),F,258,GLU,4.22
+9NX1,Alpha-conotoxin ImII,A,11,ARG,alpha7 nAChR (CHRNA7),F,258,GLU,1.86
+6HY7,Alpha-conotoxin RgIA,B,1,GLY,alpha9 nAChR ECD (CHRNA9),A,192,TYR,3.59
+6HY7,Alpha-conotoxin RgIA,B,2,CYS,alpha9 nAChR ECD (CHRNA9),A,192,TYR,3.65
+6HY7,Alpha-conotoxin RgIA,B,2,CYS,alpha9 nAChR ECD (CHRNA9),A,303,EDO,2.96
+6HY7,Alpha-conotoxin RgIA,B,5,ASP,alpha9 nAChR ECD (CHRNA9),A,192,TYR,2.97
+6HY7,Alpha-conotoxin RgIA,B,5,ASP,alpha9 nAChR ECD (CHRNA9),A,199,TYR,4.11
+6HY7,Alpha-conotoxin RgIA,B,6,PRO,alpha9 nAChR ECD (CHRNA9),A,151,TRP,3.58
+6HY7,Alpha-conotoxin RgIA,B,6,PRO,alpha9 nAChR ECD (CHRNA9),A,152,THR,4.79
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,95,TYR,3.01
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,149,GLY,4.98
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,150,SER,3.21
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,151,TRP,3.69
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,152,THR,3.79
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,153,TYR,3.27
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,154,ASN,4.7
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,192,TYR,4.76
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,199,TYR,3.4
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,200,PRO,2.76
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,201,ASP,4.63
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,409,HOH,3.19
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,411,HOH,4.63
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,414,HOH,3.11
+6HY7,Alpha-conotoxin RgIA,B,7,ARG,alpha9 nAChR ECD (CHRNA9),A,415,HOH,3.08
+6HY7,Alpha-conotoxin RgIA,B,8,CYS,alpha9 nAChR ECD (CHRNA9),A,192,TYR,4.37
+6HY7,Alpha-conotoxin RgIA,B,8,CYS,alpha9 nAChR ECD (CHRNA9),A,197,GLU,3.99
+6HY7,Alpha-conotoxin RgIA,B,8,CYS,alpha9 nAChR ECD (CHRNA9),A,199,TYR,3.25
+6HY7,Alpha-conotoxin RgIA,B,8,CYS,alpha9 nAChR ECD (CHRNA9),A,303,EDO,3.29
+6HY7,Alpha-conotoxin RgIA,B,8,CYS,alpha9 nAChR ECD (CHRNA9),A,414,HOH,4.61
+6HY7,Alpha-conotoxin RgIA,B,9,ARG,alpha9 nAChR ECD (CHRNA9),A,151,TRP,4.52
+6HY7,Alpha-conotoxin RgIA,B,11,ARG,alpha9 nAChR ECD (CHRNA9),A,154,ASN,4.98
+6HY7,Alpha-conotoxin RgIA,B,11,ARG,alpha9 nAChR ECD (CHRNA9),A,197,GLU,2.8
+6HY7,Alpha-conotoxin RgIA,B,11,ARG,alpha9 nAChR ECD (CHRNA9),A,199,TYR,4.36
+6HY7,Alpha-conotoxin RgIA,B,11,ARG,alpha9 nAChR ECD (CHRNA9),A,303,EDO,4.52
+6HY7,Alpha-conotoxin RgIA,B,11,ARG,alpha9 nAChR ECD (CHRNA9),A,414,HOH,3.44
+6HY7,Alpha-conotoxin RgIA,B,101,HOH,alpha9 nAChR ECD (CHRNA9),A,197,GLU,4.19
+6HY7,Alpha-conotoxin RgIA,B,102,HOH,alpha9 nAChR ECD (CHRNA9),A,151,TRP,4.92
+6HY7,Alpha-conotoxin RgIA,B,102,HOH,alpha9 nAChR ECD (CHRNA9),A,152,THR,3.42
+25II,Iota-conotoxin RXIA,D,1,GLY,NaV1.6 (SCN8A),A,1544,ASP,2.94
+25II,Iota-conotoxin RXIA,D,1,GLY,NaV1.6 (SCN8A),A,1545,THR,3.98
+25II,Iota-conotoxin RXIA,D,1,GLY,NaV1.6 (SCN8A),A,1546,GLN,3.02
+25II,Iota-conotoxin RXIA,D,1,GLY,NaV1.6 (SCN8A),A,1551,GLU,3.85
+25II,Iota-conotoxin RXIA,D,2,HYP,NaV1.6 (SCN8A),A,1545,THR,4.02
+25II,Iota-conotoxin RXIA,D,3,SER,NaV1.6 (SCN8A),A,1545,THR,4.18
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,278,ARG,3.82
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,306,ILE,4.35
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,307,ASN,3.51
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,341,LYS,3.35
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,342,ALA,4.13
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,343,GLY,4.05
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,1545,THR,4.58
+25II,Iota-conotoxin RXIA,D,4,PHE,NaV1.6 (SCN8A),A,2106,HOH,4.2
+25II,Iota-conotoxin RXIA,D,6,LYS,NaV1.6 (SCN8A),A,294,GLU,4.57
+25II,Iota-conotoxin RXIA,D,6,LYS,NaV1.6 (SCN8A),A,307,ASN,3.92
+25II,Iota-conotoxin RXIA,D,10,LYS,NaV1.6 (SCN8A),A,294,GLU,3.37
+25II,Iota-conotoxin RXIA,D,10,LYS,NaV1.6 (SCN8A),A,304,GLU,4.14
+25II,Iota-conotoxin RXIA,D,11,HYP,NaV1.6 (SCN8A),A,294,GLU,3.96
+25II,Iota-conotoxin RXIA,D,13,GLU,NaV1.6 (SCN8A),A,309,LYS,4.45
+25II,Iota-conotoxin RXIA,D,13,GLU,NaV1.6 (SCN8A),A,344,ARG,4.29
+25II,Iota-conotoxin RXIA,D,13,GLU,NaV1.6 (SCN8A),A,907,LYS,3.49
+25II,Iota-conotoxin RXIA,D,13,GLU,NaV1.6 (SCN8A),A,946,GLU,4.66
+25II,Iota-conotoxin RXIA,D,14,TYR,NaV1.6 (SCN8A),A,344,ARG,3.65
+25II,Iota-conotoxin RXIA,D,14,TYR,NaV1.6 (SCN8A),A,348,TYR,3.45
+25II,Iota-conotoxin RXIA,D,14,TYR,NaV1.6 (SCN8A),A,907,LYS,3.01
+25II,Iota-conotoxin RXIA,D,14,TYR,NaV1.6 (SCN8A),A,946,GLU,3.31
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,350,TYR,4.46
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,907,LYS,4.03
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,945,MET,4.3
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,946,GLU,3.73
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,948,ALA,4.95
+25II,Iota-conotoxin RXIA,D,15,HIS,NaV1.6 (SCN8A),A,950,GLN,3.35
+25II,Iota-conotoxin RXIA,D,16,ALA,NaV1.6 (SCN8A),A,344,ARG,3.88
+25II,Iota-conotoxin RXIA,D,16,ALA,NaV1.6 (SCN8A),A,348,TYR,3.42
+25II,Iota-conotoxin RXIA,D,16,ALA,NaV1.6 (SCN8A),A,349,GLY,4.04
+25II,Iota-conotoxin RXIA,D,16,ALA,NaV1.6 (SCN8A),A,2010,PCW,4.99
+25II,Iota-conotoxin RXIA,D,17,ASP,NaV1.6 (SCN8A),A,344,ARG,2.73
+25II,Iota-conotoxin RXIA,D,22,CYS,NaV1.6 (SCN8A),A,907,LYS,4.94
+25II,Iota-conotoxin RXIA,D,35,LEU,NaV1.6 (SCN8A),A,951,ALA,4.1
+25II,Iota-conotoxin RXIA,D,35,LEU,NaV1.6 (SCN8A),A,952,MET,3.86
+25II,Iota-conotoxin RXIA,D,35,LEU,NaV1.6 (SCN8A),A,955,ILE,4.24
+25II,Iota-conotoxin RXIA,D,35,LEU,NaV1.6 (SCN8A),A,2010,PCW,4.02
+25II,Iota-conotoxin RXIA,D,36,PRO,NaV1.6 (SCN8A),A,951,ALA,3.33
+25II,Iota-conotoxin RXIA,D,36,PRO,NaV1.6 (SCN8A),A,2010,PCW,4.13
+25II,Iota-conotoxin RXIA,D,37,GLY,NaV1.6 (SCN8A),A,950,GLN,3.96
+25II,Iota-conotoxin RXIA,D,37,GLY,NaV1.6 (SCN8A),A,2010,PCW,3.62
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,945,MET,5.0
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,948,ALA,4.22
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,949,GLY,3.56
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,950,GLN,2.85
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,951,ALA,4.72
+25II,Iota-conotoxin RXIA,D,38,CYS,NaV1.6 (SCN8A),A,2010,PCW,5.0
+25II,Iota-conotoxin RXIA,D,39,SER,NaV1.6 (SCN8A),A,948,ALA,4.39
+25II,Iota-conotoxin RXIA,D,39,SER,NaV1.6 (SCN8A),A,949,GLY,3.91
+25II,Iota-conotoxin RXIA,D,39,SER,NaV1.6 (SCN8A),A,950,GLN,4.85
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,904,CYS,3.49
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,907,LYS,4.79
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,946,GLU,4.24
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,947,VAL,3.03
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,948,ALA,4.32
+25II,Iota-conotoxin RXIA,D,40,THR,NaV1.6 (SCN8A),A,949,GLY,4.82
+25II,Iota-conotoxin RXIA,D,42,SER,NaV1.6 (SCN8A),A,903,GLU,3.28
+25II,Iota-conotoxin RXIA,D,42,SER,NaV1.6 (SCN8A),A,904,CYS,3.94
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,217,SER,4.5
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,896,LEU,3.45
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,897,PHE,3.94
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,900,SER,3.73
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,948,ALA,3.89
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,949,GLY,3.62
+25II,Iota-conotoxin RXIA,D,43,PHE,NaV1.6 (SCN8A),A,952,MET,4.14
+25II,Iota-conotoxin RXIA,D,44,DPN,NaV1.6 (SCN8A),A,216,VAL,3.7
+25II,Iota-conotoxin RXIA,D,44,DPN,NaV1.6 (SCN8A),A,217,SER,3.78
+25II,Iota-conotoxin RXIA,D,44,DPN,NaV1.6 (SCN8A),A,218,ALA,3.86
+25II,Iota-conotoxin RXIA,D,44,DPN,NaV1.6 (SCN8A),A,896,LEU,4.54
+25II,Iota-conotoxin RXIA,D,44,DPN,NaV1.6 (SCN8A),A,952,MET,4.29
+25II,Iota-conotoxin RXIA,D,45,LYS,NaV1.6 (SCN8A),A,216,VAL,4.37
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,215,ASN,4.19
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,216,VAL,3.91
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,217,SER,3.03
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,220,ARG,3.37
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,899,LYS,3.62
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,900,SER,4.28
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,903,GLU,3.74
+25II,Iota-conotoxin RXIA,D,46,ILE,NaV1.6 (SCN8A),A,2116,HOH,4.51
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,218,ALA,4.31
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,221,THR,3.73
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,222,PHE,4.36
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,225,LEU,3.28
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,228,LEU,4.21
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,885,ILE,4.01
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,888,ILE,4.01
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,889,PHE,3.64
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,892,VAL,4.12
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,896,LEU,4.01
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,952,MET,3.27
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,955,ILE,3.75
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,956,VAL,3.5
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,959,MET,3.6
+25II,Iota-conotoxin RXIA,D,101,PCW,NaV1.6 (SCN8A),A,963,ILE,4.18
+25II,Iota-conotoxin RXIA,D,201,HOH,NaV1.6 (SCN8A),A,217,SER,2.75
+25II,Iota-conotoxin RXIA,D,201,HOH,NaV1.6 (SCN8A),A,896,LEU,4.59
+25II,Iota-conotoxin RXIA,D,201,HOH,NaV1.6 (SCN8A),A,900,SER,4.48
+25II,Iota-conotoxin RXIA,D,201,HOH,NaV1.6 (SCN8A),A,2116,HOH,4.28
+25II,Iota-conotoxin RXIA,D,202,HOH,NaV1.6 (SCN8A),A,904,CYS,4.75
+25II,Iota-conotoxin RXIA,D,203,HOH,NaV1.6 (SCN8A),A,2010,PCW,2.89
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,81,ARG,3.64
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,84,TYR,4.54
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,85,LEU,3.42
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,88,LYS,3.56
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,310,ASP,4.56
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,314,GLN,4.47
+9K6X,conotoxin AoIA,C,1,ARG,NET (SLC6A2),A,382,GLU,2.7
+9K6X,conotoxin AoIA,C,2,CYS,NET (SLC6A2),A,544,THR,4.28
+9K6X,conotoxin AoIA,C,3,CYS,NET (SLC6A2),A,81,ARG,4.22
+9K6X,conotoxin AoIA,C,3,CYS,NET (SLC6A2),A,382,GLU,3.66
+9K6X,conotoxin AoIA,C,3,CYS,NET (SLC6A2),A,474,THR,4.68
+9K6X,conotoxin AoIA,C,4,GLY,NET (SLC6A2),A,81,ARG,3.21
+9K6X,conotoxin AoIA,C,4,GLY,NET (SLC6A2),A,317,PHE,4.29
+9K6X,conotoxin AoIA,C,4,GLY,NET (SLC6A2),A,473,ASP,3.25
+9K6X,conotoxin AoIA,C,4,GLY,NET (SLC6A2),A,474,THR,3.98
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,81,ARG,2.82
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,148,VAL,3.57
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,151,TYR,3.94
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,317,PHE,3.53
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,323,PHE,3.52
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,473,ASP,2.76
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,474,THR,4.8
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,477,ALA,3.5
+9K6X,conotoxin AoIA,C,5,TYR,NET (SLC6A2),A,478,GLY,4.98
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,75,ASP,3.33
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,77,ALA,4.59
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,80,TRP,3.11
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,81,ARG,3.15
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,148,VAL,4.83
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,151,TYR,4.3
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,152,TYR,3.18
+9K6X,conotoxin AoIA,C,6,LYS,NET (SLC6A2),A,473,ASP,2.63
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,80,TRP,4.18
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,81,ARG,2.72
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,155,ILE,3.52
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,158,TRP,3.88
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,214,TYR,4.74
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,383,GLY,4.83
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,384,ALA,4.7
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,466,ILE,4.81
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,469,LEU,3.9
+9K6X,conotoxin AoIA,C,7,MET,NET (SLC6A2),A,473,ASP,2.79
+9K6X,conotoxin AoIA,C,8,CYS,NET (SLC6A2),A,81,ARG,3.4
+9K6X,conotoxin AoIA,C,8,CYS,NET (SLC6A2),A,382,GLU,3.32
+9K6X,conotoxin AoIA,C,8,CYS,NET (SLC6A2),A,383,GLY,4.69
+9K6X,conotoxin AoIA,C,8,CYS,NET (SLC6A2),A,384,ALA,4.95
+9K6X,conotoxin AoIA,C,9,HIS,NET (SLC6A2),A,470,THR,3.3
+9K6X,conotoxin AoIA,C,9,HIS,NET (SLC6A2),A,474,THR,3.81
+9K6X,conotoxin AoIA,C,9,HIS,NET (SLC6A2),A,543,LEU,3.56
+9K6X,conotoxin AoIA,C,9,HIS,NET (SLC6A2),A,544,THR,3.1
+9K6X,conotoxin AoIA,C,9,HIS,NET (SLC6A2),A,545,TYR,4.4
+9K6X,conotoxin AoIA,C,10,HYP,NET (SLC6A2),A,206,LYS,4.66
+9K6X,conotoxin AoIA,C,10,HYP,NET (SLC6A2),A,544,THR,4.09
+9K6X,conotoxin AoIA,C,10,HYP,NET (SLC6A2),A,545,TYR,3.03
+9K6X,conotoxin AoIA,C,10,HYP,NET (SLC6A2),A,546,ASP,2.91
+9K6X,conotoxin AoIA,C,11,CYS,NET (SLC6A2),A,544,THR,4.26
+9K6X,conotoxin AoIA,C,11,CYS,NET (SLC6A2),A,545,TYR,3.11
+9K6X,conotoxin AoIA,C,11,CYS,NET (SLC6A2),A,546,ASP,3.32
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,81,ARG,3.64
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,84,TYR,4.54
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,85,LEU,3.42
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,88,LYS,3.56
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,310,ASP,4.56
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,314,GLN,4.47
+9K6X,conotoxin AoIA,D,1,ARG,NET (SLC6A2),B,382,GLU,2.7
+9K6X,conotoxin AoIA,D,2,CYS,NET (SLC6A2),B,544,THR,4.28
+9K6X,conotoxin AoIA,D,3,CYS,NET (SLC6A2),B,81,ARG,4.22
+9K6X,conotoxin AoIA,D,3,CYS,NET (SLC6A2),B,382,GLU,3.66
+9K6X,conotoxin AoIA,D,3,CYS,NET (SLC6A2),B,474,THR,4.68
+9K6X,conotoxin AoIA,D,4,GLY,NET (SLC6A2),B,81,ARG,3.21
+9K6X,conotoxin AoIA,D,4,GLY,NET (SLC6A2),B,317,PHE,4.29
+9K6X,conotoxin AoIA,D,4,GLY,NET (SLC6A2),B,473,ASP,3.25
+9K6X,conotoxin AoIA,D,4,GLY,NET (SLC6A2),B,474,THR,3.98
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,81,ARG,2.82
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,148,VAL,3.57
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,151,TYR,3.94
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,317,PHE,3.53
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,323,PHE,3.52
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,473,ASP,2.76
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,474,THR,4.8
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,477,ALA,3.5
+9K6X,conotoxin AoIA,D,5,TYR,NET (SLC6A2),B,478,GLY,4.98
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,75,ASP,3.33
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,77,ALA,4.59
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,80,TRP,3.11
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,81,ARG,3.15
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,148,VAL,4.83
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,151,TYR,4.3
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,152,TYR,3.18
+9K6X,conotoxin AoIA,D,6,LYS,NET (SLC6A2),B,473,ASP,2.63
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,80,TRP,4.18
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,81,ARG,2.72
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,155,ILE,3.52
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,158,TRP,3.88
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,214,TYR,4.74
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,383,GLY,4.83
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,384,ALA,4.7
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,466,ILE,4.81
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,469,LEU,3.9
+9K6X,conotoxin AoIA,D,7,MET,NET (SLC6A2),B,473,ASP,2.79
+9K6X,conotoxin AoIA,D,8,CYS,NET (SLC6A2),B,81,ARG,3.4
+9K6X,conotoxin AoIA,D,8,CYS,NET (SLC6A2),B,382,GLU,3.32
+9K6X,conotoxin AoIA,D,8,CYS,NET (SLC6A2),B,383,GLY,4.69
+9K6X,conotoxin AoIA,D,8,CYS,NET (SLC6A2),B,384,ALA,4.95
+9K6X,conotoxin AoIA,D,9,HIS,NET (SLC6A2),B,470,THR,3.3
+9K6X,conotoxin AoIA,D,9,HIS,NET (SLC6A2),B,474,THR,3.81
+9K6X,conotoxin AoIA,D,9,HIS,NET (SLC6A2),B,543,LEU,3.56
+9K6X,conotoxin AoIA,D,9,HIS,NET (SLC6A2),B,544,THR,3.1
+9K6X,conotoxin AoIA,D,9,HIS,NET (SLC6A2),B,545,TYR,4.4
+9K6X,conotoxin AoIA,D,10,HYP,NET (SLC6A2),B,206,LYS,4.66
+9K6X,conotoxin AoIA,D,10,HYP,NET (SLC6A2),B,544,THR,4.09
+9K6X,conotoxin AoIA,D,10,HYP,NET (SLC6A2),B,545,TYR,3.03
+9K6X,conotoxin AoIA,D,10,HYP,NET (SLC6A2),B,546,ASP,2.91
+9K6X,conotoxin AoIA,D,11,CYS,NET (SLC6A2),B,544,THR,4.26
+9K6X,conotoxin AoIA,D,11,CYS,NET (SLC6A2),B,545,TYR,3.11
+9K6X,conotoxin AoIA,D,11,CYS,NET (SLC6A2),B,546,ASP,3.32

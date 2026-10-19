@@ -1,0 +1,10 @@
+pdb_id,chain,uniprot_file,offset,match_rate,n_compared,note
+6J8E,A,NaV1.2.fasta,0,1.0,1139,OK
+7VFU,A,CaV2.2.fasta,0,1.0,1266,OK
+7MIX,A,CaV2.2.fasta,0,1.0,1326,OK
+8X91,A,CaV2.1.fasta,0,1.0,1377,OK
+9NX0,A,a7nAChR.fasta,-23,0.9949,392,OK
+9NX1,B,a7nAChR.fasta,-23,1.0,391,OK
+6HY7,A,a9nAChR.fasta,-25,0.9952,210,OK
+25II,A,NaV1.6.fasta,0,1.0,1254,OK
+9K6X,A,NET.fasta,0,1.0,550,OK
